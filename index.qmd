@@ -53,7 +53,7 @@ Université Grenoble Alpes · School of Pharmacy
 Institute for Advanced Biosciences (IAB · UGA / Inserm / CNRS)
 
 **Scientific director — BioLIBS**  
-Hospital-based tissue elemental imaging platform
+Université Grenoble Alpes tissue elemental imaging platform, instrument installed at CHU Grenoble Alpes
 :::
 
 ::: {.g-col-12 .g-col-md-6 .home-card .role-card}
@@ -109,7 +109,7 @@ Laboratory medicine and point-of-care testing provide the clinical anchor for my
 
 ## BioLIBS — seeing the elemental composition of human tissues
 
-BioLIBS is a hospital-based platform dedicated to **multi-elemental tissue imaging by LIBS**, inaugurated at Grenoble Alpes University Hospital in December 2025. Its goal is to understand how metals, mineral particles and other chemical elements are distributed in tissues and how these signatures can inform research on environmental and occupational exposure, disease mechanisms and future diagnostic applications.
+BioLIBS is a **Université Grenoble Alpes platform** dedicated to multi-elemental tissue imaging by LIBS, with the instrument installed at **Grenoble Alpes University Hospital**. Inaugurated in December 2025, it is designed to investigate how metals, mineral particles and other chemical elements are distributed in tissues and how these signatures can inform research on environmental and occupational exposure, disease mechanisms and future diagnostic applications.
 
 [Discover BioLIBS →](biolibs.qmd){.btn .btn-primary}
 [UGA innovation platform profile](https://pole-universitaire-innovation.univ-grenoble-alpes.fr/plateforme-bio-libs-0){.btn .btn-outline-primary}
