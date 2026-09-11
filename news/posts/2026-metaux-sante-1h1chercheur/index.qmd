@@ -2,13 +2,31 @@
 title: "Métaux et santé : enquête au cœur de notre organisme"
 date: 2026-06-16
 description: "Discussion with the Fondation Université Grenoble Alpes on metals, environmental exposure, human tissues and the Metals & Health programme."
-categories: [Metals & Health, Outreach, Environmental Health, LIBS]
+categories: [Outreach, Elemental imaging]
 ---
 
-I was invited by the **Fondation Université Grenoble Alpes** for the programme *1 heure – 1 chercheur* to discuss the scientific, medical and societal questions behind the **Metals & Health** programme.
+J’ai eu le plaisir d’être invité par la **Fondation Université Grenoble Alpes** dans le cadre du programme *1 heure – 1 chercheur*, animé par César Ghaouti, directeur général de la Fondation UGA.
 
-The conversation focused on a central question: where do metallic particles that we inhale, ingest or touch end up in the body, and what can their distribution tell us about exposure and health?
+Cet entretien a été l’occasion de présenter les grands enjeux scientifiques, médicaux et sociétaux de la **Chaire Métaux & Santé** et d’aborder une question simple en apparence : **où se retrouvent les particules métalliques que nous respirons, ingérons ou touchons, et quel impact peuvent-elles avoir sur notre santé ?**
 
-The discussion also covered the contribution of **LIBS elemental imaging**, the patient-centred rationale of the programme, prevention, and the need for scientifically validated approaches to questions surrounding metals and health.
+## Des métaux partout autour de nous
+
+Les métaux sont présents dans l’alimentation, l’air, le tabac, de nombreuses activités professionnelles, les matériaux et implants médicaux, mais aussi dans des formes de pollution diffuse ou des expositions plus spécifiques.
+
+Certains sont indispensables au vivant — comme le fer, le zinc ou le cuivre — tandis que d’autres peuvent devenir toxiques selon leur forme chimique, leur concentration, la durée d’exposition ou le tissu dans lequel ils s’accumulent.
+
+## Voir où les éléments se déposent dans les tissus
+
+Une partie centrale de nos travaux consiste à utiliser l’**imagerie élémentaire par LIBS** pour cartographier directement les éléments chimiques dans les tissus biologiques. Cette approche permet de dépasser une mesure globale : elle donne accès à la localisation spatiale des éléments et peut ainsi être confrontée à l’histologie, à la pathologie et à l’histoire d’exposition.
+
+Cette question est particulièrement importante en santé environnementale et professionnelle, mais aussi pour l’étude des biomatériaux, des implants, des nanoparticules et de certaines pathologies inflammatoires ou tumorales.
+
+## De la mesure à l’interprétation clinique
+
+L’enjeu n’est pas seulement de détecter des métaux, mais de comprendre **ce que leur présence signifie** : exposition ancienne ou récente, signature d’un processus pathologique, accumulation physiologique, contamination, ou trace liée à un matériau médical.
+
+C’est cette articulation entre chimie analytique, pathologie, environnement et médecine qui structure le programme **Métaux & Santé**.
 
 [Watch the replay](https://www.youtube.com/live/VWX8OFKnjWo)
+
+*This post preserves and expands the content of the original website entry.*
