@@ -1,4 +1,14 @@
-/* Minimal custom layer. Keep visual changes here so content files remain simple. */
+/* Visual layer for the website.
+   Routine content updates should normally be made in the .qmd files, not here. */
+
+:root {
+  --site-blue: #174a73;
+  --site-blue-dark: #113652;
+  --site-ink: #20262c;
+  --site-muted: #5d6872;
+  --site-line: #dfe5ea;
+  --site-soft: #f6f8fa;
+}
 
 .navbar-brand {
   font-weight: 700;
@@ -8,11 +18,85 @@ h1, h2, h3 {
   letter-spacing: -0.02em;
 }
 
-.quarto-title-banner {
-  padding-top: 2.5rem;
-  padding-bottom: 2rem;
+main.content {
+  max-width: 1180px;
 }
 
-main.content {
-  max-width: 1100px;
+.home-hero {
+  margin: 0 0 3rem 0;
+  padding: 4.5rem 4rem;
+  border-radius: 1.25rem;
+  background: linear-gradient(135deg, #f4f8fb 0%, #ffffff 55%, #eef4f8 100%);
+  border: 1px solid var(--site-line);
+}
+
+.home-hero h1 {
+  margin-top: 0;
+  margin-bottom: 0.55rem;
+  font-size: clamp(2.5rem, 5vw, 4.6rem);
+  font-weight: 750;
+  color: var(--site-ink);
+}
+
+.home-hero h2 {
+  margin-top: 0;
+  margin-bottom: 1.2rem;
+  font-size: clamp(1.25rem, 2.4vw, 1.8rem);
+  font-weight: 500;
+  color: var(--site-blue-dark);
+}
+
+.home-hero p {
+  max-width: 850px;
+  font-size: 1.08rem;
+  line-height: 1.7;
+  color: var(--site-muted);
+}
+
+.home-hero .btn {
+  margin-top: 0.6rem;
+  margin-right: 0.45rem;
+}
+
+.home-grid {
+  margin-top: 1.2rem;
+  margin-bottom: 3rem;
+}
+
+.home-card {
+  padding: 1.6rem 1.5rem;
+  border: 1px solid var(--site-line);
+  border-radius: 1rem;
+  background: #ffffff;
+  box-shadow: 0 8px 24px rgba(20, 42, 60, 0.05);
+}
+
+.home-card h3 {
+  margin-top: 0;
+  color: var(--site-blue-dark);
+}
+
+.home-card p:last-child {
+  margin-bottom: 0;
+}
+
+.btn-primary {
+  background-color: var(--site-blue);
+  border-color: var(--site-blue);
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: var(--site-blue-dark);
+  border-color: var(--site-blue-dark);
+}
+
+@media (max-width: 767px) {
+  .home-hero {
+    padding: 2.5rem 1.5rem;
+  }
+
+  .home-card {
+    margin-bottom: 0.5rem;
+  }
 }
