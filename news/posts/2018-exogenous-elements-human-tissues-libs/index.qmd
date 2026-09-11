@@ -1,0 +1,12 @@
+---
+title: "Exogenous elements in human tissues with LIBS"
+date: 2018-05-15
+description: "A study demonstrating in situ multi-elemental imaging of foreign materials in paraffin-embedded human pathological specimens using LIBS."
+categories: [Publication, LIBS, Elemental Imaging, Pathology]
+---
+
+This work described an approach for detecting and imaging **exogenous elements in paraffin-embedded human tissues** using LIBS, with direct relevance to pathology and exposure assessment.
+
+Published in *Modern Pathology* (2018). DOI: [10.1038/modpathol.2017.152](https://doi.org/10.1038/modpathol.2017.152).
+
+*Archive migrated from the previous website.*
