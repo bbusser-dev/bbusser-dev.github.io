@@ -1,0 +1,12 @@
+---
+title: "The Evolving Role of Chemometrics in LIBS Imaging: A Scholarly Exploration"
+date: 2023-10-04
+description: "Discussion of the growing role of chemometrics and multivariate analysis in large LIBS imaging datasets."
+categories: [LIBS, Chemometrics, Data Analysis, Elemental Imaging]
+---
+
+LIBS imaging increasingly generates very large hyperspectral datasets. This note discussed why **chemometrics and multivariate analysis** are becoming central to extracting robust, interpretable information from those data.
+
+The discussion was linked to the 2023 *Analytical Chemistry* review on LIBS imaging and its future methodological directions.
+
+*Archive migrated from the previous website.*
