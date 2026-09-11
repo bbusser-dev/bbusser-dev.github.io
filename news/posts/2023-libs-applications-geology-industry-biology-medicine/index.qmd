@@ -1,0 +1,12 @@
+---
+title: "LIBS applications for Geology - Industry - Biology and Medicine"
+date: 2023-01-16
+description: "Follow-up note on the 2023 Analytical Chemistry review covering LIBS imaging across geology, industry, biology and medicine."
+categories: [Publication, LIBS, Elemental Imaging]
+---
+
+A follow-up note accompanying the 2023 *Analytical Chemistry* review on **LIBS imaging across geology, industry, biology and medicine**.
+
+DOI: [10.1021/acs.analchem.2c04910](https://doi.org/10.1021/acs.analchem.2c04910).
+
+*Archive migrated from the previous website.*
