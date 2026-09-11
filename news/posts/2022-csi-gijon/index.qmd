@@ -1,0 +1,10 @@
+---
+title: "Don't miss our invited Talk @CSI 2022 in Gijon, Spain !"
+date: 2022-05-13
+description: "Invited talk at CSI 2022 in Gijon on LIBS imaging and biomedical applications."
+categories: [Scientific Event, LIBS, Elemental Imaging]
+---
+
+Invited talk at the **Colloquium Spectroscopicum Internationale (CSI 2022)** in Gijon, Spain, presenting advances in LIBS imaging and biomedical applications.
+
+*Archive migrated from the previous website.*
