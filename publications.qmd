@@ -5,12 +5,12 @@ toc: false
 
 The publication list below is synchronized automatically from **OpenAlex** using my ORCID identifier. The site checks for updates every week, so newly indexed papers and citation counts can appear without manual editing.
 
+[Google Scholar](https://scholar.google.com/citations?user=e_RbDdUAAAAJ&hl=fr){.btn .btn-primary}
 [ORCID](https://orcid.org/0000-0002-9425-1577){.btn .btn-outline-primary}
 [HAL](https://cv.hal.science/benoit-busser){.btn .btn-outline-primary}
-[Google Scholar search](https://scholar.google.com/scholar?q=%22Benoit+Busser%22){.btn .btn-outline-secondary}
 
 ::: {.publication-note}
-**Data source.** OpenAlex is an open scholarly index. Metadata can occasionally require correction or lag behind the publisher record; DOI links remain the preferred route to the final publication.
+**Data source.** OpenAlex is an open scholarly index used here for automated synchronization. Google Scholar remains available as the complementary public profile; metadata and citation counts may differ between services.
 :::
 
 {{< include generated/publications.md >}}
