@@ -1,0 +1,10 @@
+---
+title: "Development of digital PCR molecular tests for clinical practice: principles, recommendations"
+date: 2018-09-19
+description: "Review and recommendations on implementing digital PCR molecular tests in clinical laboratory practice."
+categories: [Publication, Clinical Biochemistry, Molecular Diagnostics]
+---
+
+A collaborative review from the French clinical biology community on the principles, validation and implementation of **digital PCR** assays in clinical practice.
+
+*Archive migrated from the previous website.*
