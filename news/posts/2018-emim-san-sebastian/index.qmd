@@ -1,0 +1,10 @@
+---
+title: "EMIM 18 - San Sebastian, Spain"
+date: 2018-03-26
+description: "Oral communication on in situ multi-elemental imaging of human specimens by laser spectrometry at EMIM 2018."
+categories: [Scientific Event, LIBS, Elemental Imaging]
+---
+
+Presentation at **EMIM 2018 in San Sebastian** on in situ multi-elemental imaging of human specimens by laser spectrometry and its potential for biomedical and pathological applications.
+
+*Archive migrated from the previous website.*
