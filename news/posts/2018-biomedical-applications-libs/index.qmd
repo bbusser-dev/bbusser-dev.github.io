@@ -1,0 +1,12 @@
+---
+title: "The biomedical applications of multi-elemental imaging with LIBS"
+date: 2018-07-18
+description: "Review of LIBS elemental imaging for biological and medical applications."
+categories: [Publication, LIBS, Elemental Imaging, Review]
+---
+
+This review discussed the emerging biomedical applications of **multi-elemental LIBS imaging**, including the visualization of endogenous and exogenous elements in biological tissues.
+
+Published in *Coordination Chemistry Reviews* (2018). DOI: [10.1016/j.ccr.2017.12.006](https://doi.org/10.1016/j.ccr.2017.12.006).
+
+*Archive migrated from the previous website.*
