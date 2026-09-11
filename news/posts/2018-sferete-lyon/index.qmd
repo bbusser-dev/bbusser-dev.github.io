@@ -1,0 +1,10 @@
+---
+title: "Don't miss my lecture @SFERETE Scientific meeting 2018 in Lyon"
+date: 2018-10-27
+description: "Lecture on in situ multi-elemental imaging at the SFERETE scientific meeting in Lyon."
+categories: [Scientific Event, LIBS, Elemental Imaging]
+---
+
+Lecture at the **SFERETE scientific meeting in Lyon**, in a programme addressing cancer, metals, vitamins and inorganic elements, with a presentation on in situ multi-elemental imaging.
+
+*Archive migrated from the previous website.*
