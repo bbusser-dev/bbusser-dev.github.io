@@ -6,7 +6,6 @@ website:
   site-url: "https://bbusser-dev.github.io"
   description: "Academic website of Benoit Busser — biochemistry, cancer sciences, elemental imaging, metals and health."
   navbar:
-    background: light
     left:
       - href: index.qmd
         text: Home
