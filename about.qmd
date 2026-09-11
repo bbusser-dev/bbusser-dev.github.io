@@ -25,7 +25,7 @@ This programme brings together analytical chemistry, pathology, occupational and
 
 ## BioLIBS and elemental pathology
 
-I am scientific director of **BioLIBS**, a hospital-based platform dedicated to multi-element tissue imaging by laser-induced breakdown spectroscopy (LIBS). The platform develops workflows for archived and fresh biological tissues, with applications ranging from lung exposure and inflammatory diseases to cancer and biomaterials.
+I am scientific director of **BioLIBS**, a **Université Grenoble Alpes platform** dedicated to multi-element tissue imaging by laser-induced breakdown spectroscopy (LIBS), with the instrument installed at **Grenoble Alpes University Hospital**. The platform develops workflows for archived and fresh biological tissues, with applications ranging from lung exposure and inflammatory diseases to cancer and biomaterials.
 
 A central objective is to help establish **elemental pathology** as a translational field: moving from chemical maps of tissues toward interpretable information that can complement conventional pathology and clinical data.
 
