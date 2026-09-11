@@ -1,0 +1,10 @@
+---
+title: "Read our latest work: The pyrrolopyrimidine colchicine-binding site agent PP-13 reduces metastasis"
+date: 2018-12-11
+description: "Research on the anti-metastatic effects of the pyrrolopyrimidine colchicine-binding site agent PP-13."
+categories: [Publication, Cancer Research, Therapeutics]
+---
+
+This research investigated **PP-13**, a pyrrolopyrimidine compound targeting the colchicine-binding site of tubulin, and its effects on tumour progression and metastasis.
+
+*Archive migrated from the previous website.*
