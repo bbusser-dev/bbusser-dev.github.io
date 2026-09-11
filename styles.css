@@ -1,0 +1,18 @@
+/* Minimal custom layer. Keep visual changes here so content files remain simple. */
+
+.navbar-brand {
+  font-weight: 700;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}
+
+.quarto-title-banner {
+  padding-top: 2.5rem;
+  padding-bottom: 2rem;
+}
+
+main.content {
+  max-width: 1100px;
+}
