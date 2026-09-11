@@ -1,0 +1,42 @@
+---
+title: "BioLIBS"
+description: "Hospital-based multi-elemental tissue imaging by laser-induced breakdown spectroscopy (LIBS) at Grenoble Alpes University Hospital."
+toc: true
+---
+
+# BioLIBS
+
+## Multi-elemental imaging of human tissues
+
+BioLIBS is a hospital-based platform dedicated to **multi-elemental tissue imaging by laser-induced breakdown spectroscopy (LIBS)**. Inaugurated at Grenoble Alpes University Hospital in December 2025, the platform is integrated within the Grenoble academic and hospital ecosystem through **Université Grenoble Alpes**, **CHU Grenoble Alpes** and the **Institute for Advanced Biosciences (IAB — UGA / Inserm / CNRS)**.
+
+The platform is designed to map the spatial distribution of chemical elements directly in biological tissues. This makes it possible to investigate both endogenous elemental biology and exogenous signatures associated with environmental, occupational or medical exposures.
+
+## Scientific questions
+
+BioLIBS is used to address questions such as:
+
+- Where are metals, mineral particles and other chemical elements located within a tissue?
+- Can an elemental signature support the investigation of past occupational or environmental exposure?
+- How do elemental distributions relate to pathology, inflammation, cancer or biomaterials?
+- Can tissue elemental imaging contribute to future diagnostic or exposomic approaches?
+
+## Translational approach
+
+The platform combines analytical development with pathology and clinical research. Current applications span respiratory disease, occupational and environmental health, oncology, dermatology, rare disease and biomaterials.
+
+A central objective is to move from **element detection** to **clinically interpretable spatial information**, while developing robust workflows for tissue preparation, imaging, quantification and data analysis.
+
+## Institutional information
+
+[UGA — BioLIBS inauguration and overview](https://www.univ-grenoble-alpes.fr/actualites/a-la-une/actualites-recherche/biolibs-une-nouvelle-ere-pour-l-imagerie-elementaire-inauguree-au-chu-grenoble-alpes-1682942.kjsp)
+
+[CHU Grenoble Alpes — multi-elemental LIBS platform](https://www.chu-grenoble.fr/actualites/la-plateforme-dimagerie-multi-elementaire-libs-inauguree)
+
+[IAB — Benoit Busser profile](https://iab-grenoble.fr/fr/recherche/equipe/fiche/benoit-busser)
+
+## Collaborations
+
+BioLIBS is open to collaborative projects involving tissue elemental imaging, exposure assessment, pathology and translational biomedical research.
+
+[Contact](contact.qmd){.btn .btn-primary}
