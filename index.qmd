@@ -10,6 +10,8 @@ The visual appearance is controlled by styles.css.
 -->
 
 ::: {.home-hero}
+:::: {.grid .align-items-center}
+::: {.g-col-12 .g-col-lg-8 .home-hero-copy}
 <div class="home-kicker">Professor · Medical biochemist · Research group leader</div>
 
 # Benoit Busser, PharmD, PhD
@@ -23,6 +25,12 @@ I develop translational research at the interface of **clinical biochemistry, pa
 [Publications](publications.qmd){.btn .btn-outline-secondary .btn-lg}
 
 <div class="profile-links">[ORCID](https://orcid.org/0000-0002-9425-1577) · [HAL](https://cv.hal.science/benoit-busser) · [LinkedIn](https://fr.linkedin.com/in/bbusser) · [IAB profile](https://iab-grenoble.fr/fr/recherche/equipe/fiche/benoit-busser) · [IUF profile](https://www.iufrance.fr/les-membres-de-liuf/membre/2218-benoit-busser.html)</div>
+:::
+
+::: {.g-col-12 .g-col-lg-4 .home-portrait-wrap}
+<img src="images/benoit-busser.jpg" class="home-portrait" alt="Portrait of Benoit Busser">
+:::
+::::
 :::
 
 ## Current roles
@@ -97,7 +105,7 @@ Laboratory medicine and point-of-care testing provide the clinical anchor for my
 BioLIBS is a hospital-based platform dedicated to **multi-elemental tissue imaging by LIBS**, inaugurated at Grenoble Alpes University Hospital in December 2025. Its goal is to understand how metals, mineral particles and other chemical elements are distributed in tissues and how these signatures can inform research on environmental and occupational exposure, disease mechanisms and future diagnostic applications.
 
 [Discover BioLIBS →](biolibs.qmd){.btn .btn-primary}
-[UGA institutional feature](https://www.univ-grenoble-alpes.fr/actualites/a-la-une/actualites-recherche/biolibs-une-nouvelle-ere-pour-l-imagerie-elementaire-inauguree-au-chu-grenoble-alpes-1682942.kjsp){.btn .btn-outline-primary}
+[UGA innovation platform profile](https://pole-universitaire-innovation.univ-grenoble-alpes.fr/plateforme-bio-libs-0){.btn .btn-outline-primary}
 :::
 
 ## From tissue chemistry to clinical questions
