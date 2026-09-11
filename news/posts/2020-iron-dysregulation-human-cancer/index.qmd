@@ -2,13 +2,26 @@
 title: "Just Published ! Read our review \"Iron Dysregulation in Human Cancer\""
 date: 2020-11-26
 description: "Review of iron metabolism in cancer, including biomarkers, prognosis, monitoring and therapeutic rationale."
-categories: [Publication, Cancer Research, Metals, Review]
+categories: [Publications, Cancer & nanomedicine]
 ---
 
-Publication of the review **“Iron Dysregulation in Human Cancer: Altered Metabolism, Biomarkers for Diagnosis, Prognosis, Monitoring and Rationale for Therapy”** in *Cancers*.
+I am happy to announce the publication of our review **“Iron Dysregulation in Human Cancer: Altered Metabolism, Biomarkers for Diagnosis, Prognosis, Monitoring and Rationale for Therapy”** in *Cancers*.
 
-The article examines the role of iron metabolism in tumour biology and its potential clinical implications.
+## Article details
 
-DOI: [10.3390/cancers12123524](https://doi.org/10.3390/cancers12123524).
+P. Lelièvre, L. Sancey, J.-L. Coll, A. Deniaud and B. Busser  
+*Cancers*, 2020, 12, 3524
 
-*Archive migrated from the previous website.*
+[DOI: 10.3390/cancers12123524](https://doi.org/10.3390/cancers12123524)
+
+## Why iron matters in cancer
+
+Iron is the most abundant metal ion in the human body and is essential to fundamental cellular processes including metabolism and DNA synthesis. These functions are particularly important in proliferating cells, which helps explain why iron homeostasis is frequently altered in tumours.
+
+The review examines the mechanisms underlying **iron dysregulation in cancer**, the relationship between iron metabolism and tumour biology, and the potential use of iron-related markers for **diagnosis, prognosis and disease monitoring**.
+
+It also discusses why altered iron handling may create therapeutic vulnerabilities and provide a rationale for treatment strategies targeting iron metabolism.
+
+This topic sits directly at the interface between **metals, cell biology and cancer medicine**, an area that has remained central to our translational research.
+
+*Archive reconstructed from the original website and the published article.*
