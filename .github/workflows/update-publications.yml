@@ -37,7 +37,7 @@ jobs:
 
       - name: Commit updates if needed
         run: |
-          if git diff --quiet -- generated/publications.md data/openalex_publications.json; then
+          if [ -z "$(git status --porcelain -- generated/publications.md data/openalex_publications.json)" ]; then
             echo "No publication changes detected."
             exit 0
           fi
