@@ -24,7 +24,7 @@ I develop translational research at the interface of **clinical biochemistry, pa
 [BioLIBS](biolibs.qmd){.btn .btn-outline-primary .btn-lg}
 [Publications](publications.qmd){.btn .btn-outline-secondary .btn-lg}
 
-<div class="profile-links">[ORCID](https://orcid.org/0000-0002-9425-1577) · [HAL](https://cv.hal.science/benoit-busser) · [LinkedIn](https://fr.linkedin.com/in/bbusser) · [IAB profile](https://iab-grenoble.fr/fr/recherche/equipe/fiche/benoit-busser) · [IUF profile](https://www.iufrance.fr/les-membres-de-liuf/membre/2218-benoit-busser.html)</div>
+<div class="profile-links">[Google Scholar](https://scholar.google.com/citations?user=e_RbDdUAAAAJ&hl=fr) · [ORCID](https://orcid.org/0000-0002-9425-1577) · [HAL](https://cv.hal.science/benoit-busser) · [LinkedIn](https://fr.linkedin.com/in/bbusser) · [IAB profile](https://iab-grenoble.fr/fr/recherche/equipe/fiche/benoit-busser) · [IUF profile](https://www.iufrance.fr/les-membres-de-liuf/membre/2218-benoit-busser.html)</div>
 :::
 
 ::: {.g-col-12 .g-col-lg-4 .home-portrait-wrap}
