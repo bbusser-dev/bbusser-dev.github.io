@@ -5,60 +5,103 @@ toc: false
 
 <!--
 MAINTENANCE NOTE
-This page is intentionally simple.
-For routine updates, edit only the visible text below this note.
-Do not change the ::: blocks unless you want to change the layout.
+Routine updates: edit the visible text in this file.
+The visual appearance is controlled by styles.css.
 -->
 
 ::: {.home-hero}
+<div class="home-kicker">Professor · Medical biochemist · Research group leader</div>
+
 # Benoit Busser, PharmD, PhD
 
-## Professor of Biochemistry & Cancer Sciences · Medical Biochemist
+## Biochemistry & Cancer Sciences · Elemental imaging · Metals & Health
 
-**Elemental Pathology · BioLIBS · Metals & Health · Translational Research**
+I develop translational research at the interface of **clinical biochemistry, pathology, environmental and occupational health, cancer sciences and analytical imaging**. A central focus of my work is the use of **laser-induced breakdown spectroscopy (LIBS)** to map chemical elements directly in human tissues and connect tissue chemistry with exposure, disease and clinical questions.
 
-I develop translational approaches at the interface of laboratory medicine, environmental and occupational health, cancer sciences and elemental imaging, with a particular focus on laser-induced breakdown spectroscopy (LIBS) applied to human tissues.
+[Explore research](research.qmd){.btn .btn-primary .btn-lg}
+[BioLIBS](biolibs.qmd){.btn .btn-outline-primary .btn-lg}
+[Publications](publications.qmd){.btn .btn-outline-secondary .btn-lg}
 
-[Research](research.qmd){.btn .btn-primary .btn-lg}
-[Publications](publications.qmd){.btn .btn-outline-primary .btn-lg}
-[About](about.qmd){.btn .btn-outline-secondary .btn-lg}
+<div class="profile-links">[ORCID](https://orcid.org/0000-0002-9425-1577) · [HAL](https://cv.hal.science/benoit-busser) · [LinkedIn](https://fr.linkedin.com/in/bbusser) · [IAB profile](https://iab-grenoble.fr/fr/recherche/equipe/fiche/benoit-busser) · [IUF profile](https://www.iufrance.fr/les-membres-de-liuf/membre/2218-benoit-busser.html)</div>
 :::
+
+## Current roles
+
+:::: {.grid .home-grid .roles-grid}
+::: {.g-col-12 .g-col-md-6 .home-card .role-card}
+### Academic & research
+
+**Full Professor of Biochemistry and Cancer Sciences**  
+Université Grenoble Alpes · School of Pharmacy
+
+**Group leader — “Metals & Health”**  
+Institute for Advanced Biosciences (IAB · UGA / Inserm / CNRS)
+
+**Scientific director — BioLIBS**  
+Hospital-based tissue elemental imaging platform
+:::
+
+::: {.g-col-12 .g-col-md-6 .home-card .role-card}
+### Clinical & institutional
+
+**Senior clinical biochemist**  
+Grenoble Alpes University Hospital
+
+**Head of Point-of-Care Testing**  
+Department of Laboratory Medicine
+
+**Junior Fellow**  
+Institut Universitaire de France · promotion 2021
+:::
+::::
 
 ## Research at a glance
 
 :::: {.grid .home-grid}
 ::: {.g-col-12 .g-col-md-4 .home-card}
-### Elemental Pathology & BioLIBS
+<div class="card-label">01</div>
 
-Tissue elemental imaging to visualize, localize and quantify endogenous and exogenous elements, particles and elemental signatures in biological specimens.
+### Elemental pathology & exposure
 
-**Applications:** lung disease, environmental and occupational exposure, cancer and biomaterials.
+Tissue elemental imaging to detect, localize and quantify endogenous and exogenous chemical elements and particle-associated signatures in biological specimens.
+
+**Applications:** respiratory disease, occupational and environmental exposure, inflammatory disease, cancer and biomaterials.
 :::
 
 ::: {.g-col-12 .g-col-md-4 .home-card}
-### Metals & Health
+<div class="card-label">02</div>
 
-Research on the links between metals, particles, human exposure and disease, from analytical characterization to biological interpretation and clinical translation.
+### Cancer & nanomedicine
 
-**Approach:** chemistry, pathology, imaging and translational medicine.
+Translational cancer research combining tumor biology, analytical sciences, molecular imaging and innovative therapeutic or theranostic approaches.
+
+**Focus:** clinically meaningful mechanisms, biomarkers and technologies for precision medicine.
 :::
 
 ::: {.g-col-12 .g-col-md-4 .home-card}
-### Cancer Sciences
+<div class="card-label">03</div>
 
-Translational cancer research combining tumor biology, analytical sciences, imaging and theranostic approaches.
+### Clinical biochemistry
 
-**Focus:** clinically meaningful biomarkers and innovative technologies for precision medicine.
+Laboratory medicine and point-of-care testing provide the clinical anchor for my research and teaching activities.
+
+**Approach:** move analytical innovation toward robust, interpretable and clinically relevant applications.
 :::
 ::::
 
+::: {.home-highlight}
+<div class="home-kicker">Featured platform</div>
+
+## BioLIBS — seeing the elemental composition of human tissues
+
+BioLIBS is a hospital-based platform dedicated to **multi-elemental tissue imaging by LIBS**, inaugurated at Grenoble Alpes University Hospital in December 2025. Its goal is to understand how metals, mineral particles and other chemical elements are distributed in tissues and how these signatures can inform research on environmental and occupational exposure, disease mechanisms and future diagnostic applications.
+
+[Discover BioLIBS →](biolibs.qmd){.btn .btn-primary}
+[UGA institutional feature](https://www.univ-grenoble-alpes.fr/actualites/a-la-une/actualites-recherche/biolibs-une-nouvelle-ere-pour-l-imagerie-elementaire-inauguree-au-chu-grenoble-alpes-1682942.kjsp){.btn .btn-outline-primary}
+:::
+
 ## From tissue chemistry to clinical questions
 
-My work aims to connect **what is present in a tissue**, **where it is located**, and **what it may mean for disease, exposure or patient care**. This translational perspective links analytical development with pathology, clinical biochemistry and multidisciplinary medical research.
+My work is organized around a simple translational question: **what is present in a tissue, where is it located, and what does it mean for disease, exposure or patient care?** This requires bringing together analytical chemistry, pathology, clinical biochemistry, imaging, environmental health and medicine.
 
-## Academic & clinical environment
-
-My activities are based at **Université Grenoble Alpes**, **Grenoble Alpes University Hospital (CHU Grenoble Alpes)** and the **Institute for Advanced Biosciences (Inserm U1209 / CNRS UMR 5309 / UGA)**.
-
-[Explore my research →](research.qmd){.btn .btn-primary}
-[Contact →](contact.qmd){.btn .btn-outline-primary}
+<div class="closing-links">[Research](research.qmd) · [Publications](publications.qmd) · [About](about.qmd) · [Contact](contact.qmd)</div>
