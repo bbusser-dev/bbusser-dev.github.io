@@ -1,0 +1,10 @@
+---
+title: "Don't miss our Talk @EMIM 2020 in Thessaloniki, Greece !"
+date: 2020-01-18
+description: "Presentation at EMIM 2020 on elemental imaging with laser spectroscopy as a new clinical diagnostic approach."
+categories: [Scientific Event, LIBS, Elemental Imaging, Clinical Translation]
+---
+
+Presentation at **EMIM 2020 in Thessaloniki** on the clinical translation of elemental imaging with laser spectroscopy and its potential as a diagnostic tool.
+
+*Archive migrated from the previous website.*
