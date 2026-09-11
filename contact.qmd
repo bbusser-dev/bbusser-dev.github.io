@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+description: "Professional contact details for Benoit Busser at Université Grenoble Alpes, Institute for Advanced Biosciences and Grenoble Alpes University Hospital."
 toc: false
 ---
 
@@ -17,7 +18,9 @@ For scientific collaborations, clinical research, elemental imaging projects, te
 School of Pharmacy
 
 **Institute for Advanced Biosciences**  
-Inserm U1209 · CNRS UMR 5309 · UGA
+Inserm U1209 · CNRS UMR 5309 · UGA  
+Allée des Alpes — Site Santé  
+38700 Grenoble · France
 
 **Metals & Health group**  
 Elemental pathology, exposure, cancer sciences and translational imaging
@@ -27,7 +30,9 @@ Elemental pathology, exposure, cancer sciences and translational imaging
 ### Clinical activity
 
 **Grenoble Alpes University Hospital**  
-Department of Laboratory Medicine
+Department of Laboratory Medicine  
+Institut de Biologie et Pathologie  
+CS 10217 · 38043 Grenoble Cedex 9 · France
 
 Senior clinical biochemist  
 Head of Point-of-Care Testing
@@ -37,6 +42,11 @@ Head of Point-of-Care Testing
 ## Email
 
 [bbusser@chu-grenoble.fr](mailto:bbusser@chu-grenoble.fr){.btn .btn-primary .btn-lg}
+
+## Phone
+
+**Research / IAB:** +33 4 76 54 94 49  
+**Hospital:** +33 4 76 76 89 39
 
 ## Scientific profiles
 
