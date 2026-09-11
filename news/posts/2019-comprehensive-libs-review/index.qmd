@@ -1,0 +1,10 @@
+---
+title: "Comprehensive LIBS Review"
+date: 2019-03-09
+description: "A broad review of laser-induced breakdown spectroscopy for human and animal health applications."
+categories: [Publication, LIBS, Review]
+---
+
+A comprehensive review of **LIBS for human and animal health**, covering instrumentation, analytical performance and emerging biomedical applications.
+
+*Archive migrated from the previous website.*
