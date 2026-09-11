@@ -41,13 +41,16 @@ format:
     theme:
       light: cosmo
       dark: darkly
-    css: styles.css
+    css:
+      - styles.css
+      - theme-toggle.css
     toc: true
     smooth-scroll: true
     link-external-newwindow: true
     include-in-header:
       text: |
         <meta name="robots" content="index, follow">
+    include-after-body: theme-toggle.html
 
 execute:
   freeze: auto
