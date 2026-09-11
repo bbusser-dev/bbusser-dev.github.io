@@ -14,14 +14,18 @@ website:
         text: About
       - href: research.qmd
         text: Research
+      - href: biolibs.qmd
+        text: BioLIBS
       - href: publications.qmd
         text: Publications
       - href: contact.qmd
         text: Contact
     right:
-      - icon: github
-        href: "https://github.com/bbusser-dev"
-        aria-label: GitHub
+      - href: "https://orcid.org/0000-0002-9425-1577"
+        text: ORCID
+      - icon: linkedin
+        href: "https://fr.linkedin.com/in/bbusser"
+        aria-label: LinkedIn
   search: true
   page-footer:
     left: "© Benoit Busser"
