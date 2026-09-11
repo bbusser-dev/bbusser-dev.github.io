@@ -62,9 +62,12 @@ def api_get(params: dict[str, str], attempts: int = 4) -> dict:
             with urllib.request.urlopen(request, timeout=45) as response:
                 return json.load(response)
         except urllib.error.HTTPError as exc:
+            body = exc.read().decode("utf-8", errors="replace")
+            print(f"OpenAlex HTTP {exc.code}: {body}")
             if exc.code not in (429, 500, 502, 503, 504) or attempt == attempts - 1:
                 raise
-        except urllib.error.URLError:
+        except urllib.error.URLError as exc:
+            print(f"OpenAlex network error: {exc}")
             if attempt == attempts - 1:
                 raise
         time.sleep(2**attempt)
@@ -81,7 +84,7 @@ def fetch_works() -> list[dict]:
                 "select": SELECT,
                 "per_page": "100",
                 "cursor": cursor,
-                "sort": "-publication_date",
+                "sort": "publication_date:desc",
             }
         )
         works.extend(payload.get("results", []))
