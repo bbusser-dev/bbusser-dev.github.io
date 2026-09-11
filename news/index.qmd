@@ -1,6 +1,6 @@
 ---
 title: "News"
-description: "Scientific news, projects, publications and highlights from Benoit Busser and collaborators."
+description: "Scientific news, research highlights, publications, awards and archived events from Benoit Busser and collaborators."
 page-layout: full
 toc: false
 listing:
@@ -15,4 +15,4 @@ listing:
 
 Scientific highlights, new projects, publications, platforms, collaborations and selected events.
 
-This section is intentionally concise: only developments worth highlighting are posted here.
+The most recent items appear first. Older entries from the previous website have been migrated into the same archive with their original publication or event dates, making the research trajectory searchable in one place.
