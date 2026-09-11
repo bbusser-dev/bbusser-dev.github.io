@@ -1,0 +1,14 @@
+---
+title: "Just Released ! read our review \"LIBS Imaging for Material and Biomedical Applications\""
+date: 2023-01-10
+description: "Invited Analytical Chemistry review on recent advances and future perspectives in LIBS imaging for material and biomedical applications."
+categories: [Publication, LIBS, Elemental Imaging, Review]
+---
+
+Publication in *Analytical Chemistry* of the invited review **“Laser-Induced Breakdown Spectroscopy Imaging for Material and Biomedical Applications: Recent Advances and Future Perspectives.”**
+
+The review covers technical fundamentals, industrial and geological applications, biomedical imaging, chemometrics and future developments.
+
+DOI: [10.1021/acs.analchem.2c04910](https://doi.org/10.1021/acs.analchem.2c04910).
+
+*Archive migrated from the previous website.*
