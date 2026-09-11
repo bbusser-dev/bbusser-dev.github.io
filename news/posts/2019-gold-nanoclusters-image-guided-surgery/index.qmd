@@ -1,0 +1,10 @@
+---
+title: "Gold Nanoclusters as a contrast agent for image-guided surgery of head and neck tumors"
+date: 2019-09-18
+description: "Study of ultrasmall gold nanoclusters as optical contrast agents for image-guided surgery of head and neck tumours."
+categories: [Publication, Nanomedicine, Cancer Research, Molecular Imaging]
+---
+
+This work evaluated **ultrasmall gold nanoclusters** as optical contrast agents for image-guided surgery in head and neck tumours, at the interface of nanomedicine and translational imaging.
+
+*Archive migrated from the previous website.*
