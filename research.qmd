@@ -1,0 +1,21 @@
+---
+title: "Research"
+---
+
+## Elemental pathology and BioLIBS
+
+Tissue elemental imaging using laser-induced breakdown spectroscopy (LIBS), with applications to environmental and occupational exposure, interstitial lung diseases, cancer and biomaterials.
+
+## Metals and health
+
+Research on elemental signatures, metals and particles in human tissues, integrating analytical chemistry, pathology, environmental health and clinical questions.
+
+## Cancer sciences
+
+Translational research in tumor biology, theranostics and innovative imaging approaches.
+
+## Clinical translation
+
+Development of clinically relevant workflows, from archived tissue analysis and method validation to prospective clinical studies.
+
+> This page will later become the central gateway to detailed pages on BioLIBS, clinical studies, cancer research and collaborations.
