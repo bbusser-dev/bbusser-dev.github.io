@@ -1,0 +1,33 @@
+---
+title: "Benoit Busser"
+subtitle: "Biochemistry · Cancer Sciences · Elemental Imaging · Metals & Health"
+page-layout: full
+---
+
+## Academic profile
+
+Professor of Biochemistry and Cancer Sciences at Université Grenoble Alpes and senior medical biochemist at Grenoble Alpes University Hospital.
+
+My work develops translational approaches at the interface of laboratory medicine, cancer biology, environmental health and elemental imaging, with a particular focus on laser-induced breakdown spectroscopy (LIBS) applied to biological tissues.
+
+## Research focus
+
+### Elemental pathology and BioLIBS
+
+Development of tissue elemental imaging approaches to visualize, localize and quantify endogenous and exogenous elements in human tissues, with applications to environmental and occupational exposure, lung disease, cancer and biomaterials.
+
+### Metals and health
+
+Study of the biological and medical implications of metals, particles and elemental signatures in human disease, from exposure assessment to clinical translation.
+
+### Cancer sciences
+
+Research in tumor biology, theranostics and translational oncology, including the development of innovative analytical and imaging approaches.
+
+## Current scientific environment
+
+My activities are based at Université Grenoble Alpes, Grenoble Alpes University Hospital and the Institute for Advanced Biosciences (Inserm U1209 / CNRS UMR 5309 / UGA).
+
+[Explore research →](research.qmd){.btn .btn-primary}
+
+[View publications →](publications.qmd){.btn .btn-outline-primary}
