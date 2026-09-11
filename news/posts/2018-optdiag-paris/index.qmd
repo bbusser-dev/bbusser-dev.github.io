@@ -1,0 +1,10 @@
+---
+title: "OptDIAG 2018 - Paris"
+date: 2018-05-25
+description: "Oral communication on biomedical applications of multi-elemental LIBS imaging at OptDIAG 2018 in Paris."
+categories: [Scientific Event, LIBS, Elemental Imaging]
+---
+
+Oral communication at **OptDIAG 2018 in Paris** on biomedical applications of multi-elemental imaging by laser-induced breakdown spectroscopy.
+
+*Archive migrated from the previous website.*
