@@ -1,6 +1,13 @@
 ---
 page-layout: full
 toc: false
+listing:
+  contents: "news/posts/*/index.qmd"
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  max-items: 3
+  fields: [date, title, description, categories]
 ---
 
 <!--
@@ -108,8 +115,15 @@ BioLIBS is a hospital-based platform dedicated to **multi-elemental tissue imagi
 [UGA innovation platform profile](https://pole-universitaire-innovation.univ-grenoble-alpes.fr/plateforme-bio-libs-0){.btn .btn-outline-primary}
 :::
 
+## Latest news
+
+::: {#listing}
+:::
+
+[All news →](news/index.qmd){.btn .btn-outline-primary}
+
 ## From tissue chemistry to clinical questions
 
 My work is organized around a simple translational question: **what is present in a tissue, where is it located, and what does it mean for disease, exposure or patient care?** This requires bringing together analytical chemistry, pathology, clinical biochemistry, imaging, environmental health and medicine.
 
-<div class="closing-links">[Research](research.qmd) · [Publications](publications.qmd) · [About](about.qmd) · [Contact](contact.qmd)</div>
+<div class="closing-links">[Research](research.qmd) · [Publications](publications.qmd) · [News](news/index.qmd) · [About](about.qmd) · [Contact](contact.qmd)</div>
