@@ -24,6 +24,7 @@
       "Lucie Sancey"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.jmedchem.6c00735",
     "id": "https://openalex.org/W7167514867",
     "is_open_access": false,
@@ -59,6 +60,7 @@
       "Lucie Sancey"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1021/acs.jmedchem.6c00735.s001",
     "id": "https://openalex.org/W7167809752",
     "is_open_access": true,
@@ -94,6 +96,7 @@
       "Lucie Sancey"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1021/acs.jmedchem.6c00735.s002",
     "id": "https://openalex.org/W7167832300",
     "is_open_access": true,
@@ -122,6 +125,7 @@
       "Lucie Sancey"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.jmedchem.5c03817",
     "id": "https://openalex.org/W7155069913",
     "is_open_access": false,
@@ -156,6 +160,7 @@
       "Hennie Valkenier"
     ],
     "cited_by_count": 4,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1021/jacs.5c15335",
     "id": "https://openalex.org/W7116896679",
     "is_open_access": true,
@@ -190,6 +195,7 @@
       "Hennie Valkenier"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.5517/ccdc.csd.cc2mn6yg",
     "id": "https://openalex.org/W7117120822",
     "is_open_access": true,
@@ -222,6 +228,7 @@
       "Mans Broekgaarden"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.64898/2025.12.04.692299",
     "id": "https://openalex.org/W4417134065",
     "is_open_access": true,
@@ -243,6 +250,7 @@
       "Malorie Privat"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": null,
     "id": "https://openalex.org/W7205477712",
     "is_open_access": false,
@@ -267,6 +275,7 @@
       "Aurélien Deniaud"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": null,
     "id": "https://openalex.org/W7205400819",
     "is_open_access": false,
@@ -301,6 +310,7 @@
       "Hennie Valkenier"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.26434/chemrxiv-2025-2z3pd-v2",
     "id": "https://openalex.org/W4412121504",
     "is_open_access": true,
@@ -330,6 +340,7 @@
       "J. Charles"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1038/s41416-025-03026-0",
     "id": "https://openalex.org/W4409585441",
     "is_open_access": true,
@@ -364,6 +375,7 @@
       "Hennie Valkenier"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.26434/chemrxiv-2025-2z3pd",
     "id": "https://openalex.org/W4408202898",
     "is_open_access": true,
@@ -383,6 +395,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1039/d4nr05371k/v2/response1",
     "id": "https://openalex.org/W4406944350",
     "is_open_access": false,
@@ -400,6 +413,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1007/978-3-031-85975-5_6",
     "id": "https://openalex.org/W4411438788",
     "is_open_access": false,
@@ -419,6 +433,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 10,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1039/d4nr05371k",
     "id": "https://openalex.org/W4406896603",
     "is_open_access": true,
@@ -454,6 +469,7 @@
       "Mans Broekgaarden"
     ],
     "cited_by_count": 30,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1002/adma.202404605",
     "id": "https://openalex.org/W4403895071",
     "is_open_access": true,
@@ -470,6 +486,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1093/eurpub/ckae144.1199",
     "id": "https://openalex.org/W4403824005",
     "is_open_access": true,
@@ -495,6 +512,7 @@
       "Lucie Sancey"
     ],
     "cited_by_count": 10,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.jmedchem.4c01435",
     "id": "https://openalex.org/W4402612917",
     "is_open_access": true,
@@ -517,6 +535,7 @@
       "Ludovic Duponchel"
     ],
     "cited_by_count": 28,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.analchem.4c00237",
     "id": "https://openalex.org/W4393982383",
     "is_open_access": false,
@@ -540,6 +559,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1158/1538-7445.am2024-4681",
     "id": "https://openalex.org/W4393088169",
     "is_open_access": false,
@@ -570,6 +590,7 @@
       "Vincent Motto‐Ros"
     ],
     "cited_by_count": 14,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1002/smsc.202300307",
     "id": "https://openalex.org/W4392344194",
     "is_open_access": true,
@@ -595,6 +616,7 @@
       "Christine Goze"
     ],
     "cited_by_count": 10,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.jmedchem.3c02139",
     "id": "https://openalex.org/W4392095170",
     "is_open_access": true,
@@ -615,6 +637,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 57,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1002/ijc.34679",
     "id": "https://openalex.org/W4386083688",
     "is_open_access": true,
@@ -638,6 +661,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": null,
     "id": "https://openalex.org/W7205585769",
     "is_open_access": false,
@@ -663,6 +687,7 @@
       "Thomas Decaens"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1158/1535-7163.22508692",
     "id": "https://openalex.org/W4362527921",
     "is_open_access": true,
@@ -688,6 +713,7 @@
       "Thomas Decaens"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1158/1535-7163.22508692.v1",
     "id": "https://openalex.org/W4362535156",
     "is_open_access": true,
@@ -713,6 +739,7 @@
       "Thomas Decaens"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1158/1535-7163.22508695",
     "id": "https://openalex.org/W4362528056",
     "is_open_access": true,
@@ -738,6 +765,7 @@
       "Thomas Decaens"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1158/1535-7163.22508695.v1",
     "id": "https://openalex.org/W4362535282",
     "is_open_access": true,
@@ -763,6 +791,7 @@
       "Thomas Decaens"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1158/1535-7163.22508701",
     "id": "https://openalex.org/W4362527909",
     "is_open_access": true,
@@ -788,6 +817,7 @@
       "Thomas Decaens"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1158/1535-7163.22508701.v1",
     "id": "https://openalex.org/W4362535292",
     "is_open_access": true,
@@ -813,6 +843,7 @@
       "Thomas Decaens"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1158/1535-7163.22508704",
     "id": "https://openalex.org/W4362527882",
     "is_open_access": true,
@@ -838,6 +869,7 @@
       "Thomas Decaens"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1158/1535-7163.22508704.v1",
     "id": "https://openalex.org/W4362535284",
     "is_open_access": true,
@@ -863,6 +895,7 @@
       "Thomas Decaens"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1158/1535-7163.22508707",
     "id": "https://openalex.org/W4362527996",
     "is_open_access": true,
@@ -888,6 +921,7 @@
       "Thomas Decaens"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1158/1535-7163.22508707.v1",
     "id": "https://openalex.org/W4362535195",
     "is_open_access": true,
@@ -913,6 +947,7 @@
       "Thomas Decaens"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1158/1535-7163.22508710",
     "id": "https://openalex.org/W4362527897",
     "is_open_access": true,
@@ -938,6 +973,7 @@
       "Thomas Decaens"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1158/1535-7163.22508710.v1",
     "id": "https://openalex.org/W4362535295",
     "is_open_access": true,
@@ -963,6 +999,7 @@
       "Thomas Decaens"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1158/1535-7163.22508713",
     "id": "https://openalex.org/W4362528010",
     "is_open_access": true,
@@ -988,6 +1025,7 @@
       "Thomas Decaens"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1158/1535-7163.22508713.v1",
     "id": "https://openalex.org/W4362535181",
     "is_open_access": true,
@@ -1013,6 +1051,7 @@
       "Thomas Decaens"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1158/1535-7163.c.6539077",
     "id": "https://openalex.org/W4392688537",
     "is_open_access": true,
@@ -1038,6 +1077,7 @@
       "Thomas Decaens"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1158/1535-7163.c.6539077.v1",
     "id": "https://openalex.org/W4392698717",
     "is_open_access": true,
@@ -1065,6 +1105,7 @@
       "Lucie Sancey"
     ],
     "cited_by_count": 31,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.jmedchem.3c00100",
     "id": "https://openalex.org/W4361264363",
     "is_open_access": true,
@@ -1083,6 +1124,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 2,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1142/9789811258961_0013",
     "id": "https://openalex.org/W4321375126",
     "is_open_access": false,
@@ -1103,6 +1145,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 104,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.analchem.2c04910",
     "id": "https://openalex.org/W4313907584",
     "is_open_access": true,
@@ -1135,6 +1178,7 @@
       "Ewen Bodio"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.5517/ccdc.csd.cc2c3d2z",
     "id": "https://openalex.org/W4397834481",
     "is_open_access": true,
@@ -1167,6 +1211,7 @@
       "Ewen Bodio"
     ],
     "cited_by_count": 11,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.inorgchem.2c03918",
     "id": "https://openalex.org/W4312064768",
     "is_open_access": true,
@@ -1199,6 +1244,7 @@
       "Ewen Bodio"
     ],
     "cited_by_count": 1,
+    "display_on_site": false,
     "doi": "https://doi.org/10.26434/chemrxiv-2022-j15lg",
     "id": "https://openalex.org/W4308596866",
     "is_open_access": true,
@@ -1219,6 +1265,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 1,
+    "display_on_site": false,
     "doi": "https://doi.org/10.20944/preprints202209.0282.v1",
     "id": "https://openalex.org/W4297884518",
     "is_open_access": true,
@@ -1244,6 +1291,7 @@
       "Michel De Waard"
     ],
     "cited_by_count": 8,
+    "display_on_site": true,
     "doi": "https://doi.org/10.3390/molecules27144651",
     "id": "https://openalex.org/W4286610769",
     "is_open_access": true,
@@ -1266,6 +1314,7 @@
       "Lucie Sancey"
     ],
     "cited_by_count": 21,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.jneumeth.2022.109676",
     "id": "https://openalex.org/W4285602622",
     "is_open_access": true,
@@ -1283,6 +1332,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1007/978-3-031-14502-5_5",
     "id": "https://openalex.org/W4312537841",
     "is_open_access": false,
@@ -1311,6 +1361,7 @@
       "Lucie Sancey"
     ],
     "cited_by_count": 17,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1039/d2bm01271e",
     "id": "https://openalex.org/W4296285605",
     "is_open_access": true,
@@ -1339,6 +1390,7 @@
       "Ewen Bodio"
     ],
     "cited_by_count": 20,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.ejmech.2021.113483",
     "id": "https://openalex.org/W3152687278",
     "is_open_access": true,
@@ -1358,6 +1410,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 272,
+    "display_on_site": true,
     "doi": "https://doi.org/10.3390/cancers12123594",
     "id": "https://openalex.org/W3093033192",
     "is_open_access": true,
@@ -1377,6 +1430,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 65,
+    "display_on_site": true,
     "doi": "https://doi.org/10.3390/cancers12123524",
     "id": "https://openalex.org/W3093805104",
     "is_open_access": true,
@@ -1396,6 +1450,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 16,
+    "display_on_site": false,
     "doi": "https://doi.org/10.20944/preprints202010.0447.v1",
     "id": "https://openalex.org/W3121741001",
     "is_open_access": true,
@@ -1415,6 +1470,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 41,
+    "display_on_site": false,
     "doi": "https://doi.org/10.20944/preprints202010.0353.v1",
     "id": "https://openalex.org/W3122109479",
     "is_open_access": true,
@@ -1435,6 +1491,7 @@
       "Vincent Motto‐Ros"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.admp.2020.03.458",
     "id": "https://openalex.org/W3089485305",
     "is_open_access": false,
@@ -1464,6 +1521,7 @@
       "Hélène Elleaume"
     ],
     "cited_by_count": 73,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1002/advs.202001675",
     "id": "https://openalex.org/W3083377677",
     "is_open_access": true,
@@ -1492,6 +1550,7 @@
       "Lucie Sancey"
     ],
     "cited_by_count": 51,
+    "display_on_site": true,
     "doi": "https://doi.org/10.3390/cells9091953",
     "id": "https://openalex.org/W3081193588",
     "is_open_access": true,
@@ -1514,6 +1573,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 1,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1051/photon/202010334",
     "id": "https://openalex.org/W3048130401",
     "is_open_access": true,
@@ -1541,6 +1601,7 @@
       "Lucie Sancey"
     ],
     "cited_by_count": 87,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.bioconjchem.0c00175",
     "id": "https://openalex.org/W3013421612",
     "is_open_access": false,
@@ -1563,6 +1624,7 @@
       "F Pelascini"
     ],
     "cited_by_count": 16,
+    "display_on_site": true,
     "doi": null,
     "id": "https://openalex.org/W4285035338",
     "is_open_access": true,
@@ -1592,6 +1654,7 @@
       "May C. Morris"
     ],
     "cited_by_count": 20,
+    "display_on_site": true,
     "doi": "https://doi.org/10.7150/thno.40971",
     "id": "https://openalex.org/W3004228099",
     "is_open_access": true,
@@ -1610,6 +1673,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 11,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/b978-0-12-818829-3.00014-9",
     "id": "https://openalex.org/W3033108856",
     "is_open_access": false,
@@ -1637,6 +1701,7 @@
       "Fréderic Fina"
     ],
     "cited_by_count": 4,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1684/abc.2019.1502",
     "id": "https://openalex.org/W2997894425",
     "is_open_access": true,
@@ -1662,6 +1727,7 @@
       "Franck Denat"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": null,
     "id": "https://openalex.org/W7205244503",
     "is_open_access": false,
@@ -1681,6 +1747,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 3,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1051/medsci/2019132",
     "id": "https://openalex.org/W2974871099",
     "is_open_access": true,
@@ -1707,6 +1774,7 @@
       "Lucie Sancey"
     ],
     "cited_by_count": 34,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.nano.2019.04.014",
     "id": "https://openalex.org/W2946258114",
     "is_open_access": true,
@@ -1723,6 +1791,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.26226/morressier.5c8f90a0b5d368000a26b697",
     "id": "https://openalex.org/W4391532425",
     "is_open_access": true,
@@ -1751,6 +1820,7 @@
       "Amandine Hurbin"
     ],
     "cited_by_count": 17,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.bcp.2018.12.004",
     "id": "https://openalex.org/W2905228592",
     "is_open_access": true,
@@ -1772,6 +1842,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 156,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.sab.2018.11.006",
     "id": "https://openalex.org/W2900927048",
     "is_open_access": false,
@@ -1799,6 +1870,7 @@
       "Fréderic Fina"
     ],
     "cited_by_count": 23,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1684/abc.2018.1372",
     "id": "https://openalex.org/W2896423205",
     "is_open_access": false,
@@ -1824,6 +1896,7 @@
       "Stéphane Gibaud"
     ],
     "cited_by_count": 11,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1111/jphp.12998",
     "id": "https://openalex.org/W2888069982",
     "is_open_access": true,
@@ -1847,6 +1920,7 @@
       "Vincent Bonneterre"
     ],
     "cited_by_count": 1,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.admp.2018.03.475",
     "id": "https://openalex.org/W2800950553",
     "is_open_access": false,
@@ -1869,6 +1943,7 @@
       "Lucie Sancey"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1136/oemed-2018-icohabstracts.1250",
     "id": "https://openalex.org/W2802639859",
     "is_open_access": true,
@@ -1895,6 +1970,7 @@
       "Sylvie Gazzéri"
     ],
     "cited_by_count": 27,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.canlet.2018.01.080",
     "id": "https://openalex.org/W2790038102",
     "is_open_access": false,
@@ -1924,6 +2000,7 @@
       "Monique Vincent"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.rmr.2017.10.268",
     "id": "https://openalex.org/W2790272111",
     "is_open_access": false,
@@ -1943,6 +2020,7 @@
       "Vincent Motto‐Ros"
     ],
     "cited_by_count": 170,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.ccr.2017.12.006",
     "id": "https://openalex.org/W2780806931",
     "is_open_access": false,
@@ -1969,6 +2047,7 @@
       "Lucie Sancey"
     ],
     "cited_by_count": 40,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1038/modpathol.2017.152",
     "id": "https://openalex.org/W2769442935",
     "is_open_access": true,
@@ -1993,6 +2072,7 @@
       "Vincent Motto Ros"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1183/1393003.congress-2017.pa2643",
     "id": "https://openalex.org/W2779806353",
     "is_open_access": false,
@@ -2021,6 +2101,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 19,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1038/s41598-017-09491-9",
     "id": "https://openalex.org/W2747351216",
     "is_open_access": true,
@@ -2046,6 +2127,7 @@
       "Thomas Decaens"
     ],
     "cited_by_count": 27,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1158/1535-7163.mct-16-0602-t",
     "id": "https://openalex.org/W2619909584",
     "is_open_access": false,
@@ -2070,6 +2152,7 @@
       "Vincent Motto‐Ros"
     ],
     "cited_by_count": 68,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.sab.2017.04.013",
     "id": "https://openalex.org/W2609647852",
     "is_open_access": false,
@@ -2096,6 +2179,7 @@
       "J. Charles"
     ],
     "cited_by_count": 55,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1155/2017/5986129",
     "id": "https://openalex.org/W2604331415",
     "is_open_access": true,
@@ -2119,6 +2203,7 @@
       "Amandine Hurbin"
     ],
     "cited_by_count": 36,
+    "display_on_site": false,
     "doi": "https://doi.org/10.2147/ott.s117743",
     "id": "https://openalex.org/W2552327471",
     "is_open_access": true,
@@ -2151,6 +2236,7 @@
       "Jean‐Yves Blay"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1093/annonc/mdw379.38",
     "id": "https://openalex.org/W2587859029",
     "is_open_access": false,
@@ -2179,6 +2265,7 @@
       "Vincent Motto‐Ros"
     ],
     "cited_by_count": 119,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1038/srep29936",
     "id": "https://openalex.org/W2486101480",
     "is_open_access": true,
@@ -2199,6 +2286,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/s0959-8049(16)61495-8",
     "id": "https://openalex.org/W2464890514",
     "is_open_access": false,
@@ -2223,6 +2311,7 @@
       "Jian Zhen Yu"
     ],
     "cited_by_count": 15,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1038/srep24377",
     "id": "https://openalex.org/W2340231888",
     "is_open_access": true,
@@ -2249,6 +2338,7 @@
       "J. Charles"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.annder.2015.10.508",
     "id": "https://openalex.org/W2275914259",
     "is_open_access": false,
@@ -2267,6 +2357,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 4,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.jaad.2015.03.007",
     "id": "https://openalex.org/W2212442137",
     "is_open_access": true,
@@ -2294,6 +2385,7 @@
       "Anne Imberty"
     ],
     "cited_by_count": 28,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1371/journal.pone.0128190",
     "id": "https://openalex.org/W1480869103",
     "is_open_access": true,
@@ -2315,6 +2407,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.rmr.2015.02.051",
     "id": "https://openalex.org/W1998141403",
     "is_open_access": false,
@@ -2336,6 +2429,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.annder.2014.09.172",
     "id": "https://openalex.org/W2319835484",
     "is_open_access": false,
@@ -2358,6 +2452,7 @@
       "Amandine Hurbin"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.rmr.2014.04.027",
     "id": "https://openalex.org/W2326651446",
     "is_open_access": false,
@@ -2382,6 +2477,7 @@
       "Jin Yu"
     ],
     "cited_by_count": 162,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1038/srep06065",
     "id": "https://openalex.org/W2034421254",
     "is_open_access": true,
@@ -2400,6 +2496,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 44,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.jaad.2014.03.038",
     "id": "https://openalex.org/W2152044539",
     "is_open_access": true,
@@ -2420,6 +2517,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 25,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.annder.2014.06.021",
     "id": "https://openalex.org/W2024067967",
     "is_open_access": false,
@@ -2442,6 +2540,7 @@
       "Amandine Hurbin"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/s0959-8049(14)50440-6",
     "id": "https://openalex.org/W2326308562",
     "is_open_access": false,
@@ -2464,6 +2563,7 @@
       "Jiancheng Yu"
     ],
     "cited_by_count": 1,
+    "display_on_site": false,
     "doi": null,
     "id": "https://openalex.org/W2908145553",
     "is_open_access": false,
@@ -2487,6 +2587,7 @@
       "Anne Imberty"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.2210/pdb4up4/pdb",
     "id": "https://openalex.org/W2977412280",
     "is_open_access": false,
@@ -2507,6 +2608,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": null,
     "id": "https://openalex.org/W3023854658",
     "is_open_access": false,
@@ -2530,6 +2632,7 @@
       "M.‐T. Leccia"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.annder.2013.09.290",
     "id": "https://openalex.org/W2043015767",
     "is_open_access": false,
@@ -2553,6 +2656,7 @@
       "J. Charles"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.annder.2013.09.299",
     "id": "https://openalex.org/W1978686202",
     "is_open_access": false,
@@ -2575,6 +2679,7 @@
       "Amandine Hurbin"
     ],
     "cited_by_count": 58,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1002/ijc.28594",
     "id": "https://openalex.org/W1543661498",
     "is_open_access": true,
@@ -2598,6 +2703,7 @@
       "J. Charles"
     ],
     "cited_by_count": 22,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1001/jamadermatol.2013.8198",
     "id": "https://openalex.org/W2008715645",
     "is_open_access": false,
@@ -2621,6 +2727,7 @@
       "Sylvie Lantuéjoul"
     ],
     "cited_by_count": 48,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.lungcan.2013.07.010",
     "id": "https://openalex.org/W2028695500",
     "is_open_access": false,
@@ -2642,6 +2749,7 @@
       "Jean‐Louis Merlin"
     ],
     "cited_by_count": 33,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1007/s00428-013-1380-x",
     "id": "https://openalex.org/W2080376125",
     "is_open_access": false,
@@ -2661,6 +2769,7 @@
       "Jean Charles Renversez"
     ],
     "cited_by_count": 2,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1373/clinchem.2010.150425",
     "id": "https://openalex.org/W1991560913",
     "is_open_access": false,
@@ -2680,6 +2789,7 @@
       "Amandine Hurbin"
     ],
     "cited_by_count": 257,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.bbcan.2011.05.003",
     "id": "https://openalex.org/W2027678100",
     "is_open_access": false,
@@ -2706,6 +2816,7 @@
       "Élisabeth Brambilla"
     ],
     "cited_by_count": 49,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1002/path.2897",
     "id": "https://openalex.org/W2015849106",
     "is_open_access": false,
@@ -2725,6 +2836,7 @@
       "Amandine Hurbin"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": "https://doi.org/10.1016/s1359-6349(10)71017-x",
     "id": "https://openalex.org/W2061603824",
     "is_open_access": false,
@@ -2745,6 +2857,7 @@
       "Amandine Hurbin"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/s0007-4551(15)31178-4",
     "id": "https://openalex.org/W1973837857",
     "is_open_access": false,
@@ -2769,6 +2882,7 @@
       "Amandine Hurbin"
     ],
     "cited_by_count": 2,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/s0007-4551(15)31194-2",
     "id": "https://openalex.org/W2023139469",
     "is_open_access": false,
@@ -2784,6 +2898,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": null,
     "id": "https://openalex.org/W170585181",
     "is_open_access": false,
@@ -2806,6 +2921,7 @@
       "Amandine Hurbin"
     ],
     "cited_by_count": 44,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1038/mt.2009.227",
     "id": "https://openalex.org/W1986047321",
     "is_open_access": true,
@@ -2827,6 +2943,7 @@
       "Amandine Hurbin"
     ],
     "cited_by_count": 58,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1038/mt.2009.226",
     "id": "https://openalex.org/W2006881103",
     "is_open_access": true,
@@ -2844,6 +2961,7 @@
       "Amandine Hurbin"
     ],
     "cited_by_count": 17,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.patbio.2008.10.002",
     "id": "https://openalex.org/W1964877976",
     "is_open_access": true,
@@ -2859,6 +2977,7 @@
       "Benoît Busser"
     ],
     "cited_by_count": 0,
+    "display_on_site": false,
     "doi": null,
     "id": "https://openalex.org/W2611023919",
     "is_open_access": false,
@@ -2878,6 +2997,7 @@
       "Amandine Hurbin"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/s0761-8425(08)75023-x",
     "id": "https://openalex.org/W1978987879",
     "is_open_access": false,
@@ -2901,6 +3021,7 @@
       "Amandine Hurbin"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/s0761-8425(08)75022-8",
     "id": "https://openalex.org/W2035532102",
     "is_open_access": false,
@@ -2919,6 +3040,7 @@
       "Amandine Hurbin"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/s0761-8425(07)74343-7",
     "id": "https://openalex.org/W2040503827",
     "is_open_access": false,
@@ -2942,6 +3064,7 @@
       "Amandine Hurbin"
     ],
     "cited_by_count": 0,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/s0761-8425(07)74342-5",
     "id": "https://openalex.org/W2022721189",
     "is_open_access": false,
@@ -2960,6 +3083,7 @@
       "Amandine Hurbin"
     ],
     "cited_by_count": 1,
+    "display_on_site": true,
     "doi": "https://doi.org/10.1016/s0761-8425(06)71862-9",
     "id": "https://openalex.org/W2089427222",
     "is_open_access": false,
