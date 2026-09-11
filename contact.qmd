@@ -1,9 +1,54 @@
 ---
 title: "Contact"
+toc: false
 ---
 
-## Professional contact
+::: {.page-intro}
+# Contact
 
-Université Grenoble Alpes · Grenoble Alpes University Hospital · Institute for Advanced Biosciences.
+For scientific collaborations, clinical research, elemental imaging projects, teaching or invited lectures, the most direct route is via my institutional email.
+:::
 
-Direct contact details and external academic profiles will be added here after verification.
+:::: {.grid .research-grid}
+::: {.g-col-12 .g-col-md-6 .research-card}
+### Academic & research
+
+**Université Grenoble Alpes**  
+School of Pharmacy
+
+**Institute for Advanced Biosciences**  
+Inserm U1209 · CNRS UMR 5309 · UGA
+
+**Metals & Health group**  
+Elemental pathology, exposure, cancer sciences and translational imaging
+:::
+
+::: {.g-col-12 .g-col-md-6 .research-card}
+### Clinical activity
+
+**Grenoble Alpes University Hospital**  
+Department of Laboratory Medicine
+
+Senior clinical biochemist  
+Head of Point-of-Care Testing
+:::
+::::
+
+## Email
+
+[bbusser@chu-grenoble.fr](mailto:bbusser@chu-grenoble.fr){.btn .btn-primary .btn-lg}
+
+## Scientific profiles
+
+[Google Scholar](https://scholar.google.com/citations?user=e_RbDdUAAAAJ&hl=fr){.btn .btn-outline-primary}
+[ORCID](https://orcid.org/0000-0002-9425-1577){.btn .btn-outline-primary}
+[HAL](https://cv.hal.science/benoit-busser){.btn .btn-outline-primary}
+[LinkedIn](https://fr.linkedin.com/in/bbusser){.btn .btn-outline-secondary}
+
+::: {.profile-panel}
+### BioLIBS enquiries
+
+For projects involving tissue elemental imaging, LIBS feasibility, collaborations or access to the BioLIBS platform, please include a short description of the biological or clinical question, sample type and the elements or particles of interest.
+:::
+
+<div class="closing-links">[About](about.qmd) · [Research](research.qmd) · [BioLIBS](biolibs.qmd) · [Clinical research](clinical-research.qmd)</div>
