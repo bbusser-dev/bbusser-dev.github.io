@@ -1,18 +1,18 @@
 ---
 title: "BioLIBS"
-description: "Hospital-based multi-elemental tissue imaging by laser-induced breakdown spectroscopy (LIBS) at Grenoble Alpes University Hospital."
+description: "Université Grenoble Alpes platform for multi-elemental tissue imaging by laser-induced breakdown spectroscopy (LIBS), with the instrument installed at Grenoble Alpes University Hospital."
 toc: false
 ---
 
 ::: {.page-intro}
 # BioLIBS
 
-A hospital-based platform for **multi-elemental imaging of biological tissues by laser-induced breakdown spectroscopy (LIBS)**, connecting analytical chemistry, pathology and clinical research.
+An **Université Grenoble Alpes platform** for multi-elemental imaging of biological tissues by laser-induced breakdown spectroscopy (LIBS), with the instrument installed at **Grenoble Alpes University Hospital** and connected to pathology and clinical research.
 :::
 
 ## Multi-elemental imaging of human tissues
 
-BioLIBS is integrated within the Grenoble academic and hospital ecosystem through **Université Grenoble Alpes**, **Grenoble Alpes University Hospital** and the **Institute for Advanced Biosciences (IAB — UGA / Inserm / CNRS)**. The platform was inaugurated at CHU Grenoble Alpes in December 2025.
+BioLIBS is a **Université Grenoble Alpes platform** embedded in the Grenoble academic and hospital ecosystem, with the LIBS instrument physically installed at **CHU Grenoble Alpes** and scientific integration through the **Institute for Advanced Biosciences (IAB — UGA / Inserm / CNRS)**. The platform was inaugurated at CHU Grenoble Alpes in December 2025.
 
 LIBS uses a focused laser pulse to ablate a microscopic amount of material and records the optical emission of the resulting plasma. Repeating this measurement across a tissue section produces spatial maps of multiple chemical elements.
 
