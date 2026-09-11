@@ -24,6 +24,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Normalize News categories
+        run: python scripts/normalize_news_categories.py
+
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
