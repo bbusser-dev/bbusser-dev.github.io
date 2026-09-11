@@ -11,10 +11,14 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: research.qmd
-        text: Research
-      - href: biolibs.qmd
-        text: BioLIBS
+      - text: Research
+        menu:
+          - href: research.qmd
+            text: Overview
+          - href: biolibs.qmd
+            text: BioLIBS
+          - href: clinical-research.qmd
+            text: Clinical Research
       - href: publications.qmd
         text: Publications
       - href: news/index.qmd
