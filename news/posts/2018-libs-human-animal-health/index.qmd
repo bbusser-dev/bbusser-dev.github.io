@@ -1,0 +1,10 @@
+---
+title: "Read our latest review : LIBS for human and animal Health"
+date: 2018-11-24
+description: "Review of laser-induced breakdown spectroscopy for human and animal health applications."
+categories: [Publication, LIBS, Review, Health]
+---
+
+This review examined the use of **laser-induced breakdown spectroscopy in human and animal health**, highlighting emerging biomedical applications and analytical perspectives.
+
+*Archive migrated from the previous website.*
