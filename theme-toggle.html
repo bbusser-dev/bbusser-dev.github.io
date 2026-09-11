@@ -1,0 +1,33 @@
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.querySelector(".quarto-color-scheme-toggle");
+  if (!toggle) return;
+
+  function isDark() {
+    return document.body.classList.contains("quarto-dark") ||
+      document.documentElement.getAttribute("data-bs-theme") === "dark";
+  }
+
+  function refreshToggle() {
+    const dark = isDark();
+    toggle.innerHTML = '<span class="theme-toggle-icon" aria-hidden="true">' + (dark ? '☀' : '☾') + '</span>';
+    const label = dark ? "Switch to light mode" : "Switch to dark mode";
+    toggle.setAttribute("aria-label", label);
+    toggle.setAttribute("title", label);
+  }
+
+  refreshToggle();
+
+  new MutationObserver(refreshToggle).observe(document.documentElement, {
+    attributes: true,
+    attributeFilter: ["data-bs-theme", "class"]
+  });
+  new MutationObserver(refreshToggle).observe(document.body, {
+    attributes: true,
+    attributeFilter: ["class"]
+  });
+  toggle.addEventListener("click", function () {
+    window.setTimeout(refreshToggle, 0);
+  });
+});
+</script>
