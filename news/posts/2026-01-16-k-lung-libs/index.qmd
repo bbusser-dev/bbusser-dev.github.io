@@ -1,0 +1,10 @@
+---
+title: "K-LUNG-LIBS: elemental imaging for occupational and environmental exposure"
+date: 2026-01-16
+description: "A clinical research project using LIBS to investigate carcinogenic metals and exposure signatures in lung tissue."
+categories: [Clinical research, Occupational health, LIBS]
+---
+
+**K-LUNG-LIBS** investigates whether elemental imaging of lung tissue can reveal signatures associated with occupational and environmental exposure, particularly to carcinogenic metals and particles.
+
+The project illustrates the translational objective of tissue elemental imaging: connecting spatial chemical information with clinically and occupationally relevant questions.
