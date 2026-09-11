@@ -1,0 +1,10 @@
+---
+title: "Seminar for KU Leuven - Belgium"
+date: 2019-09-24
+description: "Seminar at KU Leuven on ongoing work and projects in elemental imaging and translational research."
+categories: [Scientific Event, Collaboration, LIBS]
+---
+
+Invited seminar at **KU Leuven** presenting current results and projects in elemental imaging and translational biomedical research.
+
+*Archive migrated from the previous website.*
