@@ -35,7 +35,7 @@ I develop translational research at the interface of **clinical biochemistry, pa
 :::
 
 ::: {.g-col-12 .g-col-lg-4 .home-portrait-wrap}
-<img src="images/benoit-busser.jpg" class="home-portrait" alt="Portrait of Benoit Busser">
+<img src="https://iab-grenoble.fr/public/upload/researchers/Benoit-BUSSER.png" class="home-portrait" alt="Portrait of Benoit Busser" loading="eager">
 :::
 ::::
 :::
