@@ -1,0 +1,11 @@
+---
+title: "Publications"
+---
+
+## Selected and recent publications
+
+This page will be generated from a bibliographic source rather than maintained manually.
+
+The objective is to keep publication updates simple: add or refresh a BibTeX file, and let Quarto regenerate the formatted list.
+
+For the initial version, we will first decide whether ORCID, Zotero, Google Scholar export, or a curated BibTeX file should be the source of truth.
