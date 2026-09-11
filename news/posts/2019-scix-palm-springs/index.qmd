@@ -1,0 +1,10 @@
+---
+title: "Don't miss our Talk @SciX 2019 in Palm Springs California !"
+date: 2019-10-12
+description: "Talk at SciX 2019 on the translation of LIBS imaging from bench to bedside for respiratory diseases."
+categories: [Scientific Event, LIBS, Elemental Imaging, Respiratory Disease]
+---
+
+Talk at **SciX 2019 in Palm Springs** entitled *From Bench to Bedside: LIBS Imaging Is Entering the Clinic as a New Diagnostic Tool for Respiratory Diseases*.
+
+*Archive migrated from the previous website.*
