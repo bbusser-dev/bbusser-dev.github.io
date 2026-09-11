@@ -175,6 +175,55 @@ main.content {
   color: var(--site-muted);
 }
 
+.publication-note {
+  margin: 1.5rem 0 2rem 0;
+  padding: 1rem 1.2rem;
+  border-left: 4px solid var(--site-blue);
+  background: var(--site-blue-soft);
+  color: var(--site-muted);
+}
+
+.publication-count {
+  margin: 1.4rem 0 2rem 0;
+  color: var(--site-muted);
+  font-size: 0.95rem;
+}
+
+.publication-item {
+  margin: 0 0 1.1rem 0;
+  padding: 1.1rem 1.2rem;
+  border: 1px solid var(--site-line);
+  border-radius: 0.9rem;
+  background: #fff;
+}
+
+.publication-title {
+  margin-bottom: 0.35rem;
+  font-weight: 700;
+  line-height: 1.38;
+}
+
+.publication-title a {
+  color: var(--site-blue-dark);
+  text-decoration: none;
+}
+
+.publication-title a:hover {
+  text-decoration: underline;
+}
+
+.publication-authors {
+  margin-bottom: 0.3rem;
+  color: var(--site-muted);
+  font-size: 0.93rem;
+  line-height: 1.45;
+}
+
+.publication-meta {
+  color: var(--site-muted);
+  font-size: 0.88rem;
+}
+
 .btn-primary {
   background-color: var(--site-blue);
   border-color: var(--site-blue);
@@ -211,5 +260,9 @@ main.content {
 
   .profile-links {
     line-height: 1.8;
+  }
+
+  .publication-item {
+    padding: 1rem;
   }
 }
