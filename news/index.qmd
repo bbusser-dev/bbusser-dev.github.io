@@ -1,0 +1,18 @@
+---
+title: "News"
+description: "Scientific news, projects, publications and highlights from Benoit Busser and collaborators."
+page-layout: full
+toc: false
+listing:
+  contents: "posts/*/index.qmd"
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  fields: [image, date, title, description, categories]
+  categories: true
+  feed: true
+---
+
+Scientific highlights, new projects, publications, platforms, collaborations and selected events.
+
+This section is intentionally concise: only developments worth highlighting are posted here.
