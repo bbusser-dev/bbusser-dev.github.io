@@ -1,11 +1,46 @@
 ---
 title: "About"
+toc: false
 ---
 
-## Benoit Busser
+<div class="page-intro">
+<div class="home-kicker">Academic · Clinical · Translational</div>
 
-Benoit Busser is Professor of Biochemistry and Cancer Sciences at Université Grenoble Alpes and senior medical biochemist at Grenoble Alpes University Hospital.
+# Benoit Busser
 
-His academic and clinical activities sit at the interface of laboratory medicine, translational research, cancer sciences and elemental imaging.
+I am a **Professor of Biochemistry and Cancer Sciences** at Université Grenoble Alpes and a **senior clinical biochemist** at Grenoble Alpes University Hospital. My work combines laboratory medicine, cancer research, elemental imaging and environmental and occupational health.
+</div>
 
-This page is a placeholder for a concise academic biography and institutional affiliations.
+## A dual academic and clinical perspective
+
+My career has developed at the interface of the university and the hospital. This dual position shapes the way I approach research: analytical technologies are most useful when they answer a clearly defined biological or clinical question, and clinical observations can in turn reveal new analytical challenges.
+
+At Université Grenoble Alpes, I teach biochemistry, cancer sciences and laboratory medicine and contribute to academic and scientific governance. At Grenoble Alpes University Hospital, I am involved in clinical biochemistry and point-of-care testing.
+
+## Metals & Health
+
+I lead the **“Metals & Health”** research group at the Institute for Advanced Biosciences (IAB, Inserm U1209 / CNRS UMR 5309 / Université Grenoble Alpes). Our work investigates how metals, mineral particles and other elemental signatures are distributed in human tissues and how they relate to exposure, disease mechanisms and clinical questions.
+
+This programme brings together analytical chemistry, pathology, occupational and environmental medicine, respiratory medicine, cancer sciences and data analysis.
+
+## BioLIBS and elemental pathology
+
+I am scientific director of **BioLIBS**, a hospital-based platform dedicated to multi-element tissue imaging by laser-induced breakdown spectroscopy (LIBS). The platform develops workflows for archived and fresh biological tissues, with applications ranging from lung exposure and inflammatory diseases to cancer and biomaterials.
+
+A central objective is to help establish **elemental pathology** as a translational field: moving from chemical maps of tissues toward interpretable information that can complement conventional pathology and clinical data.
+
+[Discover BioLIBS →](biolibs.qmd){.btn .btn-primary}
+[Explore research →](research.qmd){.btn .btn-outline-primary}
+
+## Cancer sciences and translational imaging
+
+My research also includes tumor biology, molecular imaging, nanomedicine and theranostic strategies. These projects share the same translational logic: combine mechanistic biology with robust analytical methods and clinically meaningful endpoints.
+
+## Training and scientific community
+
+I supervise doctoral, postdoctoral and master's-level researchers and collaborate with teams in analytical chemistry, biology, medicine, physics and engineering. I am also a Junior Fellow of the **Institut Universitaire de France**.
+
+<div class="profile-panel">
+**Profiles and identifiers**  
+[Google Scholar](https://scholar.google.com/citations?user=e_RbDdUAAAAJ&hl=fr) · [ORCID](https://orcid.org/0000-0002-9425-1577) · [HAL](https://cv.hal.science/benoit-busser) · [LinkedIn](https://fr.linkedin.com/in/bbusser) · [IAB profile](https://iab-grenoble.fr/fr/recherche/equipe/fiche/benoit-busser) · [IUF profile](https://www.iufrance.fr/les-membres-de-liuf/membre/2218-benoit-busser.html)
+</div>
