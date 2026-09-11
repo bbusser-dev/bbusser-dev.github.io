@@ -2,13 +2,29 @@
 title: "Just Released ! read our review \"LIBS Imaging for Material and Biomedical Applications\""
 date: 2023-01-10
 description: "Invited Analytical Chemistry review on recent advances and future perspectives in LIBS imaging for material and biomedical applications."
-categories: [Publication, LIBS, Elemental Imaging, Review]
+categories: [Publications, Elemental imaging]
 ---
 
-Publication in *Analytical Chemistry* of the invited review **“Laser-Induced Breakdown Spectroscopy Imaging for Material and Biomedical Applications: Recent Advances and Future Perspectives.”**
+I am happy to announce the publication in *Analytical Chemistry* of our invited review **“Laser-Induced Breakdown Spectroscopy Imaging for Material and Biomedical Applications: Recent Advances and Future Perspectives.”**
 
-The review covers technical fundamentals, industrial and geological applications, biomedical imaging, chemometrics and future developments.
+The paper was published in the annual special issue **Fundamental and Applied Reviews in Analytical Chemistry 2023**.
 
-DOI: [10.1021/acs.analchem.2c04910](https://doi.org/10.1021/acs.analchem.2c04910).
+## Article details
 
-*Archive migrated from the previous website.*
+Vincent Gardette, Vincent Motto-Ros, César Alvarez-Llamas, Lucie Sancey, Ludovic Duponchel and Benoit Busser
+
+*Analytical Chemistry*, 2023
+
+[DOI: 10.1021/acs.analchem.2c04910](https://doi.org/10.1021/acs.analchem.2c04910)
+
+## What the review covers
+
+LIBS imaging has developed from a spectroscopic technique into a versatile analytical imaging approach. The review examines recent methodological advances and applications across **materials science, geology, industry, biology and medicine**.
+
+A particular focus is placed on the transition from individual spectra to large hyperspectral images, and therefore on the increasing importance of **data processing and chemometrics**.
+
+For biomedical research, LIBS provides the ability to map multiple elements directly in tissues while preserving spatial information. This opens applications in elemental pathology, nanoparticle biodistribution, exposure assessment and the study of endogenous metal distributions.
+
+The review also discusses current limitations and future developments needed to improve quantitative performance, data interpretation and translation toward routine applications.
+
+*Archive reconstructed from the original website and the published review.*
