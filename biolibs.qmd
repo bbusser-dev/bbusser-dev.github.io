@@ -1,31 +1,97 @@
 ---
 title: "BioLIBS"
 description: "Hospital-based multi-elemental tissue imaging by laser-induced breakdown spectroscopy (LIBS) at Grenoble Alpes University Hospital."
-toc: true
+toc: false
 ---
 
+::: {.page-intro}
 # BioLIBS
+
+A hospital-based platform for **multi-elemental imaging of biological tissues by laser-induced breakdown spectroscopy (LIBS)**, connecting analytical chemistry, pathology and clinical research.
+:::
 
 ## Multi-elemental imaging of human tissues
 
-BioLIBS is a hospital-based platform dedicated to **multi-elemental tissue imaging by laser-induced breakdown spectroscopy (LIBS)**. Inaugurated at Grenoble Alpes University Hospital in December 2025, the platform is integrated within the Grenoble academic and hospital ecosystem through **Université Grenoble Alpes**, **CHU Grenoble Alpes** and the **Institute for Advanced Biosciences (IAB — UGA / Inserm / CNRS)**.
+BioLIBS is integrated within the Grenoble academic and hospital ecosystem through **Université Grenoble Alpes**, **Grenoble Alpes University Hospital** and the **Institute for Advanced Biosciences (IAB — UGA / Inserm / CNRS)**. The platform was inaugurated at CHU Grenoble Alpes in December 2025.
 
-The platform is designed to map the spatial distribution of chemical elements directly in biological tissues. This makes it possible to investigate both endogenous elemental biology and exogenous signatures associated with environmental, occupational or medical exposures.
+LIBS uses a focused laser pulse to ablate a microscopic amount of material and records the optical emission of the resulting plasma. Repeating this measurement across a tissue section produces spatial maps of multiple chemical elements.
 
-## Scientific questions
+The central question is simple: **what elements are present, where are they located, and what might their distribution mean biologically or clinically?**
 
-BioLIBS is used to address questions such as:
+## Capabilities
 
-- Where are metals, mineral particles and other chemical elements located within a tissue?
-- Can an elemental signature support the investigation of past occupational or environmental exposure?
-- How do elemental distributions relate to pathology, inflammation, cancer or biomaterials?
-- Can tissue elemental imaging contribute to future diagnostic or exposomic approaches?
+:::: {.grid .research-grid}
+::: {.g-col-12 .g-col-md-4 .research-card}
+### Multi-element detection
 
-## Translational approach
+Simultaneous detection of many elements from the same tissue section, including endogenous elements and exogenous metals or mineral-associated signatures.
+:::
 
-The platform combines analytical development with pathology and clinical research. Current applications span respiratory disease, occupational and environmental health, oncology, dermatology, rare disease and biomaterials.
+::: {.g-col-12 .g-col-md-4 .research-card}
+### Spatial imaging
 
-A central objective is to move from **element detection** to **clinically interpretable spatial information**, while developing robust workflows for tissue preparation, imaging, quantification and data analysis.
+Elemental information is preserved in its histological context, allowing direct comparison with tissue architecture, pathology and adjacent stained sections.
+:::
+
+::: {.g-col-12 .g-col-md-4 .research-card}
+### High-throughput acquisition
+
+Automated raster imaging enables large numbers of spectra to be acquired across clinically relevant tissue areas, followed by computational processing and elemental image reconstruction.
+:::
+::::
+
+## Samples & workflow
+
+BioLIBS workflows are being developed for both **formalin-fixed paraffin-embedded (FFPE)** and **frozen** biological specimens. Depending on the project, elemental maps can be compared with histology, electron microscopy, Raman or FTIR spectroscopy, X-ray fluorescence or other analytical techniques.
+
+::: {.research-strip}
+### Typical workflow
+
+**Clinical or biological question → sample selection → tissue sectioning → LIBS acquisition → elemental image reconstruction → pathological / analytical correlation → interpretation**
+:::
+
+A major methodological focus is the development of robust calibration, quality-control and quantification strategies suitable for biomedical tissue imaging.
+
+## Applications
+
+:::: {.grid .research-grid}
+::: {.g-col-12 .g-col-md-6 .research-card}
+### Environmental & occupational exposure
+
+Mapping exogenous elements and mineral-associated signatures in lung and other tissues to investigate past exposure and its possible relationship with disease.
+:::
+
+::: {.g-col-12 .g-col-md-6 .research-card}
+### Respiratory disease
+
+Elemental imaging in interstitial lung disease, sarcoidosis, granulomatous disease and other pulmonary conditions where tissue deposits or exposure history may be informative.
+:::
+
+::: {.g-col-12 .g-col-md-6 .research-card}
+### Cancer & nanomedicine
+
+Tracking metal-containing probes, nanoparticles or elemental signatures in preclinical and clinical oncology research.
+:::
+
+::: {.g-col-12 .g-col-md-6 .research-card}
+### Biomaterials & implants
+
+Characterizing the spatial distribution of metals released from implants or biomaterials and their relationship with surrounding tissue.
+:::
+::::
+
+## From analytical signal to elemental pathology
+
+The long-term objective is not simply to detect elements, but to establish **elemental pathology** as a spatially resolved complement to conventional tissue analysis: an approach in which chemical composition is interpreted together with morphology, exposure history and clinical context.
+
+This requires validation at every step — sample preparation, acquisition, calibration, image processing, pathological correlation and clinical interpretation.
+
+## Clinical & collaborative research
+
+BioLIBS supports collaborative projects involving pathology, pulmonology, occupational medicine, oncology, toxicology, biomaterials and environmental health. Several clinical and translational programmes use the platform to evaluate where elemental information can add meaningful evidence to established diagnostic and research methods.
+
+[Explore clinical research](clinical-research.qmd){.btn .btn-primary}
+[Contact about a project](contact.qmd){.btn .btn-outline-primary}
 
 ## Institutional information
 
@@ -35,8 +101,4 @@ A central objective is to move from **element detection** to **clinically interp
 
 [IAB — Benoit Busser profile](https://iab-grenoble.fr/fr/recherche/equipe/fiche/benoit-busser)
 
-## Collaborations
-
-BioLIBS is open to collaborative projects involving tissue elemental imaging, exposure assessment, pathology and translational biomedical research.
-
-[Contact](contact.qmd){.btn .btn-primary}
+<div class="closing-links">[Research overview](research.qmd) · [Clinical research](clinical-research.qmd) · [Publications](publications.qmd) · [Contact](contact.qmd)</div>
