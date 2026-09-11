@@ -1,11 +1,16 @@
 ---
 title: "Publications"
+toc: false
 ---
 
-## Selected and recent publications
+The publication list below is synchronized automatically from **OpenAlex** using my ORCID identifier. The site checks for updates every week, so newly indexed papers and citation counts can appear without manual editing.
 
-This page will be generated from a bibliographic source rather than maintained manually.
+[ORCID](https://orcid.org/0000-0002-9425-1577){.btn .btn-outline-primary}
+[HAL](https://cv.hal.science/benoit-busser){.btn .btn-outline-primary}
+[Google Scholar search](https://scholar.google.com/scholar?q=%22Benoit+Busser%22){.btn .btn-outline-secondary}
 
-The objective is to keep publication updates simple: add or refresh a BibTeX file, and let Quarto regenerate the formatted list.
+::: {.publication-note}
+**Data source.** OpenAlex is an open scholarly index. Metadata can occasionally require correction or lag behind the publisher record; DOI links remain the preferred route to the final publication.
+:::
 
-For the initial version, we will first decide whether ORCID, Zotero, Google Scholar export, or a curated BibTeX file should be the source of truth.
+{{< include generated/publications.md >}}
