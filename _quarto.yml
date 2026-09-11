@@ -1,0 +1,42 @@
+project:
+  type: website
+
+website:
+  title: "Benoit Busser"
+  site-url: "https://bbusser-dev.github.io"
+  description: "Academic website of Benoit Busser — biochemistry, cancer sciences, elemental imaging, metals and health."
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: "https://github.com/bbusser-dev"
+        aria-label: GitHub
+  search: true
+  page-footer:
+    left: "© Benoit Busser"
+    right: "Built with Quarto · Hosted on GitHub Pages"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <meta name="robots" content="index, follow">
+
+execute:
+  freeze: auto
