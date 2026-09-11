@@ -1,0 +1,29 @@
+.quarto-color-scheme-toggle {
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  width: 2.35rem;
+  height: 2.35rem;
+  margin-left: 0.35rem;
+  border: 1px solid color-mix(in srgb, var(--site-accent) 32%, var(--site-line));
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--site-surface-raised) 92%, var(--site-accent-soft));
+  color: var(--site-blue-dark) !important;
+  text-decoration: none !important;
+  transition: transform 160ms ease, border-color 160ms ease, background 160ms ease;
+}
+
+.quarto-color-scheme-toggle:hover,
+.quarto-color-scheme-toggle:focus {
+  transform: translateY(-1px);
+  border-color: var(--site-accent);
+  background: var(--site-accent-soft);
+  color: var(--site-accent) !important;
+}
+
+.theme-toggle-icon {
+  display: block;
+  font-size: 1.25rem;
+  line-height: 1;
+  transform: translateY(-0.02rem);
+}
