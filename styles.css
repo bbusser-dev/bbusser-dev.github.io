@@ -83,6 +83,23 @@ main.content {
   margin-right: 0.45rem;
 }
 
+.home-portrait-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-portrait {
+  display: block;
+  width: 100%;
+  max-width: 295px;
+  aspect-ratio: 395 / 499;
+  object-fit: cover;
+  border-radius: 1.1rem;
+  border: 1px solid rgba(17, 54, 82, 0.12);
+  box-shadow: 0 16px 36px rgba(20, 42, 60, 0.14);
+}
+
 .profile-links {
   margin-top: 1.5rem;
   font-size: 0.93rem;
@@ -167,6 +184,16 @@ main.content {
 .btn-primary:focus {
   background-color: var(--site-blue-dark);
   border-color: var(--site-blue-dark);
+}
+
+@media (max-width: 991px) {
+  .home-portrait-wrap {
+    margin-top: 1.5rem;
+  }
+
+  .home-portrait {
+    max-width: 260px;
+  }
 }
 
 @media (max-width: 767px) {
