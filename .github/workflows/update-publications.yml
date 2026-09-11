@@ -12,14 +12,19 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
-  group: openalex-publication-sync
+  group: pages
   cancel-in-progress: true
 
 jobs:
   sync-publications:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -36,9 +41,11 @@ jobs:
         run: python scripts/update_publications.py
 
       - name: Commit updates if needed
+        id: changes
         run: |
           if [ -z "$(git status --porcelain -- generated/publications.md data/openalex_publications.json)" ]; then
             echo "No publication changes detected."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git config user.name "github-actions[bot]"
@@ -46,3 +53,27 @@ jobs:
           git add generated/publications.md data/openalex_publications.json
           git commit -m "Update publications from OpenAlex"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Setup Quarto
+        if: steps.changes.outputs.changed == 'true'
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render website
+        if: steps.changes.outputs.changed == 'true'
+        run: quarto render
+
+      - name: Setup Pages
+        if: steps.changes.outputs.changed == 'true'
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        if: steps.changes.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        if: steps.changes.outputs.changed == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4
