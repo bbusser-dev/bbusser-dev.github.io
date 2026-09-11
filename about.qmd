@@ -1,5 +1,6 @@
 ---
 title: "About"
+description: "Benoit Busser — Professor of Biochemistry and Cancer Sciences, clinical biochemist, researcher in elemental imaging, metals and health, cancer sciences and translational medicine."
 toc: false
 ---
 
@@ -15,7 +16,26 @@ I am a **Professor of Biochemistry and Cancer Sciences** at Université Grenoble
 
 My career has developed at the interface of the university and the hospital. This dual position shapes the way I approach research: analytical technologies are most useful when they answer a clearly defined biological or clinical question, and clinical observations can in turn reveal new analytical challenges.
 
-At Université Grenoble Alpes, I teach biochemistry, cancer sciences and laboratory medicine and contribute to academic and scientific governance. At Grenoble Alpes University Hospital, I am involved in clinical biochemistry and point-of-care testing.
+At Université Grenoble Alpes, I teach biochemistry, cancer sciences and laboratory medicine. At Grenoble Alpes University Hospital, I am involved in clinical biochemistry and I head the Point-of-Care Testing activity.
+
+## Training & academic pathway
+
+I studied pharmacy in Strasbourg before completing a hospital pharmacy residency in Grenoble. I graduated **PharmD in 2008**, defended a **PhD in Cell Biology in 2009**, was appointed **Associate Professor in Biochemistry in 2012**, obtained the **HDR (Research Supervision Diploma) in 2017**, and became **Full Professor (PU-PH) in 2023**.
+
+::: {.research-strip}
+### Academic trajectory
+
+**2004–2009** — Pharmacy residency, Grenoble Alpes University Hospital  
+**2009–2012** — Assistant Professor (AHU), Université Grenoble Alpes  
+**2012–2023** — Associate Professor (MCU-PH), Université Grenoble Alpes  
+**Since 2023** — Full Professor (PU-PH) of Biochemistry and Cancer Sciences
+:::
+
+## Teaching
+
+My teaching covers **general and clinical biochemistry, cell and cancer biology, molecular biology and biotechnologies**, for pharmacy students, master's students, medical residents and other health-science audiences.
+
+This teaching activity is closely connected to research and clinical practice, with a particular emphasis on linking analytical methods to biological interpretation and patient care.
 
 ## Metals & Health
 
@@ -34,7 +54,13 @@ A central objective is to help establish **elemental pathology** as a translatio
 
 ## Cancer sciences and translational imaging
 
-My research also includes tumor biology, molecular imaging, nanomedicine and theranostic strategies. These projects share the same translational logic: combine mechanistic biology with robust analytical methods and clinically meaningful endpoints.
+My research also includes tumor biology, molecular imaging, nanomedicine and theranostic strategies. Earlier work focused particularly on cancer signalling, mechanisms of resistance to targeted therapies, molecular diagnostics in solid tumours and innovative therapeutic approaches.
+
+These projects share the same translational logic: combine mechanistic biology with robust analytical methods and clinically meaningful endpoints.
+
+## Clinical background
+
+My hospital career has included activities in general clinical biochemistry, cancer biomarkers, molecular genetics and molecular diagnostics. I led the **Clinical Cancer and Biotherapies laboratory from 2013 to 2016**, then worked as a senior clinical biochemist in molecular genetics before taking responsibility for **Point-of-Care Testing in 2023**.
 
 ## Training and scientific community
 
