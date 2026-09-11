@@ -1,0 +1,12 @@
+---
+title: "BioLIBS inaugurated at Grenoble Alpes University Hospital"
+date: 2025-12-03
+description: "A hospital-based platform for multi-elemental tissue imaging by LIBS enters a new phase in Grenoble."
+categories: [BioLIBS, LIBS, Elemental imaging]
+---
+
+BioLIBS, the hospital-based platform dedicated to **multi-elemental imaging of biological tissues by laser-induced breakdown spectroscopy (LIBS)**, was inaugurated at Grenoble Alpes University Hospital.
+
+The platform supports translational projects at the interface of analytical chemistry, pathology, occupational and environmental health, oncology and biomaterials.
+
+[Read the CHU Grenoble Alpes article](https://www.chu-grenoble.fr/actualites/la-plateforme-dimagerie-multi-elementaire-libs-inauguree)
