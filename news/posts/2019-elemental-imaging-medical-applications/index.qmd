@@ -1,0 +1,12 @@
+---
+title: "Elemental imaging using laser-induced breakdown spectroscopy: latest medical applications"
+date: 2019-09-18
+description: "Review of medical applications of LIBS elemental imaging in biological and human tissues."
+categories: [Publication, LIBS, Elemental Imaging, Review]
+---
+
+A review of recent medical applications of **LIBS elemental imaging**, including endogenous and exogenous elements in biological tissues and perspectives for preclinical and clinical use.
+
+Published in *Médecine/Sciences* (2019). DOI: [10.1051/medsci/2019132](https://doi.org/10.1051/medsci/2019132).
+
+*Archive migrated from the previous website.*
