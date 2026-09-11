@@ -1,0 +1,10 @@
+---
+title: "Honoured to be awarded with the Poster prize @EMIM 2019"
+date: 2019-03-23
+description: "Poster prize at the European Meeting for Molecular Imaging 2019."
+categories: [Award, Scientific Event, Molecular Imaging]
+---
+
+Poster prize at **EMIM 2019**, recognising work presented at the European Meeting for Molecular Imaging.
+
+*Archive migrated from the previous website.*
