@@ -29,7 +29,7 @@ A central objective is to move from **element detection** to **clinically interp
 
 ## Institutional information
 
-[UGA — BioLIBS inauguration and overview](https://www.univ-grenoble-alpes.fr/actualites/a-la-une/actualites-recherche/biolibs-une-nouvelle-ere-pour-l-imagerie-elementaire-inauguree-au-chu-grenoble-alpes-1682942.kjsp)
+[UGA / Pôle universitaire d’innovation Grenoble Alpes — BioLIBS platform](https://pole-universitaire-innovation.univ-grenoble-alpes.fr/plateforme-bio-libs-0)
 
 [CHU Grenoble Alpes — multi-elemental LIBS platform](https://www.chu-grenoble.fr/actualites/la-plateforme-dimagerie-multi-elementaire-libs-inauguree)
 
