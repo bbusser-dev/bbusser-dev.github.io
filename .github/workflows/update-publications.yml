@@ -1,0 +1,48 @@
+name: Update publications from OpenAlex
+
+on:
+  schedule:
+    - cron: "17 5 * * 1"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_publications.py"
+      - ".github/workflows/update-publications.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: openalex-publication-sync
+  cancel-in-progress: true
+
+jobs:
+  sync-publications:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch publications from OpenAlex
+        env:
+          OPENALEX_ORCID: "0000-0002-9425-1577"
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: python scripts/update_publications.py
+
+      - name: Commit updates if needed
+        run: |
+          if git diff --quiet -- generated/publications.md data/openalex_publications.json; then
+            echo "No publication changes detected."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add generated/publications.md data/openalex_publications.json
+          git commit -m "Update publications from OpenAlex"
+          git push
