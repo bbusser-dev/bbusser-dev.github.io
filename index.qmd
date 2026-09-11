@@ -1,33 +1,65 @@
 ---
-title: "Benoit Busser"
-subtitle: "Biochemistry · Cancer Sciences · Elemental Imaging · Metals & Health"
+title: false
 page-layout: full
+toc: false
 ---
 
-## Academic profile
+<!--
+MAINTENANCE NOTE
+This page is intentionally simple.
+For routine updates, edit only the visible text below this note.
+Do not change the ::: blocks unless you want to change the layout.
+-->
 
-Professor of Biochemistry and Cancer Sciences at Université Grenoble Alpes and senior medical biochemist at Grenoble Alpes University Hospital.
+::: {.home-hero}
+# Benoit Busser, PharmD, PhD
 
-My work develops translational approaches at the interface of laboratory medicine, cancer biology, environmental health and elemental imaging, with a particular focus on laser-induced breakdown spectroscopy (LIBS) applied to biological tissues.
+## Professor of Biochemistry & Cancer Sciences · Medical Biochemist
 
-## Research focus
+**Elemental Pathology · BioLIBS · Metals & Health · Translational Research**
 
-### Elemental pathology and BioLIBS
+I develop translational approaches at the interface of laboratory medicine, environmental and occupational health, cancer sciences and elemental imaging, with a particular focus on laser-induced breakdown spectroscopy (LIBS) applied to human tissues.
 
-Development of tissue elemental imaging approaches to visualize, localize and quantify endogenous and exogenous elements in human tissues, with applications to environmental and occupational exposure, lung disease, cancer and biomaterials.
+[Research](research.qmd){.btn .btn-primary .btn-lg}
+[Publications](publications.qmd){.btn .btn-outline-primary .btn-lg}
+[About](about.qmd){.btn .btn-outline-secondary .btn-lg}
+:::
 
-### Metals and health
+## Research at a glance
 
-Study of the biological and medical implications of metals, particles and elemental signatures in human disease, from exposure assessment to clinical translation.
+:::: {.grid .home-grid}
+::: {.g-col-12 .g-col-md-4 .home-card}
+### Elemental Pathology & BioLIBS
 
-### Cancer sciences
+Tissue elemental imaging to visualize, localize and quantify endogenous and exogenous elements, particles and elemental signatures in biological specimens.
 
-Research in tumor biology, theranostics and translational oncology, including the development of innovative analytical and imaging approaches.
+**Applications:** lung disease, environmental and occupational exposure, cancer and biomaterials.
+:::
 
-## Current scientific environment
+::: {.g-col-12 .g-col-md-4 .home-card}
+### Metals & Health
 
-My activities are based at Université Grenoble Alpes, Grenoble Alpes University Hospital and the Institute for Advanced Biosciences (Inserm U1209 / CNRS UMR 5309 / UGA).
+Research on the links between metals, particles, human exposure and disease, from analytical characterization to biological interpretation and clinical translation.
 
-[Explore research →](research.qmd){.btn .btn-primary}
+**Approach:** chemistry, pathology, imaging and translational medicine.
+:::
 
-[View publications →](publications.qmd){.btn .btn-outline-primary}
+::: {.g-col-12 .g-col-md-4 .home-card}
+### Cancer Sciences
+
+Translational cancer research combining tumor biology, analytical sciences, imaging and theranostic approaches.
+
+**Focus:** clinically meaningful biomarkers and innovative technologies for precision medicine.
+:::
+::::
+
+## From tissue chemistry to clinical questions
+
+My work aims to connect **what is present in a tissue**, **where it is located**, and **what it may mean for disease, exposure or patient care**. This translational perspective links analytical development with pathology, clinical biochemistry and multidisciplinary medical research.
+
+## Academic & clinical environment
+
+My activities are based at **Université Grenoble Alpes**, **Grenoble Alpes University Hospital (CHU Grenoble Alpes)** and the **Institute for Advanced Biosciences (Inserm U1209 / CNRS UMR 5309 / UGA)**.
+
+[Explore my research →](research.qmd){.btn .btn-primary}
+[Contact →](contact.qmd){.btn .btn-outline-primary}
