@@ -18,6 +18,8 @@ website:
         text: BioLIBS
       - href: publications.qmd
         text: Publications
+      - href: news/index.qmd
+        text: News
       - href: contact.qmd
         text: Contact
     right:
