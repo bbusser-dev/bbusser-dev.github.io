@@ -55,6 +55,10 @@ jobs:
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
+      - name: Normalize News categories
+        if: steps.changes.outputs.changed == 'true'
+        run: python scripts/normalize_news_categories.py
+
       - name: Setup Quarto
         if: steps.changes.outputs.changed == 'true'
         uses: quarto-dev/quarto-actions/setup@v2
