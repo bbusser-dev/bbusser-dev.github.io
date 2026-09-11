@@ -2,11 +2,33 @@
 title: "The Evolving Role of Chemometrics in LIBS Imaging: A Scholarly Exploration"
 date: 2023-10-04
 description: "Discussion of the growing role of chemometrics and multivariate analysis in large LIBS imaging datasets."
-categories: [LIBS, Chemometrics, Data Analysis, Elemental Imaging]
+categories: [Elemental imaging, Publications]
 ---
 
-LIBS imaging increasingly generates very large hyperspectral datasets. This note discussed why **chemometrics and multivariate analysis** are becoming central to extracting robust, interpretable information from those data.
+## Introduction
 
-The discussion was linked to the 2023 *Analytical Chemistry* review on LIBS imaging and its future methodological directions.
+Laser-Induced Breakdown Spectroscopy (LIBS) has evolved from a technique mainly associated with spectroscopy and physics into a powerful tool for **analytical chemistry and imaging**. Its applications now range from industrial analysis and materials science to planetary exploration and biomedical research.
 
-*Archive migrated from the previous website.*
+As LIBS imaging becomes more mature, the technology generates increasingly large and complex hyperspectral datasets. The analytical challenge is therefore no longer limited to acquiring spectra: it is also about extracting **robust, reproducible and interpretable information** from them.
+
+## From spectra to images
+
+A LIBS image can contain hundreds of thousands of spectra, each carrying information from many emission lines. Classical univariate approaches remain useful, but they do not always capture the relationships between elements, spectral interferences, tissue heterogeneity or rare spatial signatures.
+
+This is where **chemometrics and multivariate analysis** become essential.
+
+## Why chemometrics matters
+
+Approaches such as dimensionality reduction, clustering, classification and multivariate calibration can help identify patterns that would otherwise remain hidden in complex datasets. In biomedical LIBS imaging, these methods are particularly attractive when the aim is to distinguish tissue regions, identify unusual elemental signatures or correlate elemental information with pathology.
+
+The challenge is to use these tools without turning the analysis into a black box. Robust validation, biological interpretation and transparent reporting remain critical.
+
+## Looking forward
+
+The future of LIBS imaging will depend not only on better instrumentation and calibration, but also on increasingly sophisticated data analysis. Combining chemometrics with automated image processing and machine-learning approaches should help move the field from descriptive elemental maps toward **quantitative and clinically interpretable information**.
+
+This discussion extends themes developed in our 2023 *Analytical Chemistry* review on LIBS imaging and its methodological perspectives.
+
+[Read the review](https://doi.org/10.1021/acs.analchem.2c04910)
+
+*Archive reconstructed from the original website.*
