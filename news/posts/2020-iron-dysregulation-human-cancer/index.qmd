@@ -1,0 +1,14 @@
+---
+title: "Just Published ! Read our review \"Iron Dysregulation in Human Cancer\""
+date: 2020-11-26
+description: "Review of iron metabolism in cancer, including biomarkers, prognosis, monitoring and therapeutic rationale."
+categories: [Publication, Cancer Research, Metals, Review]
+---
+
+Publication of the review **“Iron Dysregulation in Human Cancer: Altered Metabolism, Biomarkers for Diagnosis, Prognosis, Monitoring and Rationale for Therapy”** in *Cancers*.
+
+The article examines the role of iron metabolism in tumour biology and its potential clinical implications.
+
+DOI: [10.3390/cancers12123524](https://doi.org/10.3390/cancers12123524).
+
+*Archive migrated from the previous website.*
