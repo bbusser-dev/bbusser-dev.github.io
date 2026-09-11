@@ -2,11 +2,29 @@
 title: "Just Published ! Read our chapter \"LIBS Imaging Applications\" from the reference book on LIBS"
 date: 2020-06-08
 description: "Publication of the chapter LIBS Imaging Applications in the second edition of Laser-Induced Breakdown Spectroscopy."
-categories: [Publication, Book Chapter, LIBS, Elemental Imaging]
+categories: [Publications, Elemental imaging]
 ---
 
-Publication of the chapter **“LIBS Imaging Applications”** in the second edition of *Laser-Induced Breakdown Spectroscopy*, edited by Jagdish P. Singh and Surya N. Thakur.
+I am delighted to announce the publication of our collaborative and interdisciplinary book chapter **“LIBS Imaging Applications”** in the second edition of *Laser-Induced Breakdown Spectroscopy*.
 
-The chapter reviews imaging applications of LIBS across several fields, including biomedical research.
+This reference book on LIBS was published by Elsevier in 2020 and edited by **Jagdish P. Singh** and **Surya N. Thakur**.
 
-*Archive migrated from the previous website.*
+## Chapter details
+
+**LIBS Imaging Applications**  
+V. Motto-Ros, S. Moncayo, C. Fabre and B. Busser  
+Pages 329–346
+
+The chapter reviews how LIBS can be used not only for point analysis but also for **spatially resolved elemental imaging**, with applications spanning materials, geology, biology and biomedical research.
+
+## Book details
+
+*Laser-Induced Breakdown Spectroscopy*, 2nd edition  
+Editors: Jagdish P. Singh & Surya N. Thakur  
+Elsevier Science, 2020  
+620 pages  
+ISBN: 978-0-12-818829-3
+
+The publication marked an important step in consolidating LIBS imaging as a field in its own right, including its emerging biomedical applications.
+
+*Archive reconstructed from the original website and bibliographic information.*
