@@ -1,0 +1,12 @@
+---
+title: "Publication list now updates automatically from OpenAlex"
+date: 2026-09-11
+description: "The website publication list is now synchronized weekly from OpenAlex using ORCID, with Google Scholar retained as a complementary public profile."
+categories: [Publications, Open science, Website]
+---
+
+The **Publications** page is now synchronized automatically with **OpenAlex** using my ORCID identifier.
+
+A weekly GitHub Action refreshes publication metadata and citation counts, while filtering out non-publication records that would otherwise clutter the academic list. Google Scholar and HAL remain available as complementary public profiles.
+
+[View publications](../../../publications.qmd)
