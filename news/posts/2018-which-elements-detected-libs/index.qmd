@@ -1,0 +1,14 @@
+---
+title: "Which elements can be detected with LIBS ?"
+date: 2018-09-19
+description: "Overview of the elements detectable by LIBS in biological tissues and the sensitivities relevant to biomedical elemental imaging."
+categories: [LIBS, Elemental Imaging, Methods]
+---
+
+In principle, **LIBS can detect a very broad range of chemical elements**. This archived note highlighted the elements already detected in biological tissues and the analytical sensitivities relevant to biomedical elemental imaging.
+
+The discussion was linked to our review of LIBS for biological and medical applications.
+
+DOI: [10.1016/j.ccr.2017.12.006](https://doi.org/10.1016/j.ccr.2017.12.006).
+
+*Archive migrated from the previous website.*
