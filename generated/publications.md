@@ -47,7 +47,7 @@
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1002/adma.202404605">Engineering Radiocatalytic Nanoliposomes with Hydrophobic Gold Nanoclusters for Radiotherapy Enhancement</a></div>
 <div class="publication-authors">Nazareth Milagros Carigga Gutierrez, Tristan Le Clainche, Anne‐Laure Bulin, Sofia Leo, Malika Kadri, Ahmed Gamal Ali Abdelhamid, Núria Pujol‐Solé, Girgis Obaid, Marc‐André Hograindleur, Vincent Gardette, <strong>Benoît Busser</strong>, et al.</div>
-<div class="publication-meta"><em>Advanced Materials</em> · Article · 30 citations · Open access · <a href="https://doi.org/10.1002/adma.202404605">DOI</a></div>
+<div class="publication-meta"><em>Advanced Materials</em> · Article · 31 citations · Open access · <a href="https://doi.org/10.1002/adma.202404605">DOI</a></div>
 </div>
 
 <div class="publication-item">
@@ -59,13 +59,13 @@
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1021/acs.jmedchem.4c01435">WazaGaY: An Innovative Aza-BODIPY-Derived Near-Infrared Fluorescent Probe for Enhanced Tumor Imaging</a></div>
 <div class="publication-authors">Mohamed Bendellaa, Charlotte Cave, Amélie Godard, Fabien Dalonneau, Annika Sickinger, Christine Goze, Olivier Maury, Pierre Le Gendre, Ewen Bodio, <strong>Benoît Busser</strong>, Lucie Sancey</div>
-<div class="publication-meta"><em>Journal of Medicinal Chemistry</em> · Article · 11 citations · Open access · <a href="https://doi.org/10.1021/acs.jmedchem.4c01435">DOI</a></div>
+<div class="publication-meta"><em>Journal of Medicinal Chemistry</em> · Article · 12 citations · Open access · <a href="https://doi.org/10.1021/acs.jmedchem.4c01435">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1021/acs.analchem.4c00237">Enhancing Diagnostic Capabilities for Occupational Lung Diseases Using LIBS Imaging on Biopsy Tissue</a></div>
 <div class="publication-authors">Victor Hugo Cavalcanti Ferreira, Vincent Gardette, <strong>Benoît Busser</strong>, Lucie Sancey, Steven Ronsmans, Vincent Bonneterre, Vincent Motto‐Ros, Ludovic Duponchel</div>
-<div class="publication-meta"><em>Analytical Chemistry</em> · Article · 28 citations · <a href="https://doi.org/10.1021/acs.analchem.4c00237">DOI</a></div>
+<div class="publication-meta"><em>Analytical Chemistry</em> · Article · 29 citations · <a href="https://doi.org/10.1021/acs.analchem.4c00237">DOI</a></div>
 </div>
 
 <div class="publication-item">
@@ -77,7 +77,7 @@
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1021/acs.jmedchem.3c02139">Comparison of the In Vitro and In Vivo Behavior of a Series of NIR-II-Emitting Aza-BODIPYs Containing Different Water-Solubilizing Groups and Their Trastuzumab Antibody Conjugates</a></div>
 <div class="publication-authors">Elisa Chazeau, C. Fabre, Malorie Privat, Amélie Godard, Cindy Racoeur, Ewen Bodio, <strong>Benoît Busser</strong>, K. David Wegner, Lucie Sancey, Catherine Paul, Christine Goze</div>
-<div class="publication-meta"><em>Journal of Medicinal Chemistry</em> · Article · 10 citations · Open access · <a href="https://doi.org/10.1021/acs.jmedchem.3c02139">DOI</a></div>
+<div class="publication-meta"><em>Journal of Medicinal Chemistry</em> · Article · 11 citations · Open access · <a href="https://doi.org/10.1021/acs.jmedchem.3c02139">DOI</a></div>
 </div>
 
 ## 2023
@@ -103,7 +103,7 @@
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1021/acs.analchem.2c04910">Laser-Induced Breakdown Spectroscopy Imaging for Material and Biomedical Applications: Recent Advances and Future Perspectives</a></div>
 <div class="publication-authors">Vincent Gardette, Vincent Motto‐Ros, César Álvarez-Llamas, Lucie Sancey, Ludovic Duponchel, <strong>Benoît Busser</strong></div>
-<div class="publication-meta"><em>Analytical Chemistry</em> · Article · 104 citations · Open access · <a href="https://doi.org/10.1021/acs.analchem.2c04910">DOI</a></div>
+<div class="publication-meta"><em>Analytical Chemistry</em> · Article · 105 citations · Open access · <a href="https://doi.org/10.1021/acs.analchem.2c04910">DOI</a></div>
 </div>
 
 ## 2022
@@ -157,7 +157,7 @@
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.3390/cancers12123524">Iron Dysregulation in Human Cancer: Altered Metabolism, Biomarkers for Diagnosis, Prognosis, Monitoring and Rationale for Therapy</a></div>
 <div class="publication-authors">P Lelièvre, Lucie Sancey, Jean‐Luc Coll, Aurélien Deniaud, <strong>Benoît Busser</strong></div>
-<div class="publication-meta"><em>Cancers</em> · Article · 65 citations · Open access · <a href="https://doi.org/10.3390/cancers12123524">DOI</a></div>
+<div class="publication-meta"><em>Cancers</em> · Article · 67 citations · Open access · <a href="https://doi.org/10.3390/cancers12123524">DOI</a></div>
 </div>
 
 <div class="publication-item">
@@ -277,13 +277,13 @@
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.ccr.2017.12.006">Elemental imaging using laser-induced breakdown spectroscopy: A new and promising approach for biological and medical applications</a></div>
 <div class="publication-authors"><strong>Benoît Busser</strong>, S. Moncayo, Jean‐Luc Coll, Lucie Sancey, Vincent Motto‐Ros</div>
-<div class="publication-meta"><em>Coordination Chemistry Reviews</em> · Article · 170 citations · <a href="https://doi.org/10.1016/j.ccr.2017.12.006">DOI</a></div>
+<div class="publication-meta"><em>Coordination Chemistry Reviews</em> · Article · 171 citations · <a href="https://doi.org/10.1016/j.ccr.2017.12.006">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1038/modpathol.2017.152">Characterization of foreign materials in paraffin-embedded pathological specimens using in situ multi-elemental imaging with laser spectroscopy</a></div>
 <div class="publication-authors"><strong>Benoît Busser</strong>, S. Moncayo, Florian Trichard, Vincent Bonneterre, N. Pinel, Frédéric Pelascini, Philippe Dugourd, Jean‐Luc Coll, M. D’Incan, J. Charles, Vincent Motto‐Ros, Lucie Sancey</div>
-<div class="publication-meta"><em>Modern Pathology</em> · Article · 40 citations · Open access · <a href="https://doi.org/10.1038/modpathol.2017.152">DOI</a></div>
+<div class="publication-meta"><em>Modern Pathology</em> · Article · 41 citations · Open access · <a href="https://doi.org/10.1038/modpathol.2017.152">DOI</a></div>
 </div>
 
 <div class="publication-item">
@@ -315,7 +315,7 @@
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1093/annonc/mdw379.38">Lower risk of cutaneous squamous cell carcinomas induced by vemurafenib in non melanoma patients</a></div>
 <div class="publication-authors">E. Maubec, Anthony Lévy, Claire Cropet, Julien Mazières, Xavier Troussard, Sophie Leboulleux, David Malka, M. Dinulescu, F. Granel‐Brocard, D. Le Goupil, F. Truchetet, et al.</div>
-<div class="publication-meta"><em>Annals of Oncology</em> · Article · 0 citations · <a href="https://doi.org/10.1093/annonc/mdw379.38">DOI</a></div>
+<div class="publication-meta"><em>Annals of Oncology</em> · Article · 0 citations · Open access · <a href="https://doi.org/10.1093/annonc/mdw379.38">DOI</a></div>
 </div>
 
 <div class="publication-item">
@@ -347,7 +347,7 @@
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1371/journal.pone.0128190">A Recombinant Fungal Lectin for Labeling Truncated Glycans on Human Cancer Cells</a></div>
 <div class="publication-authors">Aymeric Audfray, Mona Beldjoudi, Adrien Breiman, Amandine Hurbin, Irene Boos, Carlo Unverzagt, Mourad Bouras, Sylvie Lantuéjoul, Jean‐Luc Coll, Annabelle Varrot, Jacques Le Pendu, et al.</div>
-<div class="publication-meta"><em>PLoS ONE</em> · Article · 28 citations · Open access · <a href="https://doi.org/10.1371/journal.pone.0128190">DOI</a></div>
+<div class="publication-meta"><em>PLoS ONE</em> · Article · 29 citations · Open access · <a href="https://doi.org/10.1371/journal.pone.0128190">DOI</a></div>
 </div>
 
 <div class="publication-item">
@@ -373,7 +373,7 @@
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1038/srep06065">Laser spectrometry for multi-elemental imaging of biological tissues</a></div>
 <div class="publication-authors">Lucie Sancey, Vincent Motto‐Ros, <strong>Benoît Busser</strong>, Shady Kotb, Jean‐Michel Benoit, A. Piednoir, François Lux, Olivier Tillement, G. Panczer, Jin Yu</div>
-<div class="publication-meta"><em>Scientific Reports</em> · Article · 162 citations · Open access · <a href="https://doi.org/10.1038/srep06065">DOI</a></div>
+<div class="publication-meta"><em>Scientific Reports</em> · Article · 164 citations · Open access · <a href="https://doi.org/10.1038/srep06065">DOI</a></div>
 </div>
 
 <div class="publication-item">
@@ -385,7 +385,7 @@
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.annder.2014.06.021">Mécanismes de résistance aux inhibiteurs de BRAF</a></div>
 <div class="publication-authors">J. Charles, C. Martel, Florence de Fraipont, M.‐T. Leccia, Caroline Robert, <strong>Benoît Busser</strong></div>
-<div class="publication-meta"><em>Annales de Dermatologie et de Vénéréologie</em> · Article · 25 citations · <a href="https://doi.org/10.1016/j.annder.2014.06.021">DOI</a></div>
+<div class="publication-meta"><em>Annales de Dermatologie et de Vénéréologie</em> · Article · 26 citations · <a href="https://doi.org/10.1016/j.annder.2014.06.021">DOI</a></div>
 </div>
 
 <div class="publication-item">
@@ -417,7 +417,7 @@
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1002/ijc.28594">The PI3K/AKT pathway promotes gefitinib resistance in mutant KRAS lung adenocarcinoma by a deacetylase‐dependent mechanism</a></div>
 <div class="publication-authors">Victor Jeannot, <strong>Benoît Busser</strong>, Élisabeth Brambilla, Marie Wislez, Blaise Robin, Jacques Cadranel, Jean‐Luc Coll, Amandine Hurbin</div>
-<div class="publication-meta"><em>International Journal of Cancer</em> · Article · 58 citations · Open access · <a href="https://doi.org/10.1002/ijc.28594">DOI</a></div>
+<div class="publication-meta"><em>International Journal of Cancer</em> · Article · 59 citations · Open access · <a href="https://doi.org/10.1002/ijc.28594">DOI</a></div>
 </div>
 
 <div class="publication-item">

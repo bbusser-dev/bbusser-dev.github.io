@@ -396,7 +396,7 @@
       "Jean‐Luc Coll",
       "Mans Broekgaarden"
     ],
-    "cited_by_count": 30,
+    "cited_by_count": 31,
     "display_on_site": true,
     "doi": "https://doi.org/10.1002/adma.202404605",
     "id": "https://openalex.org/W4403895071",
@@ -439,7 +439,7 @@
       "Benoît Busser",
       "Lucie Sancey"
     ],
-    "cited_by_count": 11,
+    "cited_by_count": 12,
     "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.jmedchem.4c01435",
     "id": "https://openalex.org/W4402612917",
@@ -462,7 +462,7 @@
       "Vincent Motto‐Ros",
       "Ludovic Duponchel"
     ],
-    "cited_by_count": 28,
+    "cited_by_count": 29,
     "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.analchem.4c00237",
     "id": "https://openalex.org/W4393982383",
@@ -543,7 +543,7 @@
       "Catherine Paul",
       "Christine Goze"
     ],
-    "cited_by_count": 10,
+    "cited_by_count": 11,
     "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.jmedchem.3c02139",
     "id": "https://openalex.org/W4392095170",
@@ -1072,7 +1072,7 @@
       "Ludovic Duponchel",
       "Benoît Busser"
     ],
-    "cited_by_count": 104,
+    "cited_by_count": 105,
     "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.analchem.2c04910",
     "id": "https://openalex.org/W4313907584",
@@ -1357,7 +1357,7 @@
       "Aurélien Deniaud",
       "Benoît Busser"
     ],
-    "cited_by_count": 65,
+    "cited_by_count": 67,
     "display_on_site": true,
     "doi": "https://doi.org/10.3390/cancers12123524",
     "id": "https://openalex.org/W3093805104",
@@ -1947,7 +1947,7 @@
       "Lucie Sancey",
       "Vincent Motto‐Ros"
     ],
-    "cited_by_count": 170,
+    "cited_by_count": 171,
     "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.ccr.2017.12.006",
     "id": "https://openalex.org/W2780806931",
@@ -1974,7 +1974,7 @@
       "Vincent Motto‐Ros",
       "Lucie Sancey"
     ],
-    "cited_by_count": 40,
+    "cited_by_count": 41,
     "display_on_site": true,
     "doi": "https://doi.org/10.1038/modpathol.2017.152",
     "id": "https://openalex.org/W2769442935",
@@ -2167,7 +2167,7 @@
     "display_on_site": true,
     "doi": "https://doi.org/10.1093/annonc/mdw379.38",
     "id": "https://openalex.org/W2587859029",
-    "is_open_access": false,
+    "is_open_access": true,
     "is_retracted": false,
     "publication_date": "2016-10-01",
     "publication_year": 2016,
@@ -2312,7 +2312,7 @@
       "Benoît Busser",
       "Anne Imberty"
     ],
-    "cited_by_count": 28,
+    "cited_by_count": 29,
     "display_on_site": true,
     "doi": "https://doi.org/10.1371/journal.pone.0128190",
     "id": "https://openalex.org/W1480869103",
@@ -2404,7 +2404,7 @@
       "G. Panczer",
       "Jin Yu"
     ],
-    "cited_by_count": 162,
+    "cited_by_count": 164,
     "display_on_site": true,
     "doi": "https://doi.org/10.1038/srep06065",
     "id": "https://openalex.org/W2034421254",
@@ -2444,7 +2444,7 @@
       "Caroline Robert",
       "Benoît Busser"
     ],
-    "cited_by_count": 25,
+    "cited_by_count": 26,
     "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.annder.2014.06.021",
     "id": "https://openalex.org/W2024067967",
@@ -2606,7 +2606,7 @@
       "Jean‐Luc Coll",
       "Amandine Hurbin"
     ],
-    "cited_by_count": 58,
+    "cited_by_count": 59,
     "display_on_site": true,
     "doi": "https://doi.org/10.1002/ijc.28594",
     "id": "https://openalex.org/W1543661498",
