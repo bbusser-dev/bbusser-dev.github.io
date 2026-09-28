@@ -20,13 +20,13 @@
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1021/jacs.5c15335">Potent Biological Activity by a Synthetic Cu(I) Cationophore Redistributing Intracellular Copper Pools</a></div>
-<div class="publication-authors">Nathan Renier, Gianluca Weyckmans Mele, Pierre Lelièvre, Mélanie Boeckstaens, Roy Lavendomme, Akin Aydogan, Yannick Dussein, Peggy Charbonnier, Laurence Puillet Anselme, Benoît Chovelon, Hiram Castillo-Michel, et al.</div>
+<div class="publication-authors">Nathan Renier, Gianluca Weyckmans Mele, Pierre Lelièvre, Mélanie Boeckstaens, Roy Lavendomme, Akin Aydogan, Yannick Dussein, Peggy Charbonnier, Laurence Puillet Anselme, Benoît Chovelon, Hiram A. Castillo-Michel, et al.</div>
 <div class="publication-meta"><em>Journal of the American Chemical Society</em> · Article · 4 citations · Open access · <a href="https://doi.org/10.1021/jacs.5c15335">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1038/s41416-025-03026-0">Soluble VE-cadherin as a biomarker of response to immunotherapy by anti-PD1 in metastatic melanoma</a></div>
-<div class="publication-authors">Clémentine Broche, Khémary Um, Isabelle Vilgrain, Stéphane Mouret, M.‐T. Leccia, Arnaud Seigneurin, Laurence Bouillet, M. Enquebecq, A. Salomón, Caroline Aspord, <strong>Benoît Busser</strong>, et al.</div>
+<div class="publication-authors">Clémentine Broche, Khémary Um, Isabelle Vilgrain, Stéphane Mouret, M.‐T. Leccia, Arnaud Seigneurin, Laurence Bouillet, M. Enquebecq, Aude Salomon, Caroline Aspord, <strong>Benoît Busser</strong>, et al.</div>
 <div class="publication-meta"><em>British Journal of Cancer</em> · Article · 0 citations · Open access · <a href="https://doi.org/10.1038/s41416-025-03026-0">DOI</a></div>
 </div>
 
@@ -47,7 +47,7 @@
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1002/adma.202404605">Engineering Radiocatalytic Nanoliposomes with Hydrophobic Gold Nanoclusters for Radiotherapy Enhancement</a></div>
 <div class="publication-authors">Nazareth Milagros Carigga Gutierrez, Tristan Le Clainche, Anne‐Laure Bulin, Sofia Leo, Malika Kadri, Ahmed Gamal Ali Abdelhamid, Núria Pujol‐Solé, Girgis Obaid, Marc‐André Hograindleur, Vincent Gardette, <strong>Benoît Busser</strong>, et al.</div>
-<div class="publication-meta"><em>Advanced Materials</em> · Article · 31 citations · Open access · <a href="https://doi.org/10.1002/adma.202404605">DOI</a></div>
+<div class="publication-meta"><em>Advanced Materials</em> · Article · 33 citations · Open access · <a href="https://doi.org/10.1002/adma.202404605">DOI</a></div>
 </div>
 
 <div class="publication-item">
@@ -59,13 +59,13 @@
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1021/acs.jmedchem.4c01435">WazaGaY: An Innovative Aza-BODIPY-Derived Near-Infrared Fluorescent Probe for Enhanced Tumor Imaging</a></div>
 <div class="publication-authors">Mohamed Bendellaa, Charlotte Cave, Amélie Godard, Fabien Dalonneau, Annika Sickinger, Christine Goze, Olivier Maury, Pierre Le Gendre, Ewen Bodio, <strong>Benoît Busser</strong>, Lucie Sancey</div>
-<div class="publication-meta"><em>Journal of Medicinal Chemistry</em> · Article · 12 citations · Open access · <a href="https://doi.org/10.1021/acs.jmedchem.4c01435">DOI</a></div>
+<div class="publication-meta"><em>Journal of Medicinal Chemistry</em> · Article · 13 citations · Open access · <a href="https://doi.org/10.1021/acs.jmedchem.4c01435">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1021/acs.analchem.4c00237">Enhancing Diagnostic Capabilities for Occupational Lung Diseases Using LIBS Imaging on Biopsy Tissue</a></div>
 <div class="publication-authors">Victor Hugo Cavalcanti Ferreira, Vincent Gardette, <strong>Benoît Busser</strong>, Lucie Sancey, Steven Ronsmans, Vincent Bonneterre, Vincent Motto‐Ros, Ludovic Duponchel</div>
-<div class="publication-meta"><em>Analytical Chemistry</em> · Article · 29 citations · <a href="https://doi.org/10.1021/acs.analchem.4c00237">DOI</a></div>
+<div class="publication-meta"><em>Analytical Chemistry</em> · Article · 30 citations · <a href="https://doi.org/10.1021/acs.analchem.4c00237">DOI</a></div>
 </div>
 
 <div class="publication-item">
@@ -76,7 +76,7 @@
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1021/acs.jmedchem.3c02139">Comparison of the In Vitro and In Vivo Behavior of a Series of NIR-II-Emitting Aza-BODIPYs Containing Different Water-Solubilizing Groups and Their Trastuzumab Antibody Conjugates</a></div>
-<div class="publication-authors">Elisa Chazeau, C. Fabre, Malorie Privat, Amélie Godard, Cindy Racoeur, Ewen Bodio, <strong>Benoît Busser</strong>, K. David Wegner, Lucie Sancey, Catherine Paul, Christine Goze</div>
+<div class="publication-authors">Elisa Chazeau, Christol Fabre, Malorie Privat, Amélie Godard, Cindy Racoeur, Ewen Bodio, <strong>Benoît Busser</strong>, K. David Wegner, Lucie Sancey, Catherine Paul, Christine Goze</div>
 <div class="publication-meta"><em>Journal of Medicinal Chemistry</em> · Article · 11 citations · Open access · <a href="https://doi.org/10.1021/acs.jmedchem.3c02139">DOI</a></div>
 </div>
 
@@ -84,13 +84,13 @@
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1002/ijc.34679">Roles of zinc in cancers: From altered metabolism to therapeutic applications</a></div>
-<div class="publication-authors">Mohamed Bendellaa, P Lelièvre, Jean‐Luc Coll, Lucie Sancey, Aurélien Deniaud, <strong>Benoît Busser</strong></div>
+<div class="publication-authors">Mohamed Bendellaa, Pierre Lelièvre, Jean‐Luc Coll, Lucie Sancey, Aurélien Deniaud, <strong>Benoît Busser</strong></div>
 <div class="publication-meta"><em>International Journal of Cancer</em> · Article · 58 citations · Open access · <a href="https://doi.org/10.1002/ijc.34679">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1021/acs.jmedchem.3c00100">NIR-II Aza-BODIPY Dyes Bioconjugated to Monoclonal Antibody Trastuzumab for Selective Imaging of HER2-Positive Ovarian Cancer</a></div>
-<div class="publication-authors">Amélie Godard, Ghadir Kalot, Malorie Privat, Mohamed Bendellaa, <strong>Benoît Busser</strong>, K. David Wegner, Franck Denat, Xavier Le Guével, Jean‐Luc Coll, Catherine Paul, Ewen Bodio, et al.</div>
+<div class="publication-authors">Amélie Godard, Ghadir Kalot, Malorie Privat, Mohamed Bendellaa, <strong>Benoît Busser</strong>, K. David Wegner, Franck Denat, Xavier Le Guével, Jean‐Luc Coll, Catherine J. Morrison Paul, Ewen Bodio, et al.</div>
 <div class="publication-meta"><em>Journal of Medicinal Chemistry</em> · Article · 31 citations · Open access · <a href="https://doi.org/10.1021/acs.jmedchem.3c00100">DOI</a></div>
 </div>
 
@@ -103,20 +103,20 @@
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1021/acs.analchem.2c04910">Laser-Induced Breakdown Spectroscopy Imaging for Material and Biomedical Applications: Recent Advances and Future Perspectives</a></div>
 <div class="publication-authors">Vincent Gardette, Vincent Motto‐Ros, César Álvarez-Llamas, Lucie Sancey, Ludovic Duponchel, <strong>Benoît Busser</strong></div>
-<div class="publication-meta"><em>Analytical Chemistry</em> · Article · 105 citations · Open access · <a href="https://doi.org/10.1021/acs.analchem.2c04910">DOI</a></div>
+<div class="publication-meta"><em>Analytical Chemistry</em> · Article · 109 citations · Open access · <a href="https://doi.org/10.1021/acs.analchem.2c04910">DOI</a></div>
 </div>
 
 ## 2022
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1021/acs.inorgchem.2c03918">Al(III) and Ga(III) Bisphenolate Azadipyrromethene-Based “N 2 O 2 ” Complexes as Efficient NIR-Fluorophores</a></div>
-<div class="publication-authors">Amélie Godard, Laura Abad Galán, Jean Rouillon, Shaymaa Al Shehimy, Wassima Tajani, Charlotte Cave, Raluca Malacea‐Kabbara, Yoann Rousselin, Pierre Le Gendre, Arnaud Fihey, Mohamed Bendellaa, et al.</div>
-<div class="publication-meta"><em>Inorganic Chemistry</em> · Article · 12 citations · Open access · <a href="https://doi.org/10.1021/acs.inorgchem.2c03918">DOI</a></div>
+<div class="publication-authors">Amélie Godard, Laura Abad Galán, Jean Denis Rouillon, Shaymaa Al Shehimy, Wassima Tajani, Charlotte Cave, Raluca Malacea‐Kabbara, Yoann Rousselin, Pierre Le Gendre, Arnaud Fihey, Mohamed Bendellaa, et al.</div>
+<div class="publication-meta"><em>Inorganic Chemistry</em> · Article · 14 citations · Open access · <a href="https://doi.org/10.1021/acs.inorgchem.2c03918">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.3390/molecules27144651">Succinimido–Ferrocidiphenol Complexed with Cyclodextrins Inhibits Glioblastoma Tumor Growth In Vitro and In Vivo without Noticeable Adverse Toxicity</a></div>
-<div class="publication-authors">Feten Najlaoui, <strong>Benoît Busser</strong>, Germain Sotoing Taïwé, Pascal Pigeon, Nathalie Stürm, Diane Giovannini, Naziha Marrakchi, Ali Rhouma, Gérard Jaouen, Stéphane Gibaud, Michel De Waard</div>
+<div class="publication-authors">Feten Najlaoui, <strong>Benoît Busser</strong>, Germain Sotoing Taïwé, Pascal Pigeon, Nathalie Stürm, Diane Giovannini, Naziha Marrakchi, Ali Rhouma, Gérard Jaouen, Stéphane Gibaud, Michel MDW DE WAARD</div>
 <div class="publication-meta"><em>Molecules</em> · Article · 8 citations · Open access · <a href="https://doi.org/10.3390/molecules27144651">DOI</a></div>
 </div>
 
@@ -134,7 +134,7 @@
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1039/d2bm01271e">Lipoprotein interactions with water-soluble NIR-II emitting aza-BODIPYs boost the fluorescence signal and favor selective tumor targeting</a></div>
-<div class="publication-authors">Ghadir Kalot, Amélie Godard, <strong>Benoît Busser</strong>, Mohamed Bendellaa, Fabien Dalonneau, Catherine Paul, Xavier Le Guével, Véronique Josserand, Jean‐Luc Coll, Franck Denat, Ewen Bodio, et al.</div>
+<div class="publication-authors">Ghadir Kalot, Amélie Godard, <strong>Benoît Busser</strong>, Mohamed Bendellaa, Fabien Dalonneau, Catherine J. Morrison Paul, Xavier Le Guével, Véronique Josserand, Jean‐Luc Coll, Franck Denat, Ewen Bodio, et al.</div>
 <div class="publication-meta"><em>Biomaterials Science</em> · Article · 17 citations · Open access · <a href="https://doi.org/10.1039/d2bm01271e">DOI</a></div>
 </div>
 
@@ -150,25 +150,25 @@
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.3390/cancers12123594">The Multifaceted Roles of Copper in Cancer: A Trace Metal Element with Dysregulated Metabolism, but Also a Target or a Bullet for Therapy</a></div>
-<div class="publication-authors">P Lelièvre, Lucie Sancey, Jean‐Luc Coll, Aurélien Deniaud, <strong>Benoît Busser</strong></div>
+<div class="publication-authors">Pierre Lelièvre, Lucie Sancey, Jean‐Luc Coll, Aurélien Deniaud, <strong>Benoît Busser</strong></div>
 <div class="publication-meta"><em>Cancers</em> · Article · 272 citations · Open access · <a href="https://doi.org/10.3390/cancers12123594">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.3390/cancers12123524">Iron Dysregulation in Human Cancer: Altered Metabolism, Biomarkers for Diagnosis, Prognosis, Monitoring and Rationale for Therapy</a></div>
-<div class="publication-authors">P Lelièvre, Lucie Sancey, Jean‐Luc Coll, Aurélien Deniaud, <strong>Benoît Busser</strong></div>
-<div class="publication-meta"><em>Cancers</em> · Article · 67 citations · Open access · <a href="https://doi.org/10.3390/cancers12123524">DOI</a></div>
+<div class="publication-authors">Pierre Lelièvre, Lucie Sancey, Jean‐Luc Coll, Aurélien Deniaud, <strong>Benoît Busser</strong></div>
+<div class="publication-meta"><em>Cancers</em> · Article · 68 citations · Open access · <a href="https://doi.org/10.3390/cancers12123524">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.admp.2020.03.458">Cold cases : imagerie multi-élémentaire de tissus pour requalifier l’origine professionnelle de pathologies respiratoires</a></div>
-<div class="publication-authors"><strong>Benoît Busser</strong>, Vincent Bonneterre, S. Quétant, Marine Leprince, Lucie Sancey, Vincent Motto‐Ros</div>
+<div class="publication-authors"><strong>Benoît Busser</strong>, Vincent Bonneterre, Sébastien Quétant, Marine Leprince, Lucie Sancey, Vincent Motto‐Ros</div>
 <div class="publication-meta"><em>Archives des maladies professionnelles et de médecine du travail/Archives des maladies professionnelles et de l&#x27;environnement</em> · Article · 0 citations · <a href="https://doi.org/10.1016/j.admp.2020.03.458">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1002/advs.202001675">Radiation Dose‐Enhancement Is a Potent Radiotherapeutic Effect of Rare‐Earth Composite Nanoscintillators in Preclinical Models of Glioblastoma</a></div>
-<div class="publication-authors">Anne‐Laure Bulin, Mans Broekgaarden, Fréderic Chaput, Victor Baisamy, Jan Garrevoet, <strong>Benoît Busser</strong>, Dennis Brueckner, Antonia Youssef, Jean‐Luc Ravanat, Christophe Dujardin, Vincent Motto‐Ros, et al.</div>
+<div class="publication-authors">Anne‐Laure Bulin, Mans Broekgaarden, Fréderic Chaput, Victor Baisamy, Jan Garrevoet, <strong>Benoît Busser</strong>, Dennis Brückner, Antonia Youssef, Jean‐Luc Ravanat, Christophe Dujardin, Vincent Motto‐Ros, et al.</div>
 <div class="publication-meta"><em>Advanced Science</em> · Article · 73 citations · Open access · <a href="https://doi.org/10.1002/advs.202001675">DOI</a></div>
 </div>
 
@@ -181,31 +181,31 @@
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1051/photon/202010334">Imagerie LIBS : aux portes de la clinique</a></div>
 <div class="publication-authors">Vincent Motto‐Ros, Marine Leprince, Ludovic Duponchel, Lucie Sancey, Vincent Bonneterre, Christophe Dujardin, Frédéric Pelascini, <strong>Benoît Busser</strong></div>
-<div class="publication-meta"><em>Photoniques</em> · Article · 1 citation · Open access · <a href="https://doi.org/10.1051/photon/202010334">DOI</a></div>
+<div class="publication-meta"><em>Photoniques</em> · Article · 3 citations · Open access · <a href="https://doi.org/10.1051/photon/202010334">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1021/acs.bioconjchem.0c00175">Water-Soluble Aza-BODIPYs: Biocompatible Organic Dyes for High Contrast In Vivo NIR-II Imaging</a></div>
 <div class="publication-authors">Amélie Godard, Ghadir Kalot, Jacques Pliquett, <strong>Benoît Busser</strong>, Xavier Le Guével, K. David Wegner, Ute Resch‐Genger, Yoann Rousselin, Jean‐Luc Coll, Franck Denat, Ewen Bodio, et al.</div>
-<div class="publication-meta"><em>Bioconjugate Chemistry</em> · Article · 87 citations · <a href="https://doi.org/10.1021/acs.bioconjchem.0c00175">DOI</a></div>
+<div class="publication-meta"><em>Bioconjugate Chemistry</em> · Article · 90 citations · <a href="https://doi.org/10.1021/acs.bioconjchem.0c00175">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://openalex.org/W4285035338">LIBS-Based Imaging: Recent Advances and Future Directions</a></div>
-<div class="publication-authors">Vincent Motto‐Ros, Vincent Gardette, L Sancey, M Leprince, Dominique Genty, Stéphane Roux, <strong>Benoît Busser</strong>, F Pelascini</div>
+<div class="publication-authors">Vincent Motto‐Ros, Vincent Gardette, Lucie Sancey, Marine Leprince, Dominique Genty, Stéphane Roux, <strong>Benoît Busser</strong>, Frédéric Pelascini</div>
 <div class="publication-meta"><em>HAL (Le Centre pour la Communication Scientifique Directe)</em> · Article · 16 citations · Open access · <a href="https://openalex.org/W4285035338">OpenAlex</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.7150/thno.40971">Stapled peptide targeting the CDK4/Cyclin D interface combined with Abemaciclib inhibits KRAS mutant lung cancer growth</a></div>
 <div class="publication-authors">Céline Bouclier, Matthieu Simon, Guillaume Laconde, Morgan Pellerano, Sébastien Diot, Sylvie Lantuéjoul, <strong>Benoît Busser</strong>, Laetitia Vanwonterghem, Julien Vollaire, Véronique Josserand, Baptiste Legrand, et al.</div>
-<div class="publication-meta"><em>Theranostics</em> · Article · 20 citations · Open access · <a href="https://doi.org/10.7150/thno.40971">DOI</a></div>
+<div class="publication-meta"><em>Theranostics</em> · Article · 22 citations · Open access · <a href="https://doi.org/10.7150/thno.40971">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/b978-0-12-818829-3.00014-9">LIBS imaging applications</a></div>
 <div class="publication-authors">Vincent Motto‐Ros, S. Moncayo, C. Fabre, <strong>Benoît Busser</strong></div>
-<div class="publication-meta"><em>Elsevier eBooks</em> · Book Chapter · 11 citations · <a href="https://doi.org/10.1016/b978-0-12-818829-3.00014-9">DOI</a></div>
+<div class="publication-meta"><em>Elsevier eBooks</em> · Book Chapter · 13 citations · <a href="https://doi.org/10.1016/b978-0-12-818829-3.00014-9">DOI</a></div>
 </div>
 
 ## 2019
@@ -219,12 +219,12 @@
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1051/medsci/2019132">L’imagerie élémentaire par spectroscopie LIBS</a></div>
 <div class="publication-authors">Marine Leprince, Lucie Sancey, Jean‐Luc Coll, Vincent Motto‐Ros, <strong>Benoît Busser</strong></div>
-<div class="publication-meta"><em>médecine/sciences</em> · Article · 3 citations · Open access · <a href="https://doi.org/10.1051/medsci/2019132">DOI</a></div>
+<div class="publication-meta"><em>médecine/sciences</em> · Article · 5 citations · Open access · <a href="https://doi.org/10.1051/medsci/2019132">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.nano.2019.04.014">Gold nanoclusters as a contrast agent for image-guided surgery of head and neck tumors</a></div>
-<div class="publication-authors">C. Colombé, Xavier Le Guével, Angela Martin-Serrano, Maxime Henry, Estelle Porret, Clothilde Comby‐Zerbino, Rodolphe Antoine, I. Atallah, <strong>Benoît Busser</strong>, Jean‐Luc Coll, Christian Righini, Lucie Sancey</div>
+<div class="publication-authors">Cindy Colombé, Xavier Le Guével, Ángela Martín‐Serrano Ortiz, Maxime Henry, Estelle Porret, Clothilde Comby‐Zerbino, Rodolphe Antoine, I. Atallah, <strong>Benoît Busser</strong>, Jean‐Luc Coll, Christian Adrien Righini, Lucie Sancey</div>
 <div class="publication-meta"><em>Nanomedicine Nanotechnology Biology and Medicine</em> · Article · 34 citations · Open access · <a href="https://doi.org/10.1016/j.nano.2019.04.014">DOI</a></div>
 </div>
 
@@ -238,8 +238,8 @@
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.sab.2018.11.006">Laser-induced breakdown spectroscopy for human and animal health: A review</a></div>
-<div class="publication-authors">R. Gaudiuso, Noureddine Melikechi, Zienab Abdel‐Salam, Mohamed Abdel Harith, Vincenzo Palleschi, Vincent Motto‐Ros, <strong>Benoît Busser</strong></div>
-<div class="publication-meta"><em>Spectrochimica Acta Part B Atomic Spectroscopy</em> · Article · 156 citations · <a href="https://doi.org/10.1016/j.sab.2018.11.006">DOI</a></div>
+<div class="publication-authors">R. Gaudiuso, Noureddine Melikechi, Zienab A. Abdel‐Salam, Mohamed Abdel Harith, Vincenzo Palleschi, Vincent Motto‐Ros, <strong>Benoît Busser</strong></div>
+<div class="publication-meta"><em>Spectrochimica Acta Part B Atomic Spectroscopy</em> · Article · 157 citations · <a href="https://doi.org/10.1016/j.sab.2018.11.006">DOI</a></div>
 </div>
 
 <div class="publication-item">
@@ -250,8 +250,8 @@
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1111/jphp.12998">Anticancer properties of lipid and poly(ε-caprolactone) nanocapsules loaded with ferrocenyl-tamoxifen derivatives</a></div>
-<div class="publication-authors">Feten Najlaoui, Pascal Pigeon, Sonia Aroui, Mylène Pezet, Lucie Sancey, Naziha Marrakchi, Ali Rhouma, Gérard Jaouen, Michel De Waard, <strong>Benoît Busser</strong>, Stéphane Gibaud</div>
-<div class="publication-meta"><em>Journal of Pharmacy and Pharmacology</em> · Article · 11 citations · Open access · <a href="https://doi.org/10.1111/jphp.12998">DOI</a></div>
+<div class="publication-authors">Feten Najlaoui, Pascal Pigeon, Sonia Aroui, Mylène Pezet, Lucie Sancey, Naziha Marrakchi, Ali Rhouma, Gérard Jaouen, Michel MDW DE WAARD, <strong>Benoît Busser</strong>, Stéphane Gibaud</div>
+<div class="publication-meta"><em>Journal of Pharmacy and Pharmacology</em> · Article · 12 citations · Open access · <a href="https://doi.org/10.1111/jphp.12998">DOI</a></div>
 </div>
 
 <div class="publication-item">
@@ -263,12 +263,12 @@
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.canlet.2018.01.080">Nuclear translocation of IGF1R by intracellular amphiregulin contributes to the resistance of lung tumour cells to EGFR-TKI</a></div>
 <div class="publication-authors">Marie Guérard, Thomas Robin, Pascal Perron, Anne‐Sophie Hatat, Laurence David‐Boudet, Laetitia Vanwonterghem, <strong>Benoît Busser</strong>, Jean‐Luc Coll, Sylvie Lantuéjoul, Béatrice Eymin, Amandine Hurbin, Sylvie Gazzéri</div>
-<div class="publication-meta"><em>Cancer Letters</em> · Article · 27 citations · <a href="https://doi.org/10.1016/j.canlet.2018.01.080">DOI</a></div>
+<div class="publication-meta"><em>Cancer Letters</em> · Article · 28 citations · <a href="https://doi.org/10.1016/j.canlet.2018.01.080">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.rmr.2017.10.268">Analyse minéralogique par microscopie électronique et par Laser Induced Breakdown Spectroscopy (LIBS) chez deux patients atteints de sarcoïdose issus de l’étude MINASARC</a></div>
-<div class="publication-authors">Mickaël Catinon, <strong>Benoît Busser</strong>, F. Thivolet, Marianne Kambouchner, Jean‐François Bernaudin, Olivia Freynet, Dominique Valeyre, Catherine Cavalin, P.A. Rosental, Ana-Maria Trunfio-Sfarghiu, François Arbib, et al.</div>
+<div class="publication-authors">Mickaël Catinon, <strong>Benoît Busser</strong>, Françoise Thivolet, Marianne Kambouchner, Jean‐François Bernaudin, Olivia Freynet, Dominique Valeyre, Catherine Cavalin, P.A. Rosental, Ana-Maria Trunfio-Sfarghiu, François Arbib, et al.</div>
 <div class="publication-meta"><em>Revue des Maladies Respiratoires</em> · Article · 0 citations · <a href="https://doi.org/10.1016/j.rmr.2017.10.268">DOI</a></div>
 </div>
 
@@ -277,13 +277,13 @@
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.ccr.2017.12.006">Elemental imaging using laser-induced breakdown spectroscopy: A new and promising approach for biological and medical applications</a></div>
 <div class="publication-authors"><strong>Benoît Busser</strong>, S. Moncayo, Jean‐Luc Coll, Lucie Sancey, Vincent Motto‐Ros</div>
-<div class="publication-meta"><em>Coordination Chemistry Reviews</em> · Article · 171 citations · <a href="https://doi.org/10.1016/j.ccr.2017.12.006">DOI</a></div>
+<div class="publication-meta"><em>Coordination Chemistry Reviews</em> · Article · 174 citations · <a href="https://doi.org/10.1016/j.ccr.2017.12.006">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1038/modpathol.2017.152">Characterization of foreign materials in paraffin-embedded pathological specimens using in situ multi-elemental imaging with laser spectroscopy</a></div>
-<div class="publication-authors"><strong>Benoît Busser</strong>, S. Moncayo, Florian Trichard, Vincent Bonneterre, N. Pinel, Frédéric Pelascini, Philippe Dugourd, Jean‐Luc Coll, M. D’Incan, J. Charles, Vincent Motto‐Ros, Lucie Sancey</div>
-<div class="publication-meta"><em>Modern Pathology</em> · Article · 41 citations · Open access · <a href="https://doi.org/10.1038/modpathol.2017.152">DOI</a></div>
+<div class="publication-authors"><strong>Benoît Busser</strong>, S. Moncayo, Florian Trichard, Vincent Bonneterre, Nicole Pinel, Frédéric Pelascini, Philippe Dugourd, Jean‐Luc Coll, Michel D&#x27;Incan, Julie Charles, Vincent Motto‐Ros, Lucie Sancey</div>
+<div class="publication-meta"><em>Modern Pathology</em> · Article · 42 citations · Open access · <a href="https://doi.org/10.1038/modpathol.2017.152">DOI</a></div>
 </div>
 
 <div class="publication-item">
@@ -294,19 +294,19 @@
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1158/1535-7163.mct-16-0602-t">Efficacy of AKT Inhibitor ARQ 092 Compared with Sorafenib in a Cirrhotic Rat Model with Hepatocellular Carcinoma</a></div>
-<div class="publication-authors">Gaël S. Roth, Zuzana Macek Jílková, Ayça Zeybek Kuyucu, Keerthi Kurma, Séyédéh Tayébéh Ahmad Pour, Giovanni Abbadessa, Yi Yu, <strong>Benoît Busser</strong>, Patrice N. Marche, Vincent Leroy, Thomas Decaens</div>
-<div class="publication-meta"><em>Molecular Cancer Therapeutics</em> · Article · 27 citations · <a href="https://doi.org/10.1158/1535-7163.mct-16-0602-t">DOI</a></div>
+<div class="publication-authors">Gaël S. Roth, Zuzana Macek Jílková, Ayça Zeybek Kuyucu, Keerthi Kurma, Séyédéh Tayébéh Ahmad Pour, Giovanni Abbadessa, Yi Yu, <strong>Benoît Busser</strong>, Patrice Noël Marche, Vincent Leroy, Thomas Decaens</div>
+<div class="publication-meta"><em>Molecular Cancer Therapeutics</em> · Article · 28 citations · <a href="https://doi.org/10.1158/1535-7163.mct-16-0602-t">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.sab.2017.04.013">Multi-elemental imaging of paraffin-embedded human samples by laser-induced breakdown spectroscopy</a></div>
-<div class="publication-authors">S. Moncayo, Florian Trichard, <strong>Benoît Busser</strong>, M. Sabatier-Vincent, Frédéric Pelascini, N. Pinel, I. Templier, J. Charles, Lucie Sancey, Vincent Motto‐Ros</div>
-<div class="publication-meta"><em>Spectrochimica Acta Part B Atomic Spectroscopy</em> · Article · 68 citations · <a href="https://doi.org/10.1016/j.sab.2017.04.013">DOI</a></div>
+<div class="publication-authors">S. Moncayo, Florian Trichard, <strong>Benoît Busser</strong>, M. Sabatier-Vincent, Frédéric Pelascini, Nicole Pinel, Isabelle Templier, Julie Charles, Lucie Sancey, Vincent Motto‐Ros</div>
+<div class="publication-meta"><em>Spectrochimica Acta Part B Atomic Spectroscopy</em> · Article · 69 citations · <a href="https://doi.org/10.1016/j.sab.2017.04.013">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1155/2017/5986129">Plasma Circulating Tumor DNA Levels for the Monitoring of Melanoma Patients: Landscape of Available Technologies and Clinical Applications</a></div>
-<div class="publication-authors"><strong>Benoît Busser</strong>, Julien Lupo, Lucie Sancey, Stéphane Mouret, Patrice Faure, Joël Plumas, Laurence Chaperot, M.‐T. Leccia, Jean‐Luc Coll, Amandine Hurbin, Pierre Hainaut, J. Charles</div>
+<div class="publication-authors"><strong>Benoît Busser</strong>, Julien Lupo, Lucie Sancey, Stéphane Mouret, Patrice Faure, Joël Plumas, Laurence Chaperot, M.‐T. Leccia, Jean‐Luc Coll, Amandine Hurbin, Pierre L. Hainaut, Julie Charles</div>
 <div class="publication-meta"><em>BioMed Research International</em> · Article · 55 citations · Open access · <a href="https://doi.org/10.1155/2017/5986129">DOI</a></div>
 </div>
 
@@ -314,14 +314,14 @@
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1093/annonc/mdw379.38">Lower risk of cutaneous squamous cell carcinomas induced by vemurafenib in non melanoma patients</a></div>
-<div class="publication-authors">E. Maubec, Anthony Lévy, Claire Cropet, Julien Mazières, Xavier Troussard, Sophie Leboulleux, David Malka, M. Dinulescu, F. Granel‐Brocard, D. Le Goupil, F. Truchetet, et al.</div>
+<div class="publication-authors">E. Maubec, Anthony Lévy, Claire Cropet, Julien Mazières, Xavier Troussard, Sophie Leboulleux, David Malka, M. Dinulescu, Florence Granel‐Brocard, D. Le Goupil, F. Truchetet, et al.</div>
 <div class="publication-meta"><em>Annals of Oncology</em> · Article · 0 citations · Open access · <a href="https://doi.org/10.1093/annonc/mdw379.38">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1038/srep29936">3D Imaging of Nanoparticle Distribution in Biological Tissue by Laser-Induced Breakdown Spectroscopy</a></div>
-<div class="publication-authors">Yilbert Gimènez, <strong>Benoît Busser</strong>, Florian Trichard, Alexander Kulesza, Jean-Michel Laurent, V. Zaun, François Lux, Jean‐Michel Benoit, G. Panczer, Philippe Dugourd, Olivier Tillement, et al.</div>
-<div class="publication-meta"><em>Scientific Reports</em> · Article · 119 citations · Open access · <a href="https://doi.org/10.1038/srep29936">DOI</a></div>
+<div class="publication-authors">Yilbert Gimènez, <strong>Benoît Busser</strong>, Florian Trichard, Alexander Jan Kulesza, Jean-Michel Laurent, V. Zaun, François Lux, Jean‐Michel Benoit, G. Panczer, Philippe Dugourd, Olivier Tillement, et al.</div>
+<div class="publication-meta"><em>Scientific Reports</em> · Article · 123 citations · Open access · <a href="https://doi.org/10.1038/srep29936">DOI</a></div>
 </div>
 
 <div class="publication-item">
@@ -334,20 +334,20 @@
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.annder.2015.10.508">Utilité clinique du monitoring plasmatique de la mutation BRAF V600E par droplet digital PCR chez des patients atteints de mélanome métastatique</a></div>
-<div class="publication-authors"><strong>Benoît Busser</strong>, Julien Lupo, Lucie Sancey, I. Templier, Florence de Fraipont, J. Plumas, Laurence Chaperot, Jean‐Luc Coll, Amandine Hurbin, Pierre Hainaut, M.‐T. Leccia, J. Charles</div>
+<div class="publication-authors"><strong>Benoît Busser</strong>, Julien Lupo, Lucie Sancey, Isabelle Templier, Florence de Fraipont, Joël Plumas, Laurence Chaperot, Jean‐Luc Coll, Amandine Hurbin, Pierre L. Hainaut, M.‐T. Leccia, Julie Charles</div>
 <div class="publication-meta"><em>Annales de Dermatologie et de Vénéréologie</em> · Article · 0 citations · <a href="https://doi.org/10.1016/j.annder.2015.10.508">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.jaad.2015.03.007">Access to molecular guided therapy for Langerhans cell histiocytosis patients</a></div>
-<div class="publication-authors">J. Charles, Jean‐Claude Béani, M. Tardieu, <strong>Benoît Busser</strong></div>
+<div class="publication-authors">Julie Charles, Jean‐Claude Béani, Mathilde Tardieu, <strong>Benoît Busser</strong></div>
 <div class="publication-meta"><em>Journal of the American Academy of Dermatology</em> · Article · 4 citations · Open access · <a href="https://doi.org/10.1016/j.jaad.2015.03.007">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1371/journal.pone.0128190">A Recombinant Fungal Lectin for Labeling Truncated Glycans on Human Cancer Cells</a></div>
 <div class="publication-authors">Aymeric Audfray, Mona Beldjoudi, Adrien Breiman, Amandine Hurbin, Irene Boos, Carlo Unverzagt, Mourad Bouras, Sylvie Lantuéjoul, Jean‐Luc Coll, Annabelle Varrot, Jacques Le Pendu, et al.</div>
-<div class="publication-meta"><em>PLoS ONE</em> · Article · 29 citations · Open access · <a href="https://doi.org/10.1371/journal.pone.0128190">DOI</a></div>
+<div class="publication-meta"><em>PLoS ONE</em> · Article · 32 citations · Open access · <a href="https://doi.org/10.1371/journal.pone.0128190">DOI</a></div>
 </div>
 
 <div class="publication-item">
@@ -360,43 +360,43 @@
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.annder.2014.09.172">Efficacité prolongée du vémurafénib comme traitement d’une histiocytose langerhansienne pure cutanée mutée BRAF</a></div>
-<div class="publication-authors">J. Charles, J.-C. Béani, I. Templier, Giacomo Fiandrino, L. Bondier, M.‐T. Leccia, <strong>Benoît Busser</strong></div>
+<div class="publication-authors">Julie Charles, J.-C. Béani, Isabelle Templier, Giacomo Fiandrino, L. Bondier, M.‐T. Leccia, <strong>Benoît Busser</strong></div>
 <div class="publication-meta"><em>Annales de Dermatologie et de Vénéréologie</em> · Article · 0 citations · <a href="https://doi.org/10.1016/j.annder.2014.09.172">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.rmr.2014.04.027">The PI3K/AKT pathway promotes gefitinib resistance in wild-type EGFR lung adenocarcinoma by a deacetylase-dependent mechanism</a></div>
-<div class="publication-authors">Victor Jeannot, <strong>Benoît Busser</strong>, Élisabeth Brambilla, Marie Wislez, Blaise Robin, J. Cadranel, Jean‐Luc Coll, Amandine Hurbin</div>
+<div class="publication-authors">Victor Jeannot, <strong>Benoît Busser</strong>, Elisabeth M. Brambilla, Marie Wislez, Blaise Robin, J. Cadranel, Jean‐Luc Coll, Amandine Hurbin</div>
 <div class="publication-meta"><em>Revue des Maladies Respiratoires</em> · Article · 0 citations · <a href="https://doi.org/10.1016/j.rmr.2014.04.027">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1038/srep06065">Laser spectrometry for multi-elemental imaging of biological tissues</a></div>
 <div class="publication-authors">Lucie Sancey, Vincent Motto‐Ros, <strong>Benoît Busser</strong>, Shady Kotb, Jean‐Michel Benoit, A. Piednoir, François Lux, Olivier Tillement, G. Panczer, Jin Yu</div>
-<div class="publication-meta"><em>Scientific Reports</em> · Article · 164 citations · Open access · <a href="https://doi.org/10.1038/srep06065">DOI</a></div>
+<div class="publication-meta"><em>Scientific Reports</em> · Article · 168 citations · Open access · <a href="https://doi.org/10.1038/srep06065">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.jaad.2014.03.038">Major response to vemurafenib in patient with severe cutaneous Langerhans cell histiocytosis harboring BRAF V600E mutation</a></div>
-<div class="publication-authors">J. Charles, Jean‐Claude Béani, Giacomo Fiandrino, <strong>Benoît Busser</strong></div>
+<div class="publication-authors">Julie Charles, Jean‐Claude Béani, Giacomo Fiandrino, <strong>Benoît Busser</strong></div>
 <div class="publication-meta"><em>Journal of the American Academy of Dermatology</em> · Article · 44 citations · Open access · <a href="https://doi.org/10.1016/j.jaad.2014.03.038">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.annder.2014.06.021">Mécanismes de résistance aux inhibiteurs de BRAF</a></div>
-<div class="publication-authors">J. Charles, C. Martel, Florence de Fraipont, M.‐T. Leccia, Caroline Robert, <strong>Benoît Busser</strong></div>
-<div class="publication-meta"><em>Annales de Dermatologie et de Vénéréologie</em> · Article · 26 citations · <a href="https://doi.org/10.1016/j.annder.2014.06.021">DOI</a></div>
+<div class="publication-authors">Julie Charles, Catherine Martel, Florence de Fraipont, M.‐T. Leccia, Caroline Robert, <strong>Benoît Busser</strong></div>
+<div class="publication-meta"><em>Annales de Dermatologie et de Vénéréologie</em> · Article · 28 citations · <a href="https://doi.org/10.1016/j.annder.2014.06.021">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/s0959-8049(14)50440-6">495: AKT and gefitinib resistance in mutant KRAS non-small cell lung cancers through mechanisms dependent of acetylation</a></div>
-<div class="publication-authors">Victor Jeannot, <strong>Benoît Busser</strong>, E Brambilla, Marie Wislez, Blaise Robin, Jacques Cadranel, Jean‐Luc Coll, Amandine Hurbin</div>
+<div class="publication-authors">Victor Jeannot, <strong>Benoît Busser</strong>, E Brambilla, Marie Wislez, Blaise Robin, Jacques L. Cadranel, Jean‐Luc Coll, Amandine Hurbin</div>
 <div class="publication-meta"><em>European Journal of Cancer</em> · Article · 0 citations · <a href="https://doi.org/10.1016/s0959-8049(14)50440-6">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://openalex.org/W3023854658">Iconography : Mécanismes de résistance aux inhibiteurs de BRAF</a></div>
-<div class="publication-authors">J. Charles, Christopher B. Martel, Florence de Fraipont, M.‐T. Leccia, Catherine Robert, <strong>Benoît Busser</strong></div>
+<div class="publication-authors">Julie Charles, Christopher B. Martel, Florence de Fraipont, M.‐T. Leccia, Catherine Robert, <strong>Benoît Busser</strong></div>
 <div class="publication-meta">Article · 0 citations · <a href="https://openalex.org/W3023854658">OpenAlex</a></div>
 </div>
 
@@ -404,31 +404,31 @@
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.annder.2013.09.290">Mélanomes métastatiques d’évolution explosive sous la forme de miliaires cérébrales après échappement au vemurafenib</a></div>
-<div class="publication-authors">J. Charles, <strong>Benoît Busser</strong>, Omer Eker, I. Templier, Antoine Claeys, Guillaume Gras-Combe, J.-C. Béani, C. Verry, M.‐T. Leccia</div>
+<div class="publication-authors">Julie Charles, <strong>Benoît Busser</strong>, Omer Eker, Isabelle Templier, Antoine Claeys, Guillaume Gras-Combe, J.-C. Béani, C. Verry, M.‐T. Leccia</div>
 <div class="publication-meta"><em>Annales de Dermatologie et de Vénéréologie</em> · Article · 0 citations · <a href="https://doi.org/10.1016/j.annder.2013.09.290">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.annder.2013.09.299">Découverte d’une nouvelle mutation complexe de BRAF V600-K601&gt;D associée à une réponse au vemurafenib chez un patient avec un mélanome métastatique</a></div>
-<div class="publication-authors"><strong>Benoît Busser</strong>, M.‐T. Leccia, Guillaume Gras-Combe, Ivan Bricault, I. Templier, A. Claeys, M. J. Richard, Florence de Fraipont, J. Charles</div>
+<div class="publication-authors"><strong>Benoît Busser</strong>, M.‐T. Leccia, Guillaume Gras-Combe, Ivan Bricault, Isabelle Templier, Arne Claeys, M. J. Richard, Florence de Fraipont, Julie Charles</div>
 <div class="publication-meta"><em>Annales de Dermatologie et de Vénéréologie</em> · Article · 0 citations · <a href="https://doi.org/10.1016/j.annder.2013.09.299">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1002/ijc.28594">The PI3K/AKT pathway promotes gefitinib resistance in mutant KRAS lung adenocarcinoma by a deacetylase‐dependent mechanism</a></div>
-<div class="publication-authors">Victor Jeannot, <strong>Benoît Busser</strong>, Élisabeth Brambilla, Marie Wislez, Blaise Robin, Jacques Cadranel, Jean‐Luc Coll, Amandine Hurbin</div>
+<div class="publication-authors">Victor Jeannot, <strong>Benoît Busser</strong>, Elisabeth M. Brambilla, Marie Wislez, Blaise Robin, Jacques L. Cadranel, Jean‐Luc Coll, Amandine Hurbin</div>
 <div class="publication-meta"><em>International Journal of Cancer</em> · Article · 59 citations · Open access · <a href="https://doi.org/10.1002/ijc.28594">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1001/jamadermatol.2013.8198">Identification of a Novel ComplexBRAFMutation Associated With Major Clinical Response to Vemurafenib in a Patient With Metastatic Melanoma</a></div>
-<div class="publication-authors"><strong>Benoît Busser</strong>, M.‐T. Leccia, Guillaume Gras-Combe, Ivan Bricault, I. Templier, Antoine Claeys, Marie Jeanne Richard, Florence de Fraipont, J. Charles</div>
+<div class="publication-authors"><strong>Benoît Busser</strong>, M.‐T. Leccia, Guillaume Gras-Combe, Ivan Bricault, Isabelle Templier, Antoine Claeys, Marie Jeanne Richard, Florence de Fraipont, Julie Charles</div>
 <div class="publication-meta"><em>JAMA Dermatology</em> · Article · 22 citations · <a href="https://doi.org/10.1001/jamadermatol.2013.8198">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.lungcan.2013.07.010">Adequacy of CT-guided biopsies with histomolecular subtyping of pulmonary adenocarcinomas: Influence of ATS/ERS/IASLC guidelines</a></div>
-<div class="publication-authors">G. Ferretti, <strong>Benoît Busser</strong>, Florence de Fraipont, Émilie Reymond, Anne McLeer‐Florin, L MESCAM-MANCINI, Denis Moro‐Sibilot, Élisabeth Brambilla, Sylvie Lantuéjoul</div>
+<div class="publication-authors">G. Ferretti, <strong>Benoît Busser</strong>, Florence de Fraipont, Émilie Reymond, Anne McLeer‐Florin, L MESCAM-MANCINI, Denis Moro‐Sibilot, Elisabeth M. Brambilla, Sylvie Lantuéjoul</div>
 <div class="publication-meta"><em>Lung Cancer</em> · Article · 48 citations · <a href="https://doi.org/10.1016/j.lungcan.2013.07.010">DOI</a></div>
 </div>
 
@@ -448,14 +448,14 @@
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/j.bbcan.2011.05.003">The multiple roles of amphiregulin in human cancer</a></div>
-<div class="publication-authors"><strong>Benoît Busser</strong>, Lucie Sancey, Élisabeth Brambilla, Jean‐Luc Coll, Amandine Hurbin</div>
-<div class="publication-meta"><em>Biochimica et Biophysica Acta (BBA) - Reviews on Cancer</em> · Article · 257 citations · <a href="https://doi.org/10.1016/j.bbcan.2011.05.003">DOI</a></div>
+<div class="publication-authors"><strong>Benoît Busser</strong>, Lucie Sancey, Elisabeth M. Brambilla, Jean‐Luc Coll, Amandine Hurbin</div>
+<div class="publication-meta"><em>Biochimica et Biophysica Acta (BBA) - Reviews on Cancer</em> · Article · 260 citations · <a href="https://doi.org/10.1016/j.bbcan.2011.05.003">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1002/path.2897">Insulin‐like growth factor‐1 receptor inhibition overcomes gefitinib resistance in mucinous lung adenocarcinoma</a></div>
-<div class="publication-authors">Amandine Hurbin, Marie Wislez, <strong>Benoît Busser</strong>, Martine Antoine, Corine Tenaud, Nathalie Rabbe, Sandrine Dufort, Florence de Fraipont, Denis Moro‐Sibilot, Jacques Cadranel, Jean‐Luc Coll, Élisabeth Brambilla</div>
-<div class="publication-meta"><em>The Journal of Pathology</em> · Article · 49 citations · <a href="https://doi.org/10.1002/path.2897">DOI</a></div>
+<div class="publication-authors">Amandine Hurbin, Marie Wislez, <strong>Benoît Busser</strong>, Martine Antoine, Corine Tenaud, Nathalie Rabbe, Sandrine Dufort, Florence de Fraipont, Denis Moro‐Sibilot, Jacques L. Cadranel, Jean‐Luc Coll, Elisabeth M. Brambilla</div>
+<div class="publication-meta"><em>The Journal of Pathology</em> · Article · 50 citations · <a href="https://doi.org/10.1002/path.2897">DOI</a></div>
 </div>
 
 ## 2010
@@ -468,7 +468,7 @@
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/s0007-4551(15)31194-2">101: Identification of differential pathways in mucinous and non-mucinous subtypes of lung adenocarcinoma suggested new therapeutic strategies</a></div>
-<div class="publication-authors">Amandine Hurbin, <strong>Benoît Busser</strong>, Élisabeth Brambilla, Denis Moro‐Sibilot, Martine Antoine, Virginie Poulot, Jean‐Luc Coll, Marie Wislez, J. Cadranel, Amandine Hurbin</div>
+<div class="publication-authors">Amandine Hurbin, <strong>Benoît Busser</strong>, Elisabeth M. Brambilla, Denis Moro‐Sibilot, Martine Antoine, Virginie Poulot, Jean‐Luc Coll, Marie Wislez, J. Cadranel, Amandine Hurbin</div>
 <div class="publication-meta"><em>Bulletin du Cancer</em> · Article · 2 citations · <a href="https://doi.org/10.1016/s0007-4551(15)31194-2">DOI</a></div>
 </div>
 
@@ -476,13 +476,13 @@
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1038/mt.2009.227">Amphiregulin Promotes Resistance to Gefitinib in NonSmall Cell Lung Cancer Cells by Regulating Ku70 Acetylation</a></div>
-<div class="publication-authors"><strong>Benoît Busser</strong>, Lucie Sancey, Véronique Josserand, C. Niang, Saadi Khochbin, Marie Favrot, Jean‐Luc Coll, Amandine Hurbin</div>
+<div class="publication-authors"><strong>Benoît Busser</strong>, Lucie Sancey, Véronique Josserand, Carole Niang, Saadi Khochbin, Marie Favrot, Jean‐Luc Coll, Amandine Hurbin</div>
 <div class="publication-meta"><em>Molecular Therapy</em> · Article · 44 citations · Open access · <a href="https://doi.org/10.1038/mt.2009.227">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1038/mt.2009.226">Amphiregulin Promotes BAX Inhibition and Resistance to Gefitinib in Non-small-cell Lung Cancers</a></div>
-<div class="publication-authors"><strong>Benoît Busser</strong>, Lucie Sancey, Véronique Josserand, C. Niang, Marie Favrot, Jean‐Luc Coll, Amandine Hurbin</div>
+<div class="publication-authors"><strong>Benoît Busser</strong>, Lucie Sancey, Véronique Josserand, Carole Niang, Marie Favrot, Jean‐Luc Coll, Amandine Hurbin</div>
 <div class="publication-meta"><em>Molecular Therapy</em> · Article · 58 citations · Open access · <a href="https://doi.org/10.1038/mt.2009.226">DOI</a></div>
 </div>
 
@@ -496,7 +496,7 @@
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/s0761-8425(08)75023-x">L’Amphiréguline induit la résistance au gefitinib des Cancers Bronchiques Non à Petites Cellules en contrôlant l’inactivation de BAX par Ku70</a></div>
-<div class="publication-authors"><strong>Benoît Busser</strong>, C. Niang, Saadi Khochbin, Jean‐Luc Coll, Amandine Hurbin</div>
+<div class="publication-authors"><strong>Benoît Busser</strong>, Carole Niang, Saadi Khochbin, Jean‐Luc Coll, Amandine Hurbin</div>
 <div class="publication-meta"><em>Revue des Maladies Respiratoires</em> · Article · 0 citations · <a href="https://doi.org/10.1016/s0761-8425(08)75023-x">DOI</a></div>
 </div>
 
@@ -510,13 +510,13 @@
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/s0761-8425(07)74343-7">052 L’Amphiréguline induit la résistance au gefitinib via la séquestration de BAX par Ku70</a></div>
-<div class="publication-authors"><strong>Benoît Busser</strong>, C. Niang, M Favrot, Amandine Hurbin</div>
+<div class="publication-authors"><strong>Benoît Busser</strong>, Carole Niang, M Favrot, Amandine Hurbin</div>
 <div class="publication-meta"><em>Revue des Maladies Respiratoires</em> · Article · 0 citations · <a href="https://doi.org/10.1016/s0761-8425(07)74343-7">DOI</a></div>
 </div>
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/s0761-8425(07)74342-5">051 Analyse immunohistochimique de la voie anti-apoptotique mise en jeu par l’amphiréguline (AR) et l’IGF1 dans des tumeurs bronchiques humaines</a></div>
-<div class="publication-authors"><strong>Benoît Busser</strong>, Élisabeth Brambilla, David Moro, L. Escales, Virginie Poulot, Marie Wislez, Jacques Cadranel, M Favrot, Amandine Hurbin</div>
+<div class="publication-authors"><strong>Benoît Busser</strong>, Elisabeth M. Brambilla, David Moro, L. Escales, Virginie Poulot, Marie Wislez, Jacques L. Cadranel, M Favrot, Amandine Hurbin</div>
 <div class="publication-meta"><em>Revue des Maladies Respiratoires</em> · Article · 0 citations · <a href="https://doi.org/10.1016/s0761-8425(07)74342-5">DOI</a></div>
 </div>
 
@@ -524,6 +524,6 @@
 
 <div class="publication-item">
 <div class="publication-title"><a href="https://doi.org/10.1016/s0761-8425(06)71862-9">034 L’Amphiréguline : un facteur de résistance au gefitinib dans la lignée H358 de cancer du poumon non à petites cellules</a></div>
-<div class="publication-authors"><strong>Benoît Busser</strong>, C. Niang, M Favrot, Amandine Hurbin</div>
+<div class="publication-authors"><strong>Benoît Busser</strong>, Carole Niang, M Favrot, Amandine Hurbin</div>
 <div class="publication-meta"><em>Revue des Maladies Respiratoires</em> · Article · 1 citation · <a href="https://doi.org/10.1016/s0761-8425(06)71862-9">DOI</a></div>
 </div>

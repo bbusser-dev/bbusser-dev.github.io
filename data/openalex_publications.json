@@ -76,8 +76,8 @@
       "Peggy Charbonnier",
       "Laurence Puillet Anselme",
       "Benoît Chovelon",
-      "Hiram Castillo-Michel",
-      "Nikolay Tumanov",
+      "Hiram A. Castillo-Michel",
+      "Nikolay A. Tumanov",
       "Johan M. Wouters",
       "Lucie Sancey",
       "Benoît Busser",
@@ -111,8 +111,8 @@
       "Peggy Charbonnier",
       "Laurence Puillet Anselme",
       "Benoît Chovelon",
-      "Hiram Castillo-Michel",
-      "Nikolay Tumanov",
+      "Hiram A. Castillo-Michel",
+      "Nikolay A. Tumanov",
       "Johan M. Wouters",
       "Lucie Sancey",
       "Benoît Busser",
@@ -192,7 +192,7 @@
   {
     "authors": [
       "Nathan Renier",
-      "Pierre Lelievre",
+      "Pierre Lelièvre",
       "Gianluca Weyckmans Mele",
       "Peggy Charbonnier",
       "Ivan Jabin",
@@ -218,7 +218,7 @@
     "authors": [
       "Nathan Renier",
       "Gianluca Weyckmans Mele",
-      "P Lelièvre",
+      "Pierre Lelièvre",
       "Mélanie Boeckstaens",
       "Roy Lavendomme",
       "Akın Aydoğan",
@@ -226,8 +226,8 @@
       "Peggy Charbonnier",
       "Laurens Puillet Anselme",
       "Benoît Chovelon",
-      "Hiram Castillo-Michel",
-      "Nikolay Tumanov",
+      "Hiram A. Castillo-Michel",
+      "Nikolay A. Tumanov",
       "Johan Wouters",
       "Lucie Sancey",
       "Benoît Busser",
@@ -259,13 +259,13 @@
       "Arnaud Seigneurin",
       "Laurence Bouillet",
       "M. Enquebecq",
-      "A. Salomón",
+      "Aude Salomon",
       "Caroline Aspord",
       "Benoît Busser",
       "Pauline Porret",
       "Aude Belbézier",
       "Laurence Chaperot",
-      "J. Charles"
+      "Julie Charles"
     ],
     "cited_by_count": 0,
     "display_on_site": true,
@@ -283,7 +283,7 @@
     "authors": [
       "Nathan Renier",
       "Gianluca Weyckmans Mele",
-      "P Lelièvre",
+      "Pierre Lelièvre",
       "Mélanie Boeckstaens",
       "Roy Lavendomme",
       "Akın Aydoğan",
@@ -291,8 +291,8 @@
       "Peggy Charbonnier",
       "Laurens Puillet Anselme",
       "Benoît Chovelon",
-      "Hiram Castillo-Michel",
-      "Nikolay Tumanov",
+      "Hiram A. Castillo-Michel",
+      "Nikolay A. Tumanov",
       "Johan Wouters",
       "Lucie Sancey",
       "Benoît Busser",
@@ -396,7 +396,7 @@
       "Jean‐Luc Coll",
       "Mans Broekgaarden"
     ],
-    "cited_by_count": 31,
+    "cited_by_count": 33,
     "display_on_site": true,
     "doi": "https://doi.org/10.1002/adma.202404605",
     "id": "https://openalex.org/W4403895071",
@@ -439,7 +439,7 @@
       "Benoît Busser",
       "Lucie Sancey"
     ],
-    "cited_by_count": 12,
+    "cited_by_count": 13,
     "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.jmedchem.4c01435",
     "id": "https://openalex.org/W4402612917",
@@ -462,7 +462,7 @@
       "Vincent Motto‐Ros",
       "Ludovic Duponchel"
     ],
-    "cited_by_count": 29,
+    "cited_by_count": 30,
     "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.analchem.4c00237",
     "id": "https://openalex.org/W4393982383",
@@ -476,7 +476,7 @@
   },
   {
     "authors": [
-      "P Lelièvre",
+      "Pierre Lelièvre",
       "Cyril Nogier",
       "Nathan Renier",
       "Jean‐Luc Coll",
@@ -532,7 +532,7 @@
   {
     "authors": [
       "Elisa Chazeau",
-      "C. Fabre",
+      "Christol Fabre",
       "Malorie Privat",
       "Amélie Godard",
       "Cindy Racoeur",
@@ -558,7 +558,7 @@
   {
     "authors": [
       "Mohamed Bendellaa",
-      "P Lelièvre",
+      "Pierre Lelièvre",
       "Jean‐Luc Coll",
       "Lucie Sancey",
       "Aurélien Deniaud",
@@ -578,7 +578,7 @@
   },
   {
     "authors": [
-      "Pierre Lelievre",
+      "Pierre Lelièvre",
       "Cyril Nogier",
       "Nathan Renier",
       "Jean‐Luc Coll",
@@ -610,7 +610,7 @@
       "Giovanni Abbadessa",
       "Yi Yu",
       "Benoît Busser",
-      "Patrice N. Marche",
+      "Patrice Noël Marche",
       "Vincent Leroy",
       "Thomas Decaens"
     ],
@@ -636,7 +636,7 @@
       "Giovanni Abbadessa",
       "Yi Yu",
       "Benoît Busser",
-      "Patrice N. Marche",
+      "Patrice Noël Marche",
       "Vincent Leroy",
       "Thomas Decaens"
     ],
@@ -662,7 +662,7 @@
       "Giovanni Abbadessa",
       "Yi Yu",
       "Benoît Busser",
-      "Patrice N. Marche",
+      "Patrice Noël Marche",
       "Vincent Leroy",
       "Thomas Decaens"
     ],
@@ -688,7 +688,7 @@
       "Giovanni Abbadessa",
       "Yi Yu",
       "Benoît Busser",
-      "Patrice N. Marche",
+      "Patrice Noël Marche",
       "Vincent Leroy",
       "Thomas Decaens"
     ],
@@ -714,7 +714,7 @@
       "Giovanni Abbadessa",
       "Yi Yu",
       "Benoît Busser",
-      "Patrice N. Marche",
+      "Patrice Noël Marche",
       "Vincent Leroy",
       "Thomas Decaens"
     ],
@@ -740,7 +740,7 @@
       "Giovanni Abbadessa",
       "Yi Yu",
       "Benoît Busser",
-      "Patrice N. Marche",
+      "Patrice Noël Marche",
       "Vincent Leroy",
       "Thomas Decaens"
     ],
@@ -766,7 +766,7 @@
       "Giovanni Abbadessa",
       "Yi Yu",
       "Benoît Busser",
-      "Patrice N. Marche",
+      "Patrice Noël Marche",
       "Vincent Leroy",
       "Thomas Decaens"
     ],
@@ -792,7 +792,7 @@
       "Giovanni Abbadessa",
       "Yi Yu",
       "Benoît Busser",
-      "Patrice N. Marche",
+      "Patrice Noël Marche",
       "Vincent Leroy",
       "Thomas Decaens"
     ],
@@ -818,7 +818,7 @@
       "Giovanni Abbadessa",
       "Yi Yu",
       "Benoît Busser",
-      "Patrice N. Marche",
+      "Patrice Noël Marche",
       "Vincent Leroy",
       "Thomas Decaens"
     ],
@@ -844,7 +844,7 @@
       "Giovanni Abbadessa",
       "Yi Yu",
       "Benoît Busser",
-      "Patrice N. Marche",
+      "Patrice Noël Marche",
       "Vincent Leroy",
       "Thomas Decaens"
     ],
@@ -870,7 +870,7 @@
       "Giovanni Abbadessa",
       "Yi Yu",
       "Benoît Busser",
-      "Patrice N. Marche",
+      "Patrice Noël Marche",
       "Vincent Leroy",
       "Thomas Decaens"
     ],
@@ -896,7 +896,7 @@
       "Giovanni Abbadessa",
       "Yi Yu",
       "Benoît Busser",
-      "Patrice N. Marche",
+      "Patrice Noël Marche",
       "Vincent Leroy",
       "Thomas Decaens"
     ],
@@ -922,7 +922,7 @@
       "Giovanni Abbadessa",
       "Yi Yu",
       "Benoît Busser",
-      "Patrice N. Marche",
+      "Patrice Noël Marche",
       "Vincent Leroy",
       "Thomas Decaens"
     ],
@@ -948,7 +948,7 @@
       "Giovanni Abbadessa",
       "Yi Yu",
       "Benoît Busser",
-      "Patrice N. Marche",
+      "Patrice Noël Marche",
       "Vincent Leroy",
       "Thomas Decaens"
     ],
@@ -974,7 +974,7 @@
       "Giovanni Abbadessa",
       "Yi Yu",
       "Benoît Busser",
-      "Patrice N. Marche",
+      "Patrice Noël Marche",
       "Vincent Leroy",
       "Thomas Decaens"
     ],
@@ -1000,7 +1000,7 @@
       "Giovanni Abbadessa",
       "Yi Yu",
       "Benoît Busser",
-      "Patrice N. Marche",
+      "Patrice Noël Marche",
       "Vincent Leroy",
       "Thomas Decaens"
     ],
@@ -1027,7 +1027,7 @@
       "Franck Denat",
       "Xavier Le Guével",
       "Jean‐Luc Coll",
-      "Catherine Paul",
+      "Catherine J. Morrison Paul",
       "Ewen Bodio",
       "Christine Goze",
       "Lucie Sancey"
@@ -1072,7 +1072,7 @@
       "Ludovic Duponchel",
       "Benoît Busser"
     ],
-    "cited_by_count": 105,
+    "cited_by_count": 109,
     "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.analchem.2c04910",
     "id": "https://openalex.org/W4313907584",
@@ -1088,7 +1088,7 @@
     "authors": [
       "Amélie Godard",
       "Laura Abad Galán",
-      "Jean Rouillon",
+      "Jean Denis Rouillon",
       "Shaymaa Al Shehimy",
       "Wassima Tajani",
       "Charlotte Cave",
@@ -1121,7 +1121,7 @@
     "authors": [
       "Amélie Godard",
       "Laura Abad Galán",
-      "Jean Rouillon",
+      "Jean Denis Rouillon",
       "Shaymaa Al Shehimy",
       "Wassima Tajani",
       "Charlotte Cave",
@@ -1138,7 +1138,7 @@
       "Christine Goze",
       "Ewen Bodio"
     ],
-    "cited_by_count": 12,
+    "cited_by_count": 14,
     "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.inorgchem.2c03918",
     "id": "https://openalex.org/W4312064768",
@@ -1154,7 +1154,7 @@
     "authors": [
       "Amélie Godard",
       "Laura Abad Galán",
-      "Jean Rouillon",
+      "Jean Denis Rouillon",
       "Shaymaa Al Shehimy",
       "Wassima Tajani",
       "Charlotte Cave",
@@ -1186,7 +1186,7 @@
   {
     "authors": [
       "Mohamed Bendellaa",
-      "P Lelièvre",
+      "Pierre Lelièvre",
       "Jean‐Luc Coll",
       "Lucie Sancey",
       "Aurélien Deniaud",
@@ -1216,7 +1216,7 @@
       "Ali Rhouma",
       "Gérard Jaouen",
       "Stéphane Gibaud",
-      "Michel De Waard"
+      "Michel MDW DE WAARD"
     ],
     "cited_by_count": 8,
     "display_on_site": true,
@@ -1278,7 +1278,7 @@
       "Benoît Busser",
       "Mohamed Bendellaa",
       "Fabien Dalonneau",
-      "Catherine Paul",
+      "Catherine J. Morrison Paul",
       "Xavier Le Guével",
       "Véronique Josserand",
       "Jean‐Luc Coll",
@@ -1313,7 +1313,7 @@
       "Franck Denat",
       "Ali Bettaı̈eb",
       "Lucie Sancey",
-      "Catherine Paul",
+      "Catherine J. Morrison Paul",
       "Christine Goze",
       "Ewen Bodio"
     ],
@@ -1331,7 +1331,7 @@
   },
   {
     "authors": [
-      "P Lelièvre",
+      "Pierre Lelièvre",
       "Lucie Sancey",
       "Jean‐Luc Coll",
       "Aurélien Deniaud",
@@ -1351,13 +1351,13 @@
   },
   {
     "authors": [
-      "P Lelièvre",
+      "Pierre Lelièvre",
       "Lucie Sancey",
       "Jean‐Luc Coll",
       "Aurélien Deniaud",
       "Benoît Busser"
     ],
-    "cited_by_count": 67,
+    "cited_by_count": 68,
     "display_on_site": true,
     "doi": "https://doi.org/10.3390/cancers12123524",
     "id": "https://openalex.org/W3093805104",
@@ -1371,13 +1371,13 @@
   },
   {
     "authors": [
-      "P Lelièvre",
+      "Pierre Lelièvre",
       "Lucie Sancey",
       "Jean‐Luc Coll",
       "Aurélien Deniaud",
       "Benoît Busser"
     ],
-    "cited_by_count": 16,
+    "cited_by_count": 17,
     "display_on_site": false,
     "doi": "https://doi.org/10.20944/preprints202010.0447.v1",
     "id": "https://openalex.org/W3121741001",
@@ -1391,7 +1391,7 @@
   },
   {
     "authors": [
-      "P Lelièvre",
+      "Pierre Lelièvre",
       "Lucie Sancey",
       "Jean‐Luc Coll",
       "Aurélien Deniaud",
@@ -1413,7 +1413,7 @@
     "authors": [
       "Benoît Busser",
       "Vincent Bonneterre",
-      "S. Quétant",
+      "Sébastien Quétant",
       "Marine Leprince",
       "Lucie Sancey",
       "Vincent Motto‐Ros"
@@ -1438,7 +1438,7 @@
       "Victor Baisamy",
       "Jan Garrevoet",
       "Benoît Busser",
-      "Dennis Brueckner",
+      "Dennis Brückner",
       "Antonia Youssef",
       "Jean‐Luc Ravanat",
       "Christophe Dujardin",
@@ -1500,7 +1500,7 @@
       "Frédéric Pelascini",
       "Benoît Busser"
     ],
-    "cited_by_count": 1,
+    "cited_by_count": 3,
     "display_on_site": true,
     "doi": "https://doi.org/10.1051/photon/202010334",
     "id": "https://openalex.org/W3048130401",
@@ -1528,7 +1528,7 @@
       "Christine Goze",
       "Lucie Sancey"
     ],
-    "cited_by_count": 87,
+    "cited_by_count": 90,
     "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.bioconjchem.0c00175",
     "id": "https://openalex.org/W3013421612",
@@ -1544,12 +1544,12 @@
     "authors": [
       "Vincent Motto‐Ros",
       "Vincent Gardette",
-      "L Sancey",
-      "M Leprince",
+      "Lucie Sancey",
+      "Marine Leprince",
       "Dominique Genty",
       "Stéphane Roux",
       "Benoît Busser",
-      "F Pelascini"
+      "Frédéric Pelascini"
     ],
     "cited_by_count": 16,
     "display_on_site": true,
@@ -1579,9 +1579,9 @@
       "Jean‐Luc Coll",
       "Muriel Amblard",
       "Amandine Hurbin",
-      "May C. Morris"
+      "May  Catherine Morris"
     ],
-    "cited_by_count": 20,
+    "cited_by_count": 22,
     "display_on_site": true,
     "doi": "https://doi.org/10.7150/thno.40971",
     "id": "https://openalex.org/W3004228099",
@@ -1600,7 +1600,7 @@
       "C. Fabre",
       "Benoît Busser"
     ],
-    "cited_by_count": 11,
+    "cited_by_count": 13,
     "display_on_site": true,
     "doi": "https://doi.org/10.1016/b978-0-12-818829-3.00014-9",
     "id": "https://openalex.org/W3033108856",
@@ -1674,7 +1674,7 @@
       "Vincent Motto‐Ros",
       "Benoît Busser"
     ],
-    "cited_by_count": 3,
+    "cited_by_count": 5,
     "display_on_site": true,
     "doi": "https://doi.org/10.1051/medsci/2019132",
     "id": "https://openalex.org/W2974871099",
@@ -1688,9 +1688,9 @@
   },
   {
     "authors": [
-      "C. Colombé",
+      "Cindy Colombé",
       "Xavier Le Guével",
-      "Angela Martin-Serrano",
+      "Ángela Martín‐Serrano Ortiz",
       "Maxime Henry",
       "Estelle Porret",
       "Clothilde Comby‐Zerbino",
@@ -1698,7 +1698,7 @@
       "I. Atallah",
       "Benoît Busser",
       "Jean‐Luc Coll",
-      "Christian Righini",
+      "Christian Adrien Righini",
       "Lucie Sancey"
     ],
     "cited_by_count": 34,
@@ -1715,7 +1715,7 @@
   },
   {
     "authors": [
-      "P. M. Campbell",
+      "Patricia Campbell",
       "Benoît Busser"
     ],
     "cited_by_count": 0,
@@ -1763,13 +1763,13 @@
     "authors": [
       "R. Gaudiuso",
       "Noureddine Melikechi",
-      "Zienab Abdel‐Salam",
+      "Zienab A. Abdel‐Salam",
       "Mohamed Abdel Harith",
       "Vincenzo Palleschi",
       "Vincent Motto‐Ros",
       "Benoît Busser"
     ],
-    "cited_by_count": 156,
+    "cited_by_count": 157,
     "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.sab.2018.11.006",
     "id": "https://openalex.org/W2900927048",
@@ -1819,11 +1819,11 @@
       "Naziha Marrakchi",
       "Ali Rhouma",
       "Gérard Jaouen",
-      "Michel De Waard",
+      "Michel MDW DE WAARD",
       "Benoît Busser",
       "Stéphane Gibaud"
     ],
-    "cited_by_count": 11,
+    "cited_by_count": 12,
     "display_on_site": true,
     "doi": "https://doi.org/10.1111/jphp.12998",
     "id": "https://openalex.org/W2888069982",
@@ -1897,7 +1897,7 @@
       "Amandine Hurbin",
       "Sylvie Gazzéri"
     ],
-    "cited_by_count": 27,
+    "cited_by_count": 28,
     "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.canlet.2018.01.080",
     "id": "https://openalex.org/W2790038102",
@@ -1913,7 +1913,7 @@
     "authors": [
       "Mickaël Catinon",
       "Benoît Busser",
-      "F. Thivolet",
+      "Françoise Thivolet",
       "Marianne Kambouchner",
       "Jean‐François Bernaudin",
       "Olivia Freynet",
@@ -1925,7 +1925,7 @@
       "Christophe Pison",
       "Vincent Bonneterre",
       "Vincent Motto-Ros",
-      "Monique Vincent"
+      "M. Vincent"
     ],
     "cited_by_count": 0,
     "display_on_site": true,
@@ -1947,7 +1947,7 @@
       "Lucie Sancey",
       "Vincent Motto‐Ros"
     ],
-    "cited_by_count": 171,
+    "cited_by_count": 174,
     "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.ccr.2017.12.006",
     "id": "https://openalex.org/W2780806931",
@@ -1965,16 +1965,16 @@
       "S. Moncayo",
       "Florian Trichard",
       "Vincent Bonneterre",
-      "N. Pinel",
+      "Nicole Pinel",
       "Frédéric Pelascini",
       "Philippe Dugourd",
       "Jean‐Luc Coll",
-      "M. D’Incan",
-      "J. Charles",
+      "Michel D'Incan",
+      "Julie Charles",
       "Vincent Motto‐Ros",
       "Lucie Sancey"
     ],
-    "cited_by_count": 41,
+    "cited_by_count": 42,
     "display_on_site": true,
     "doi": "https://doi.org/10.1038/modpathol.2017.152",
     "id": "https://openalex.org/W2769442935",
@@ -1992,7 +1992,7 @@
       "S. Moncayo",
       "Mickaël Catinon",
       "Lucie Sancey",
-      "F. Thivolet",
+      "Françoise Thivolet",
       "Jean‐François Bernaudin",
       "Marianne Kambouchner",
       "Vincent Bonneterre",
@@ -2024,7 +2024,7 @@
       "Laurence Lafanéchère",
       "Véronique Martel‐Frachet",
       "Jean‐Luc Coll",
-      "J. Fernando Dı́az",
+      "José Fernando Díaz",
       "Amandine Hurbin",
       "Benoît Busser"
     ],
@@ -2050,11 +2050,11 @@
       "Giovanni Abbadessa",
       "Yi Yu",
       "Benoît Busser",
-      "Patrice N. Marche",
+      "Patrice Noël Marche",
       "Vincent Leroy",
       "Thomas Decaens"
     ],
-    "cited_by_count": 27,
+    "cited_by_count": 28,
     "display_on_site": true,
     "doi": "https://doi.org/10.1158/1535-7163.mct-16-0602-t",
     "id": "https://openalex.org/W2619909584",
@@ -2073,13 +2073,13 @@
       "Benoît Busser",
       "M. Sabatier-Vincent",
       "Frédéric Pelascini",
-      "N. Pinel",
-      "I. Templier",
-      "J. Charles",
+      "Nicole Pinel",
+      "Isabelle Templier",
+      "Julie Charles",
       "Lucie Sancey",
       "Vincent Motto‐Ros"
     ],
-    "cited_by_count": 68,
+    "cited_by_count": 69,
     "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.sab.2017.04.013",
     "id": "https://openalex.org/W2609647852",
@@ -2103,8 +2103,8 @@
       "M.‐T. Leccia",
       "Jean‐Luc Coll",
       "Amandine Hurbin",
-      "Pierre Hainaut",
-      "J. Charles"
+      "Pierre L. Hainaut",
+      "Julie Charles"
     ],
     "cited_by_count": 55,
     "display_on_site": true,
@@ -2127,7 +2127,7 @@
       "Sana Ferroudj",
       "Murat Cokol",
       "Jean‐Luc Coll",
-      "Mehmet Öztürk",
+      "Mehmet Adnan Ozturk",
       "Amandine Hurbin"
     ],
     "cited_by_count": 35,
@@ -2152,7 +2152,7 @@
       "Sophie Leboulleux",
       "David Malka",
       "M. Dinulescu",
-      "F. Granel‐Brocard",
+      "Florence Granel‐Brocard",
       "D. Le Goupil",
       "F. Truchetet",
       "Stéphane Dalle",
@@ -2160,7 +2160,7 @@
       "Natalie Hoog-Labouret",
       "Céline Mahier - Aït Oukhatar",
       "Benoît Busser",
-      "J. Charles",
+      "Julie Charles",
       "Jean‐Yves Blay"
     ],
     "cited_by_count": 0,
@@ -2180,7 +2180,7 @@
       "Yilbert Gimènez",
       "Benoît Busser",
       "Florian Trichard",
-      "Alexander Kulesza",
+      "Alexander Jan Kulesza",
       "Jean-Michel Laurent",
       "V. Zaun",
       "François Lux",
@@ -2192,7 +2192,7 @@
       "Lucie Sancey",
       "Vincent Motto‐Ros"
     ],
-    "cited_by_count": 119,
+    "cited_by_count": 123,
     "display_on_site": true,
     "doi": "https://doi.org/10.1038/srep29936",
     "id": "https://openalex.org/W2486101480",
@@ -2236,7 +2236,7 @@
       "Femke Lux",
       "Olivier Tillement",
       "G. Panczer",
-      "Jian Zhen Yu"
+      "J. Yu"
     ],
     "cited_by_count": 15,
     "display_on_site": false,
@@ -2255,15 +2255,15 @@
       "Benoît Busser",
       "Julien Lupo",
       "Lucie Sancey",
-      "I. Templier",
+      "Isabelle Templier",
       "Florence de Fraipont",
-      "J. Plumas",
+      "Joël Plumas",
       "Laurence Chaperot",
       "Jean‐Luc Coll",
       "Amandine Hurbin",
-      "Pierre Hainaut",
+      "Pierre L. Hainaut",
       "M.‐T. Leccia",
-      "J. Charles"
+      "Julie Charles"
     ],
     "cited_by_count": 0,
     "display_on_site": true,
@@ -2279,9 +2279,9 @@
   },
   {
     "authors": [
-      "J. Charles",
+      "Julie Charles",
       "Jean‐Claude Béani",
-      "M. Tardieu",
+      "Mathilde Tardieu",
       "Benoît Busser"
     ],
     "cited_by_count": 4,
@@ -2312,7 +2312,7 @@
       "Benoît Busser",
       "Anne Imberty"
     ],
-    "cited_by_count": 29,
+    "cited_by_count": 32,
     "display_on_site": true,
     "doi": "https://doi.org/10.1371/journal.pone.0128190",
     "id": "https://openalex.org/W1480869103",
@@ -2348,9 +2348,9 @@
   },
   {
     "authors": [
-      "J. Charles",
+      "Julie Charles",
       "J.-C. Béani",
-      "I. Templier",
+      "Isabelle Templier",
       "Giacomo Fiandrino",
       "L. Bondier",
       "M.‐T. Leccia",
@@ -2372,7 +2372,7 @@
     "authors": [
       "Victor Jeannot",
       "Benoît Busser",
-      "Élisabeth Brambilla",
+      "Elisabeth M. Brambilla",
       "Marie Wislez",
       "Blaise Robin",
       "J. Cadranel",
@@ -2404,7 +2404,7 @@
       "G. Panczer",
       "Jin Yu"
     ],
-    "cited_by_count": 164,
+    "cited_by_count": 168,
     "display_on_site": true,
     "doi": "https://doi.org/10.1038/srep06065",
     "id": "https://openalex.org/W2034421254",
@@ -2418,7 +2418,7 @@
   },
   {
     "authors": [
-      "J. Charles",
+      "Julie Charles",
       "Jean‐Claude Béani",
       "Giacomo Fiandrino",
       "Benoît Busser"
@@ -2437,14 +2437,14 @@
   },
   {
     "authors": [
-      "J. Charles",
-      "C. Martel",
+      "Julie Charles",
+      "Catherine Martel",
       "Florence de Fraipont",
       "M.‐T. Leccia",
       "Caroline Robert",
       "Benoît Busser"
     ],
-    "cited_by_count": 26,
+    "cited_by_count": 28,
     "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.annder.2014.06.021",
     "id": "https://openalex.org/W2024067967",
@@ -2463,7 +2463,7 @@
       "E Brambilla",
       "Marie Wislez",
       "Blaise Robin",
-      "Jacques Cadranel",
+      "Jacques L. Cadranel",
       "Jean‐Luc Coll",
       "Amandine Hurbin"
     ],
@@ -2528,7 +2528,7 @@
   },
   {
     "authors": [
-      "J. Charles",
+      "Julie Charles",
       "Christopher B. Martel",
       "Florence de Fraipont",
       "M.‐T. Leccia",
@@ -2549,10 +2549,10 @@
   },
   {
     "authors": [
-      "J. Charles",
+      "Julie Charles",
       "Benoît Busser",
       "Omer Eker",
-      "I. Templier",
+      "Isabelle Templier",
       "Antoine Claeys",
       "Guillaume Gras-Combe",
       "J.-C. Béani",
@@ -2577,11 +2577,11 @@
       "M.‐T. Leccia",
       "Guillaume Gras-Combe",
       "Ivan Bricault",
-      "I. Templier",
-      "A. Claeys",
+      "Isabelle Templier",
+      "Arne Claeys",
       "M. J. Richard",
       "Florence de Fraipont",
-      "J. Charles"
+      "Julie Charles"
     ],
     "cited_by_count": 0,
     "display_on_site": true,
@@ -2599,10 +2599,10 @@
     "authors": [
       "Victor Jeannot",
       "Benoît Busser",
-      "Élisabeth Brambilla",
+      "Elisabeth M. Brambilla",
       "Marie Wislez",
       "Blaise Robin",
-      "Jacques Cadranel",
+      "Jacques L. Cadranel",
       "Jean‐Luc Coll",
       "Amandine Hurbin"
     ],
@@ -2624,11 +2624,11 @@
       "M.‐T. Leccia",
       "Guillaume Gras-Combe",
       "Ivan Bricault",
-      "I. Templier",
+      "Isabelle Templier",
       "Antoine Claeys",
       "Marie Jeanne Richard",
       "Florence de Fraipont",
-      "J. Charles"
+      "Julie Charles"
     ],
     "cited_by_count": 22,
     "display_on_site": true,
@@ -2651,7 +2651,7 @@
       "Anne McLeer‐Florin",
       "L MESCAM-MANCINI",
       "Denis Moro‐Sibilot",
-      "Élisabeth Brambilla",
+      "Elisabeth M. Brambilla",
       "Sylvie Lantuéjoul"
     ],
     "cited_by_count": 48,
@@ -2712,11 +2712,11 @@
     "authors": [
       "Benoît Busser",
       "Lucie Sancey",
-      "Élisabeth Brambilla",
+      "Elisabeth M. Brambilla",
       "Jean‐Luc Coll",
       "Amandine Hurbin"
     ],
-    "cited_by_count": 257,
+    "cited_by_count": 260,
     "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.bbcan.2011.05.003",
     "id": "https://openalex.org/W2027678100",
@@ -2739,11 +2739,11 @@
       "Sandrine Dufort",
       "Florence de Fraipont",
       "Denis Moro‐Sibilot",
-      "Jacques Cadranel",
+      "Jacques L. Cadranel",
       "Jean‐Luc Coll",
-      "Élisabeth Brambilla"
+      "Elisabeth M. Brambilla"
     ],
-    "cited_by_count": 49,
+    "cited_by_count": 50,
     "display_on_site": true,
     "doi": "https://doi.org/10.1002/path.2897",
     "id": "https://openalex.org/W2015849106",
@@ -2800,7 +2800,7 @@
     "authors": [
       "Amandine Hurbin",
       "Benoît Busser",
-      "Élisabeth Brambilla",
+      "Elisabeth M. Brambilla",
       "Denis Moro‐Sibilot",
       "Martine Antoine",
       "Virginie Poulot",
@@ -2842,7 +2842,7 @@
       "Benoît Busser",
       "Lucie Sancey",
       "Véronique Josserand",
-      "C. Niang",
+      "Carole Niang",
       "Saadi Khochbin",
       "Marie Favrot",
       "Jean‐Luc Coll",
@@ -2865,7 +2865,7 @@
       "Benoît Busser",
       "Lucie Sancey",
       "Véronique Josserand",
-      "C. Niang",
+      "Carole Niang",
       "Marie Favrot",
       "Jean‐Luc Coll",
       "Amandine Hurbin"
@@ -2919,7 +2919,7 @@
   {
     "authors": [
       "Benoît Busser",
-      "C. Niang",
+      "Carole Niang",
       "Saadi Khochbin",
       "Jean‐Luc Coll",
       "Amandine Hurbin"
@@ -2963,7 +2963,7 @@
   {
     "authors": [
       "Benoît Busser",
-      "C. Niang",
+      "Carole Niang",
       "M Favrot",
       "Amandine Hurbin"
     ],
@@ -2982,12 +2982,12 @@
   {
     "authors": [
       "Benoît Busser",
-      "Élisabeth Brambilla",
+      "Elisabeth M. Brambilla",
       "David Moro",
       "L. Escales",
       "Virginie Poulot",
       "Marie Wislez",
-      "Jacques Cadranel",
+      "Jacques L. Cadranel",
       "M Favrot",
       "Amandine Hurbin"
     ],
@@ -3006,7 +3006,7 @@
   {
     "authors": [
       "Benoît Busser",
-      "C. Niang",
+      "Carole Niang",
       "M Favrot",
       "Amandine Hurbin"
     ],
