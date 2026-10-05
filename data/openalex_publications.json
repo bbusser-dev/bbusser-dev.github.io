@@ -38,7 +38,7 @@
   {
     "authors": [
       "Christol Fabre",
-      "A Godard",
+      "Amélie Godard",
       "Malorie Privat",
       "Mathieu Moreau",
       "Fabien Dalonneau",
@@ -78,7 +78,7 @@
       "Benoît Chovelon",
       "Hiram A. Castillo-Michel",
       "Nikolay A. Tumanov",
-      "Johan M. Wouters",
+      "Johan Wouters",
       "Lucie Sancey",
       "Benoît Busser",
       "Anna Maria Marini",
@@ -113,7 +113,7 @@
       "Benoît Chovelon",
       "Hiram A. Castillo-Michel",
       "Nikolay A. Tumanov",
-      "Johan M. Wouters",
+      "Johan Wouters",
       "Lucie Sancey",
       "Benoît Busser",
       "Anna Maria Marini",
@@ -221,7 +221,7 @@
       "Pierre Lelièvre",
       "Mélanie Boeckstaens",
       "Roy Lavendomme",
-      "Akın Aydoğan",
+      "Akin Aydogan",
       "Yannick Dussein",
       "Peggy Charbonnier",
       "Laurens Puillet Anselme",
@@ -286,7 +286,7 @@
       "Pierre Lelièvre",
       "Mélanie Boeckstaens",
       "Roy Lavendomme",
-      "Akın Aydoğan",
+      "Akin Aydogan",
       "Yannick Dussein",
       "Peggy Charbonnier",
       "Laurens Puillet Anselme",
@@ -348,7 +348,7 @@
     "is_retracted": false,
     "publication_date": "2025-01-01",
     "publication_year": 2025,
-    "source": "",
+    "source": "Springer eBooks",
     "title": "Preclinical Evaluation of Nanoparticle Behavior in Biological Tissues by LIBS",
     "type": "book-chapter"
   },
@@ -410,23 +410,6 @@
   },
   {
     "authors": [
-      "Nicolò Scarsi",
-      "Benoît Busser"
-    ],
-    "cited_by_count": 0,
-    "display_on_site": true,
-    "doi": "https://doi.org/10.1093/eurpub/ckae144.1199",
-    "id": "https://openalex.org/W4403824005",
-    "is_open_access": true,
-    "is_retracted": false,
-    "publication_date": "2024-10-28",
-    "publication_year": 2024,
-    "source": "European Journal of Public Health",
-    "title": "Exploring Meditron-7b performance on a small-scale purpose made dataset in human nutrition queries",
-    "type": "article"
-  },
-  {
-    "authors": [
       "Mohamed Bendellaa",
       "Charlotte Cave",
       "Amélie Godard",
@@ -476,7 +459,7 @@
   },
   {
     "authors": [
-      "Pierre Lelièvre",
+      "Pierre Lelievre",
       "Cyril Nogier",
       "Nathan Renier",
       "Jean‐Luc Coll",
@@ -1072,7 +1055,7 @@
       "Ludovic Duponchel",
       "Benoît Busser"
     ],
-    "cited_by_count": 109,
+    "cited_by_count": 112,
     "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.analchem.2c04910",
     "id": "https://openalex.org/W4313907584",
@@ -1088,7 +1071,7 @@
     "authors": [
       "Amélie Godard",
       "Laura Abad Galán",
-      "Jean Denis Rouillon",
+      "Rouillon, Jean",
       "Shaymaa Al Shehimy",
       "Wassima Tajani",
       "Charlotte Cave",
@@ -1121,7 +1104,7 @@
     "authors": [
       "Amélie Godard",
       "Laura Abad Galán",
-      "Jean Denis Rouillon",
+      "Jean Rouillon",
       "Shaymaa Al Shehimy",
       "Wassima Tajani",
       "Charlotte Cave",
@@ -1154,7 +1137,7 @@
     "authors": [
       "Amélie Godard",
       "Laura Abad Galán",
-      "Jean Denis Rouillon",
+      "Jean Rouillon",
       "Shaymaa Al Shehimy",
       "Wassima Tajani",
       "Charlotte Cave",
@@ -1186,7 +1169,7 @@
   {
     "authors": [
       "Mohamed Bendellaa",
-      "Pierre Lelièvre",
+      "Pierre Lelievre",
       "Jean‐Luc Coll",
       "Lucie Sancey",
       "Aurélien Deniaud",
@@ -1267,7 +1250,7 @@
     "is_retracted": false,
     "publication_date": "2022-01-01",
     "publication_year": 2022,
-    "source": "",
+    "source": "Springer eBooks",
     "title": "Preclinical Evaluation of Nanoparticle Behavior in Biological Tissues",
     "type": "book-chapter"
   },
@@ -1288,7 +1271,7 @@
       "Thomas Gautier",
       "Lucie Sancey"
     ],
-    "cited_by_count": 17,
+    "cited_by_count": 18,
     "display_on_site": true,
     "doi": "https://doi.org/10.1039/d2bm01271e",
     "id": "https://openalex.org/W4296285605",
@@ -1357,7 +1340,7 @@
       "Aurélien Deniaud",
       "Benoît Busser"
     ],
-    "cited_by_count": 68,
+    "cited_by_count": 67,
     "display_on_site": true,
     "doi": "https://doi.org/10.3390/cancers12123524",
     "id": "https://openalex.org/W3093805104",
@@ -1448,7 +1431,7 @@
       "Lucie Sancey",
       "Hélène Elleaume"
     ],
-    "cited_by_count": 73,
+    "cited_by_count": 74,
     "display_on_site": true,
     "doi": "https://doi.org/10.1002/advs.202001675",
     "id": "https://openalex.org/W3083377677",
@@ -1500,7 +1483,7 @@
       "Frédéric Pelascini",
       "Benoît Busser"
     ],
-    "cited_by_count": 3,
+    "cited_by_count": 4,
     "display_on_site": true,
     "doi": "https://doi.org/10.1051/photon/202010334",
     "id": "https://openalex.org/W3048130401",
@@ -1581,7 +1564,7 @@
       "Amandine Hurbin",
       "May  Catherine Morris"
     ],
-    "cited_by_count": 22,
+    "cited_by_count": 23,
     "display_on_site": true,
     "doi": "https://doi.org/10.7150/thno.40971",
     "id": "https://openalex.org/W3004228099",
@@ -1628,7 +1611,7 @@
       "Valérie Taly",
       "Fréderic Fina"
     ],
-    "cited_by_count": 4,
+    "cited_by_count": 5,
     "display_on_site": true,
     "doi": "https://doi.org/10.1684/abc.2019.1502",
     "id": "https://openalex.org/W2997894425",
@@ -2054,7 +2037,7 @@
       "Vincent Leroy",
       "Thomas Decaens"
     ],
-    "cited_by_count": 28,
+    "cited_by_count": 29,
     "display_on_site": true,
     "doi": "https://doi.org/10.1158/1535-7163.mct-16-0602-t",
     "id": "https://openalex.org/W2619909584",
@@ -2127,7 +2110,7 @@
       "Sana Ferroudj",
       "Murat Cokol",
       "Jean‐Luc Coll",
-      "Mehmet Adnan Ozturk",
+      "Mehmet Öztürk",
       "Amandine Hurbin"
     ],
     "cited_by_count": 35,
@@ -2145,7 +2128,7 @@
   {
     "authors": [
       "E. Maubec",
-      "Anthony Lévy",
+      "A. Levy",
       "Claire Cropet",
       "Julien Mazières",
       "Xavier Troussard",
@@ -2209,7 +2192,7 @@
       "Pauline Gilson",
       "F. Mahuteau",
       "Claire Beauvineau",
-      "Jean Coll",
+      "J.L. Coll",
       "Amandine Hurbin",
       "Benoît Busser"
     ],
@@ -2553,7 +2536,7 @@
       "Benoît Busser",
       "Omer Eker",
       "Isabelle Templier",
-      "Antoine Claeys",
+      "A. Claeys",
       "Guillaume Gras-Combe",
       "J.-C. Béani",
       "C. Verry",
@@ -2578,7 +2561,7 @@
       "Guillaume Gras-Combe",
       "Ivan Bricault",
       "Isabelle Templier",
-      "Arne Claeys",
+      "A. Claeys",
       "M. J. Richard",
       "Florence de Fraipont",
       "Julie Charles"
@@ -2716,7 +2699,7 @@
       "Jean‐Luc Coll",
       "Amandine Hurbin"
     ],
-    "cited_by_count": 260,
+    "cited_by_count": 261,
     "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.bbcan.2011.05.003",
     "id": "https://openalex.org/W2027678100",
@@ -2870,7 +2853,7 @@
       "Jean‐Luc Coll",
       "Amandine Hurbin"
     ],
-    "cited_by_count": 58,
+    "cited_by_count": 59,
     "display_on_site": true,
     "doi": "https://doi.org/10.1038/mt.2009.226",
     "id": "https://openalex.org/W2006881103",
