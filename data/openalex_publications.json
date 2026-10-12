@@ -7,7 +7,7 @@
       "Ghadir Kalot",
       "Ludmilla Verrieux",
       "Julie Pineau",
-      "M Corpuz Henry",
+      "Maxime Henry",
       "Florian Chotard",
       "Annika Sickinger",
       "Laura Abad Galán",
@@ -47,7 +47,7 @@
       "Pierre‐Simon Bellaye",
       "Bertrand Collin",
       "Benoît Busser",
-      "C.-A. Righini",
+      "Christian Adrien Righini",
       "Christine Goze",
       "Ewen Bodio",
       "Lucie Sancey"
@@ -66,6 +66,39 @@
   },
   {
     "authors": [
+      "Nazareth Milagros Carigga Gutierrez",
+      "Eaazhisai Kandiah",
+      "Sofia Leo",
+      "Erwan Dupont",
+      "Fabrizio Johnson-Corrales",
+      "Marc‐André Hograindleur",
+      "Sarvenaz Keshmiri",
+      "Hélène Elleaume",
+      "Benoît Busser",
+      "Romain Haudecoeur",
+      "Véronique Jacob",
+      "Anthony Vella",
+      "Véronique Josserand",
+      "Maxime Henry",
+      "Jean‐Luc Coll",
+      "Amandine Hurbin",
+      "Xavier Le Guével",
+      "Mans Broekgaarden"
+    ],
+    "cited_by_count": 0,
+    "display_on_site": true,
+    "doi": "https://doi.org/10.1002/admi.202501046",
+    "id": "https://openalex.org/W7130353076",
+    "is_open_access": true,
+    "is_retracted": false,
+    "publication_date": "2026-02-18",
+    "publication_year": 2026,
+    "source": "Advanced Materials Interfaces",
+    "title": "Radiotherapy Enhancement by Gold Nanocluster‐functionalized Nanoliposomes Using Polychromatic Orthovoltage X‐ray Irradiation",
+    "type": "article"
+  },
+  {
+    "authors": [
       "Nathan Renier",
       "Gianluca Weyckmans Mele",
       "Pierre Lelièvre",
@@ -74,7 +107,7 @@
       "Akin Aydogan",
       "Yannick Dussein",
       "Peggy Charbonnier",
-      "Laurence Puillet Anselme",
+      "Laurence Puillet-Anselme",
       "Benoît Chovelon",
       "Hiram A. Castillo-Michel",
       "Nikolay A. Tumanov",
@@ -109,7 +142,7 @@
       "Akin Aydogan",
       "Yannick Dussein",
       "Peggy Charbonnier",
-      "Laurence Puillet Anselme",
+      "Laurence Puillet-Anselme",
       "Benoît Chovelon",
       "Hiram A. Castillo-Michel",
       "Nikolay A. Tumanov",
@@ -133,39 +166,6 @@
     "source": "The Cambridge Structural Database",
     "title": "CCDC 2432506: Experimental Crystal Structure Determination",
     "type": "dataset"
-  },
-  {
-    "authors": [
-      "Nazareth Milagros Carigga Gutierrez",
-      "Eaazhisai Kandiah",
-      "Sofia Leo",
-      "Erwan Dupont",
-      "Fabrizio Johnson-Corrales",
-      "Marc‐André Hograindleur",
-      "Sarvenaz Keshmiri",
-      "Hélène Elleaume",
-      "Benoît Busser",
-      "Romain Haudecoeur",
-      "Véronique Jacob",
-      "Anthony Vella",
-      "Véronique Josserand",
-      "Maxime Henry",
-      "Jean‐Luc Coll",
-      "Amandine Hurbin",
-      "Xavier Le Guével",
-      "Mans Broekgaarden"
-    ],
-    "cited_by_count": 0,
-    "display_on_site": false,
-    "doi": "https://doi.org/10.64898/2025.12.04.692299",
-    "id": "https://openalex.org/W4417134065",
-    "is_open_access": true,
-    "is_retracted": false,
-    "publication_date": "2025-12-08",
-    "publication_year": 2025,
-    "source": "bioRxiv (Cold Spring Harbor Laboratory)",
-    "title": "Radiotherapy Enhancement by Gold Nanocluster-functionalized Nanoliposomes Using Polychromatic Orthovoltage X-ray Irradiation",
-    "type": "preprint"
   },
   {
     "authors": [
@@ -500,7 +500,7 @@
       "Benoît Busser",
       "Vincent Motto‐Ros"
     ],
-    "cited_by_count": 14,
+    "cited_by_count": 13,
     "display_on_site": true,
     "doi": "https://doi.org/10.1002/smsc.202300307",
     "id": "https://openalex.org/W4392344194",
@@ -547,7 +547,7 @@
       "Aurélien Deniaud",
       "Benoît Busser"
     ],
-    "cited_by_count": 58,
+    "cited_by_count": 61,
     "display_on_site": true,
     "doi": "https://doi.org/10.1002/ijc.34679",
     "id": "https://openalex.org/W4386083688",
@@ -1010,7 +1010,7 @@
       "Franck Denat",
       "Xavier Le Guével",
       "Jean‐Luc Coll",
-      "Catherine J. Morrison Paul",
+      "Catherine Paul",
       "Ewen Bodio",
       "Christine Goze",
       "Lucie Sancey"
@@ -1055,7 +1055,7 @@
       "Ludovic Duponchel",
       "Benoît Busser"
     ],
-    "cited_by_count": 112,
+    "cited_by_count": 113,
     "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.analchem.2c04910",
     "id": "https://openalex.org/W4313907584",
@@ -1168,27 +1168,6 @@
   },
   {
     "authors": [
-      "Mohamed Bendellaa",
-      "Pierre Lelievre",
-      "Jean‐Luc Coll",
-      "Lucie Sancey",
-      "Aurélien Deniaud",
-      "Benoît Busser"
-    ],
-    "cited_by_count": 1,
-    "display_on_site": false,
-    "doi": "https://doi.org/10.20944/preprints202209.0282.v1",
-    "id": "https://openalex.org/W4297884518",
-    "is_open_access": true,
-    "is_retracted": false,
-    "publication_date": "2022-09-19",
-    "publication_year": 2022,
-    "source": "Preprints.org",
-    "title": "The multifaceted roles of Zinc in Cancers",
-    "type": "preprint"
-  },
-  {
-    "authors": [
       "Feten Najlaoui",
       "Benoît Busser",
       "Germain Sotoing Taïwé",
@@ -1224,7 +1203,7 @@
       "Vincent Motto‐Ros",
       "Lucie Sancey"
     ],
-    "cited_by_count": 21,
+    "cited_by_count": 20,
     "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.jneumeth.2022.109676",
     "id": "https://openalex.org/W4285602622",
@@ -1261,7 +1240,7 @@
       "Benoît Busser",
       "Mohamed Bendellaa",
       "Fabien Dalonneau",
-      "Catherine J. Morrison Paul",
+      "Catherine Paul",
       "Xavier Le Guével",
       "Véronique Josserand",
       "Jean‐Luc Coll",
@@ -1296,7 +1275,7 @@
       "Franck Denat",
       "Ali Bettaı̈eb",
       "Lucie Sancey",
-      "Catherine J. Morrison Paul",
+      "Catherine Paul",
       "Christine Goze",
       "Ewen Bodio"
     ],
@@ -1314,13 +1293,39 @@
   },
   {
     "authors": [
+      "Ute Resch‐Genger",
+      "K. David Wegner",
+      "Ghadir Kalot",
+      "Benoît Busser",
+      "Jacques Pliquett",
+      "U. Köster",
+      "J. C. Koll",
+      "Franck Denat",
+      "Ewen Bodio",
+      "Christine Goze",
+      "L. Sacey"
+    ],
+    "cited_by_count": 0,
+    "display_on_site": true,
+    "doi": null,
+    "id": "https://openalex.org/W3216407065",
+    "is_open_access": false,
+    "is_retracted": false,
+    "publication_date": "2021-01-01",
+    "publication_year": 2021,
+    "source": "",
+    "title": "NIR aza-BODIPY: a new vector for boron neutron capture therapy (BNCT)",
+    "type": "article"
+  },
+  {
+    "authors": [
       "Pierre Lelièvre",
       "Lucie Sancey",
       "Jean‐Luc Coll",
       "Aurélien Deniaud",
       "Benoît Busser"
     ],
-    "cited_by_count": 272,
+    "cited_by_count": 271,
     "display_on_site": true,
     "doi": "https://doi.org/10.3390/cancers12123594",
     "id": "https://openalex.org/W3093033192",
@@ -1351,46 +1356,6 @@
     "source": "Cancers",
     "title": "Iron Dysregulation in Human Cancer: Altered Metabolism, Biomarkers for Diagnosis, Prognosis, Monitoring and Rationale for Therapy",
     "type": "article"
-  },
-  {
-    "authors": [
-      "Pierre Lelièvre",
-      "Lucie Sancey",
-      "Jean‐Luc Coll",
-      "Aurélien Deniaud",
-      "Benoît Busser"
-    ],
-    "cited_by_count": 17,
-    "display_on_site": false,
-    "doi": "https://doi.org/10.20944/preprints202010.0447.v1",
-    "id": "https://openalex.org/W3121741001",
-    "is_open_access": true,
-    "is_retracted": false,
-    "publication_date": "2020-10-22",
-    "publication_year": 2020,
-    "source": "Preprints.org",
-    "title": "Iron Dysregulation in Human Cancer: Altered Metabolism, Biomarkers for Diagnosis, Prognosis, Monitoring and Rationale for Therapy",
-    "type": "preprint"
-  },
-  {
-    "authors": [
-      "Pierre Lelièvre",
-      "Lucie Sancey",
-      "Jean‐Luc Coll",
-      "Aurélien Deniaud",
-      "Benoît Busser"
-    ],
-    "cited_by_count": 41,
-    "display_on_site": false,
-    "doi": "https://doi.org/10.20944/preprints202010.0353.v1",
-    "id": "https://openalex.org/W3122109479",
-    "is_open_access": true,
-    "is_retracted": false,
-    "publication_date": "2020-10-16",
-    "publication_year": 2020,
-    "source": "Preprints.org",
-    "title": "The Multifaceted Roles of Copper in Cancer: a Trace Metal Element with Dysregulated Metabolism, but also a Target or a Bullet for Therapy",
-    "type": "preprint"
   },
   {
     "authors": [
@@ -1431,7 +1396,7 @@
       "Lucie Sancey",
       "Hélène Elleaume"
     ],
-    "cited_by_count": 74,
+    "cited_by_count": 72,
     "display_on_site": true,
     "doi": "https://doi.org/10.1002/advs.202001675",
     "id": "https://openalex.org/W3083377677",
@@ -1511,7 +1476,7 @@
       "Christine Goze",
       "Lucie Sancey"
     ],
-    "cited_by_count": 90,
+    "cited_by_count": 89,
     "display_on_site": true,
     "doi": "https://doi.org/10.1021/acs.bioconjchem.0c00175",
     "id": "https://openalex.org/W3013421612",
@@ -1564,7 +1529,7 @@
       "Amandine Hurbin",
       "May  Catherine Morris"
     ],
-    "cited_by_count": 23,
+    "cited_by_count": 22,
     "display_on_site": true,
     "doi": "https://doi.org/10.7150/thno.40971",
     "id": "https://openalex.org/W3004228099",
@@ -1730,7 +1695,7 @@
       "Benoît Busser",
       "Amandine Hurbin"
     ],
-    "cited_by_count": 17,
+    "cited_by_count": 15,
     "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.bcp.2018.12.004",
     "id": "https://openalex.org/W2905228592",
@@ -1752,7 +1717,7 @@
       "Vincent Motto‐Ros",
       "Benoît Busser"
     ],
-    "cited_by_count": 157,
+    "cited_by_count": 155,
     "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.sab.2018.11.006",
     "id": "https://openalex.org/W2900927048",
@@ -1769,7 +1734,7 @@
       "Jérôme Alexandre Denis",
       "Juliette Nectoux",
       "Pierre‐Jean Lamy",
-      "Christelle Rouillac Le Sciellour",
+      "Christelle Rouillac",
       "Hélène Guermouche",
       "Anne‐Sophie Alary",
       "Olivier Kosmider",
@@ -1806,7 +1771,7 @@
       "Benoît Busser",
       "Stéphane Gibaud"
     ],
-    "cited_by_count": 12,
+    "cited_by_count": 11,
     "display_on_site": true,
     "doi": "https://doi.org/10.1111/jphp.12998",
     "id": "https://openalex.org/W2888069982",
@@ -1848,7 +1813,7 @@
       "Marine Leprince",
       "S. Moncayo",
       "Frédéric Pelascini",
-      "J-L Coll",
+      "Jean‐Luc Coll",
       "Vincent Bonneterre",
       "Vincent Motto‐Ros",
       "Lucie Sancey"
@@ -1902,12 +1867,12 @@
       "Olivia Freynet",
       "Dominique Valeyre",
       "Catherine Cavalin",
-      "P.A. Rosental",
+      "Paul‐André Rosental",
       "Ana-Maria Trunfio-Sfarghiu",
       "François Arbib",
       "Christophe Pison",
       "Vincent Bonneterre",
-      "Vincent Motto-Ros",
+      "Vincent Motto‐Ros",
       "M. Vincent"
     ],
     "cited_by_count": 0,
@@ -1930,7 +1895,7 @@
       "Lucie Sancey",
       "Vincent Motto‐Ros"
     ],
-    "cited_by_count": 174,
+    "cited_by_count": 172,
     "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.ccr.2017.12.006",
     "id": "https://openalex.org/W2780806931",
@@ -1957,7 +1922,7 @@
       "Vincent Motto‐Ros",
       "Lucie Sancey"
     ],
-    "cited_by_count": 42,
+    "cited_by_count": 41,
     "display_on_site": true,
     "doi": "https://doi.org/10.1038/modpathol.2017.152",
     "id": "https://openalex.org/W2769442935",
@@ -1980,7 +1945,7 @@
       "Marianne Kambouchner",
       "Vincent Bonneterre",
       "Michel Vincent",
-      "Vincent Motto Ros"
+      "Vincent Motto‐Ros"
     ],
     "cited_by_count": 0,
     "display_on_site": false,
@@ -2054,7 +2019,7 @@
       "S. Moncayo",
       "Florian Trichard",
       "Benoît Busser",
-      "M. Sabatier-Vincent",
+      "Vincent Motto‐Ros",
       "Frédéric Pelascini",
       "Nicole Pinel",
       "Isabelle Templier",
@@ -2103,6 +2068,65 @@
   },
   {
     "authors": [
+      "Benoît Busser",
+      "Vincent Motto‐Ros",
+      "Florian Trichard",
+      "Nicole Pinel",
+      "Vincent Bonneterre",
+      "Philippe Dugourd",
+      "Jean‐Luc Coll",
+      "Michel D'Incan",
+      "Vincent Motto‐Ros",
+      "Julie Charles",
+      "Lucie Sancey"
+    ],
+    "cited_by_count": 0,
+    "display_on_site": true,
+    "doi": "https://doi.org/10.1016/j.annder.2016.09.322",
+    "id": "https://openalex.org/W2555984965",
+    "is_open_access": false,
+    "is_retracted": false,
+    "publication_date": "2016-11-23",
+    "publication_year": 2016,
+    "source": "Annales de Dermatologie et de Vénéréologie",
+    "title": "La spectroscopie laser : une nouvelle aide au diagnostic pathologique",
+    "type": "article"
+  },
+  {
+    "authors": [
+      "E. Maubec",
+      "A. Lévy",
+      "Claire Cropet",
+      "Julien Mazières",
+      "Xavier Troussard",
+      "Sophie Leboulleux",
+      "David Malka",
+      "M. Dinulescu",
+      "Florence Granel‐Brocard",
+      "D. Legoupil",
+      "F. Truchetet",
+      "Stéphane Dalle",
+      "M.‐T. Leccia",
+      "Natalie Hoog-Labouret",
+      "Martha Jimenez",
+      "Benoît Busser",
+      "Julie Charles",
+      "Jean‐Yves Blay"
+    ],
+    "cited_by_count": 0,
+    "display_on_site": true,
+    "doi": "https://doi.org/10.1016/j.annder.2016.09.635",
+    "id": "https://openalex.org/W2550867412",
+    "is_open_access": false,
+    "is_retracted": false,
+    "publication_date": "2016-11-23",
+    "publication_year": 2016,
+    "source": "Annales de Dermatologie et de Vénéréologie",
+    "title": "Carcinomes épidermoïdes cutanés induits par le vémurafénib chez les patients atteints de tumeurs non mélanocytaires",
+    "type": "article"
+  },
+  {
+    "authors": [
       "Victor Jeannot",
       "Benoît Busser",
       "Laetitia Vanwonterghem",
@@ -2136,7 +2160,7 @@
       "David Malka",
       "M. Dinulescu",
       "Florence Granel‐Brocard",
-      "D. Le Goupil",
+      "D. Legoupil",
       "F. Truchetet",
       "Stéphane Dalle",
       "M.‐T. Leccia",
@@ -2216,10 +2240,10 @@
       "Shady Kotb",
       "Jean‐Michel Benoit",
       "A. Piednoir",
-      "Femke Lux",
+      "François Lux",
       "Olivier Tillement",
       "G. Panczer",
-      "J. Yu"
+      "Jia Yu"
     ],
     "cited_by_count": 15,
     "display_on_site": false,
@@ -2291,7 +2315,7 @@
       "Sylvie Lantuéjoul",
       "Jean‐Luc Coll",
       "Annabelle Varrot",
-      "Jacques Le Pendu",
+      "Jacques LePendu",
       "Benoît Busser",
       "Anne Imberty"
     ],
@@ -2358,7 +2382,7 @@
       "Elisabeth M. Brambilla",
       "Marie Wislez",
       "Blaise Robin",
-      "J. Cadranel",
+      "Jacques L. Cadranel",
       "Jean‐Luc Coll",
       "Amandine Hurbin"
     ],
@@ -2387,7 +2411,7 @@
       "G. Panczer",
       "Jin Yu"
     ],
-    "cited_by_count": 168,
+    "cited_by_count": 169,
     "display_on_site": true,
     "doi": "https://doi.org/10.1038/srep06065",
     "id": "https://openalex.org/W2034421254",
@@ -2406,7 +2430,7 @@
       "Giacomo Fiandrino",
       "Benoît Busser"
     ],
-    "cited_by_count": 44,
+    "cited_by_count": 42,
     "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.jaad.2014.03.038",
     "id": "https://openalex.org/W2152044539",
@@ -2421,13 +2445,13 @@
   {
     "authors": [
       "Julie Charles",
-      "Catherine Martel",
+      "C. Martel",
       "Florence de Fraipont",
       "M.‐T. Leccia",
       "Caroline Robert",
       "Benoît Busser"
     ],
-    "cited_by_count": 28,
+    "cited_by_count": 31,
     "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.annder.2014.06.021",
     "id": "https://openalex.org/W2024067967",
@@ -2465,13 +2489,13 @@
   {
     "authors": [
       "Lucie Sancey",
-      "Motto-Ros",
+      "Vincent Motto‐Ros",
       "Shady Kotb",
       "Benoît Busser",
       "François Lux",
       "Olivier Tillement",
       "G. Panczer",
-      "Jiancheng Yu"
+      "Jia Yu"
     ],
     "cited_by_count": 1,
     "display_on_site": false,
@@ -2493,7 +2517,7 @@
       "Annabelle Varrot",
       "Adrien Breiman",
       "Benoît Busser",
-      "Jacques LePendu",
+      "Jacques Le Pendu",
       "Jean‐Luc Coll",
       "Anne Imberty"
     ],
@@ -2562,7 +2586,7 @@
       "Ivan Bricault",
       "Isabelle Templier",
       "A. Claeys",
-      "M. J. Richard",
+      "Marie‐Jeanne Richard",
       "Florence de Fraipont",
       "Julie Charles"
     ],
@@ -2589,7 +2613,7 @@
       "Jean‐Luc Coll",
       "Amandine Hurbin"
     ],
-    "cited_by_count": 59,
+    "cited_by_count": 60,
     "display_on_site": true,
     "doi": "https://doi.org/10.1002/ijc.28594",
     "id": "https://openalex.org/W1543661498",
@@ -2631,7 +2655,7 @@
       "Benoît Busser",
       "Florence de Fraipont",
       "Émilie Reymond",
-      "Anne McLeer‐Florin",
+      "Anne Mc Leer",
       "L MESCAM-MANCINI",
       "Denis Moro‐Sibilot",
       "Elisabeth M. Brambilla",
@@ -2699,7 +2723,7 @@
       "Jean‐Luc Coll",
       "Amandine Hurbin"
     ],
-    "cited_by_count": 261,
+    "cited_by_count": 253,
     "display_on_site": true,
     "doi": "https://doi.org/10.1016/j.bbcan.2011.05.003",
     "id": "https://openalex.org/W2027678100",
@@ -2726,7 +2750,7 @@
       "Jean‐Luc Coll",
       "Elisabeth M. Brambilla"
     ],
-    "cited_by_count": 50,
+    "cited_by_count": 52,
     "display_on_site": true,
     "doi": "https://doi.org/10.1002/path.2897",
     "id": "https://openalex.org/W2015849106",
@@ -2789,7 +2813,7 @@
       "Virginie Poulot",
       "Jean‐Luc Coll",
       "Marie Wislez",
-      "J. Cadranel",
+      "Jacques L. Cadranel",
       "Amandine Hurbin"
     ],
     "cited_by_count": 2,
@@ -2827,11 +2851,11 @@
       "Véronique Josserand",
       "Carole Niang",
       "Saadi Khochbin",
-      "Marie Favrot",
+      "M Favrot",
       "Jean‐Luc Coll",
       "Amandine Hurbin"
     ],
-    "cited_by_count": 44,
+    "cited_by_count": 45,
     "display_on_site": true,
     "doi": "https://doi.org/10.1038/mt.2009.227",
     "id": "https://openalex.org/W1986047321",
@@ -2849,11 +2873,11 @@
       "Lucie Sancey",
       "Véronique Josserand",
       "Carole Niang",
-      "Marie Favrot",
+      "M Favrot",
       "Jean‐Luc Coll",
       "Amandine Hurbin"
     ],
-    "cited_by_count": 59,
+    "cited_by_count": 58,
     "display_on_site": true,
     "doi": "https://doi.org/10.1038/mt.2009.226",
     "id": "https://openalex.org/W2006881103",
@@ -2922,13 +2946,13 @@
   {
     "authors": [
       "Benoît Busser",
-      "E. Brambilla",
-      "David Moro",
+      "Elisabeth M. Brambilla",
+      "Denis Moro‐Sibilot",
       "Jean‐Luc Coll",
       "Virginie Poulot",
       "Marie Wislez",
       "M Favrot",
-      "J. Cadranel",
+      "Jacques L. Cadranel",
       "Amandine Hurbin"
     ],
     "cited_by_count": 0,
