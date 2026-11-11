@@ -1,140 +1,263 @@
-# Updating the website
+# Mémo — mettre à jour le site web professionnel
 
-This file is a private maintenance note for the GitHub repository. It is **not rendered as a public website page**.
+Ce fichier est un **mode d'emploi privé** du dépôt GitHub. Il n'est pas publié sur le site.
 
-The site is built with Quarto. In normal use, you only need to edit `.qmd` files or upload images. GitHub Actions rebuilds and publishes the site automatically after each commit.
+## Le principe à retenir
 
-## 1. Add an image
+Le site est construit avec **Quarto + GitHub Pages**.
 
-Upload image files to the `images/` folder:
+Dans la plupart des cas :
 
-1. Open the repository on GitHub.
-2. Open `images/`.
-3. Click **Add file → Upload files**.
-4. Drag the image into the browser.
-5. Click **Commit changes**.
+1. modifier un fichier ou déposer une image dans GitHub ;
+2. cliquer sur **Commit changes** ;
+3. GitHub Actions reconstruit automatiquement le site ;
+4. vérifier le résultat sur **https://bbusser-dev.github.io**.
 
-Recommended file names:
-
-- lowercase only
-- no spaces
-- no accents
-- short and descriptive
-
-Examples:
-
-`biolibs-inauguration-2025.jpg`
-
-`metals-health-team.jpg`
-
-`libs-microscope.jpg`
-
-To display an image from a root-level `.qmd` page:
-
-```markdown
-![BioLIBS platform](images/libs-microscope.jpg)
-```
-
-To control its width:
-
-```markdown
-![BioLIBS platform](images/libs-microscope.jpg){width=70%}
-```
-
-## 2. Add a News item
-
-Create a new folder inside `news/posts/`, for example:
-
-`news/posts/new-paper-libs-2026/`
-
-Then create an `index.qmd` file inside it:
-
-```yaml
----
-title: "New LIBS publication"
-date: 2026-09-15
-description: "A short one-line description shown on the News page."
-categories: [Publication, LIBS]
 ---
 
-A short text explaining the news.
+# 1. Voir le site comme un visiteur
 
-[Read the paper](https://doi.org/...)
+Ouvrir :
+
+**https://bbusser-dev.github.io**
+
+C'est la version réellement publiée.
+
+Après une modification, attendre que le workflow GitHub soit terminé :
+
+1. ouvrir le dépôt GitHub ;
+2. cliquer sur l'onglet **Actions** ;
+3. ouvrir le workflow **Publish Quarto website** le plus récent ;
+4. attendre le statut vert **Success** ;
+5. recharger **https://bbusser-dev.github.io** avec Ctrl+F5 si nécessaire.
+
+Si le workflow est rouge, ne pas multiplier les corrections au hasard : regarder l'étape en erreur ou demander à ChatGPT de la diagnostiquer.
+
+---
+
+# 2. Ajouter une image
+
+Toutes les images générales du site doivent être déposées dans :
+
+`images/`
+
+Dans GitHub :
+
+1. ouvrir le dossier **images** ;
+2. cliquer sur **Add file → Upload files** ;
+3. glisser-déposer l'image ;
+4. choisir un nom simple ;
+5. cliquer sur **Commit changes**.
+
+Nommage conseillé :
+
+- minuscules ;
+- pas d'espace ;
+- pas d'accent ;
+- nom descriptif.
+
+Exemples :
+
+`biolibs-microscope.jpg`
+
+`libs-lung-si-al-fe.jpg`
+
+`metals-health-team-2026.jpg`
+
+## Afficher l'image dans une page
+
+Dans une page située à la racine du site :
+
+```markdown
+![BioLIBS platform](images/biolibs-microscope.jpg)
 ```
 
-Quarto automatically sorts News by date.
+Avec largeur contrôlée :
 
-## 3. Add an image to a News item
+```markdown
+![BioLIBS platform](images/biolibs-microscope.jpg){width=75%}
+```
 
-The easiest approach is to put the image in the same News folder as the `index.qmd` file.
-
-Example:
-
-`news/posts/new-paper-libs-2026/image.jpg`
-
-Then add this to the YAML header:
+Pour une image de News, le plus simple est de la mettre directement dans le dossier du billet, puis d'ajouter dans son en-tête :
 
 ```yaml
 image: image.jpg
 ```
 
-This allows Quarto to use the image as the News thumbnail.
+---
 
-## 4. Edit normal text
+# 3. Ajouter ou modifier un projet / essai clinique
 
-Open the relevant `.qmd` file, click the pencil icon, edit the text and click **Commit changes**.
+Les projets ne doivent plus être recopiés dans plusieurs pages.
 
-Main files:
+La source unique est :
 
-- `index.qmd` — homepage
-- `about.qmd` — biography
-- `research.qmd` — research overview
-- `biolibs.qmd` — BioLIBS
-- `clinical-research.qmd` — clinical and translational projects
-- `publications.qmd` — publication page shell (publication entries are automatic)
-- `contact.qmd` — contact page
-- `news/index.qmd` — News listing configuration
+`data/projects.yaml`
 
-## 5. Add a link
+Chaque projet ressemble à ceci :
 
-Markdown link:
-
-```markdown
-[Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/)
+```yaml
+- acronym: "PNEUMO-LIBS"
+  title: "Multi-elemental imaging in pulmonary disease"
+  period: "2026–"
+  role: "Coordinator · Principal Investigator"
+  kind: "Clinical research"
+  theme: "Elemental imaging"
+  clinical: true
+  featured_home: true
+  order: 10
+  description: "Description courte du projet."
 ```
 
-Button:
+Après modification et commit, GitHub reconstruit automatiquement :
 
-```markdown
-[Learn more](https://example.org){.btn .btn-primary}
+- les cartes de la page **Projects** ;
+- les projets de **Clinical Research** ;
+- les projets sélectionnés de la page **Research** ;
+- les projets mis en avant sur la **Home**.
+
+Ne pas modifier manuellement :
+
+`generated/projects-all.md`
+
+`generated/projects-home.md`
+
+`generated/projects-clinical.md`
+
+Ils sont régénérés automatiquement.
+
+---
+
+# 4. Modifier le texte d'une page
+
+Principaux fichiers :
+
+- `index.qmd` — page d'accueil ;
+- `about.qmd` — biographie ;
+- `research.qmd` — recherche ;
+- `projects.qmd` — page des projets ;
+- `biolibs.qmd` — BioLIBS ;
+- `clinical-research.qmd` — recherche clinique ;
+- `publications.qmd` — cadre de la page Publications ;
+- `contact.qmd` — contact ;
+- `news/index.qmd` — configuration de la page News.
+
+Dans GitHub :
+
+1. ouvrir le fichier ;
+2. cliquer sur l'icône **crayon** ;
+3. modifier le texte ;
+4. **Commit changes** ;
+5. vérifier le workflow **Actions** ;
+6. regarder le résultat sur le site.
+
+---
+
+# 5. Ajouter une News
+
+Créer un dossier sous :
+
+`news/posts/`
+
+Exemple :
+
+`news/posts/2026-nouvelle-publication-libs/`
+
+Puis créer dedans un fichier :
+
+`index.qmd`
+
+Exemple :
+
+```yaml
+---
+title: "New LIBS publication"
+date: 2026-11-11
+description: "Short description shown on the News page."
+categories: [Publications, Elemental imaging]
+image: image.jpg
+---
+
+Texte du billet.
+
+[Read the paper](https://doi.org/...)
 ```
 
-## 6. Publications
+Catégories recommandées : rester dans le petit vocabulaire existant et éviter de créer des synonymes.
 
-Do **not** manually edit `generated/publications.md` or `data/openalex_publications.json`.
+---
 
-They are generated automatically from OpenAlex using ORCID every week by GitHub Actions.
+# 6. Publications
 
-Google Scholar remains available as an external profile link.
+Ne pas modifier manuellement :
 
-## 7. Dark mode and visual design
+`generated/publications.md`
 
-The light/dark theme configuration is in `_quarto.yml`.
+`data/openalex_publications.json`
 
-The custom visual appearance is in `styles.css`.
+La liste est mise à jour automatiquement depuis **OpenAlex / ORCID**.
 
-Routine content updates should normally **not** require editing `styles.css`.
+Pour contrôler le résultat final, regarder :
 
-## 8. If something goes wrong
+**https://bbusser-dev.github.io/publications.html**
 
-Do not panic: every GitHub commit is reversible.
+Google Scholar reste disponible comme profil externe complémentaire.
 
-The simplest workflow is to send ChatGPT the change you want in plain language, for example:
+---
 
-> Add this image to the BioLIBS page after the technology paragraph.
+# 7. Graphisme et mode sombre
 
-or
+Les réglages visuels sont principalement dans :
 
-> Create a News item announcing this paper using this DOI.
+`styles.css`
 
-The repository can then be updated directly without local software or terminal commands.
+Le bouton soleil/lune est géré par :
+
+`theme-toggle.html`
+
+`theme-toggle.css`
+
+La configuration générale Quarto est dans :
+
+`_quarto.yml`
+
+Pour les modifications ordinaires de contenu, ne pas toucher à ces fichiers.
+
+---
+
+# 8. Vérification rapide après toute modification
+
+Checklist :
+
+- [ ] le fichier a bien été enregistré par un **Commit changes** ;
+- [ ] l'onglet **Actions** montre un workflow récent ;
+- [ ] **Publish Quarto website** est vert ;
+- [ ] ouvrir **https://bbusser-dev.github.io** ;
+- [ ] vérifier ordinateur + fenêtre étroite/mobile ;
+- [ ] tester le bouton soleil/lune ;
+- [ ] cliquer sur les nouveaux liens ;
+- [ ] vérifier que les images ne sont ni cassées ni trop grandes.
+
+---
+
+# 9. Si je ne veux pas manipuler GitHub moi-même
+
+Donner simplement à ChatGPT l'instruction en langage naturel, par exemple :
+
+> Ajoute cette image à la page BioLIBS après le paragraphe sur l'instrument.
+
+> Ajoute ce nouvel essai clinique dans Projects et Clinical Research.
+
+> Crée une News à partir de ce DOI et de cette image.
+
+> Corrige ce texte dans About.
+
+ChatGPT peut modifier directement ce dépôt GitHub.
+
+---
+
+# 10. Règle simple
+
+**Contenu unique, réutilisable, puis génération automatique.**
+
+Quand une information existe dans un fichier structuré comme `data/projects.yaml`, ne pas la recopier ailleurs à la main.
