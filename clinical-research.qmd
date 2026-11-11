@@ -4,6 +4,8 @@ toc: false
 ---
 
 ::: {.page-intro}
+<div class="home-kicker">Clinical translation</div>
+
 # Clinical & translational research
 
 A major goal of my work is to move elemental and molecular imaging from analytical development toward **clinically interpretable questions**, particularly in respiratory disease, occupational and environmental exposure, cancer and biomaterials.
@@ -13,39 +15,7 @@ A major goal of my work is to move elemental and molecular imaging from analytic
 
 LIBS tissue imaging can be applied to archived pathology specimens as well as prospectively collected samples. This creates a translational continuum from method development and retrospective tissue analysis to multicentre clinical research.
 
-:::: {.grid .research-grid}
-::: {.g-col-12 .g-col-md-6 .research-card}
-### MEDICO-LIBS
-
-A completed clinical research programme exploring elemental imaging of human tissues and the feasibility of bringing LIBS closer to medical applications.
-
-**Role:** coordination / principal investigator activities in the development of the programme.
-:::
-
-::: {.g-col-12 .g-col-md-6 .research-card}
-### PNEUMO-LIBS
-
-A multicentre programme focused on lung tissue from patients with interstitial lung disease, sarcoidosis and emphysema, with the aim of evaluating how elemental information may complement conventional pathological and clinical interpretation.
-
-**Translational question:** can tissue elemental signatures provide additional information relevant to diagnosis, exposure history or disease understanding?
-:::
-
-::: {.g-col-12 .g-col-md-6 .research-card}
-### K-LUNG-LIBS
-
-A lung cancer research programme studying elemental and particle-associated signatures in pulmonary tissue, with particular attention to occupational and environmental exposure.
-
-**Clinical interface:** pathology, pulmonology, occupational medicine and exposure assessment.
-:::
-
-::: {.g-col-12 .g-col-md-6 .research-card}
-### Sarcoidosis & granulomatous disease
-
-Elemental imaging approaches are being developed to investigate the possible contribution of exogenous elements and particles to granulomatous inflammatory disease.
-
-**Objective:** connect tissue chemistry, spatial pathology and environmental history.
-:::
-::::
+{{< include generated/projects-clinical.md >}}
 
 ## Why tissue elemental imaging matters clinically
 
@@ -61,8 +31,10 @@ These projects bring together analytical chemistry, pathology, pulmonology, occu
 
 ## Translational workflow
 
-**Clinical question → tissue selection → LIBS imaging → spatial interpretation → correlation with pathology and exposure → validation → potential clinical utility**
+<div class="workflow-ribbon">
+<span>Clinical question</span><b>→</b><span>Tissue selection</span><b>→</b><span>LIBS imaging</span><b>→</b><span>Spatial interpretation</span><b>→</b><span>Clinical correlation</span>
+</div>
 
 The same framework can be adapted to cancer, inflammatory disease, implanted materials and other clinical situations in which the elemental composition of tissue may carry useful information.
 
-<div class="closing-links">[Research overview](research.qmd) · [BioLIBS](biolibs.qmd) · [Publications](publications.qmd) · [Contact](contact.qmd)</div>
+<div class="closing-links">[Research overview](research.qmd) · [Projects](projects.qmd) · [BioLIBS](biolibs.qmd) · [Publications](publications.qmd) · [Contact](contact.qmd)</div>
