@@ -1,0 +1,22 @@
+---
+title: "Projects"
+description: "Clinical studies, research programmes and infrastructure led or co-led by Benoit Busser."
+page-layout: full
+toc: false
+---
+
+::: {.page-intro}
+<div class="home-kicker">Projects & programmes</div>
+
+# From analytical development to clinical studies
+
+The projects below connect **elemental imaging, exposure science, cancer research and clinical translation**. They are maintained from a structured project file so that programme information can be reused consistently across the website.
+:::
+
+{{< include generated/projects-all.md >}}
+
+::: {.project-note}
+**A structured website.** Project metadata are stored separately from page design. This makes it possible to reuse the same information later in the academic CV, research pages and other outputs without re-entering it manually.
+:::
+
+<div class="closing-links">[Research overview](research.qmd) · [Clinical Research](clinical-research.qmd) · [BioLIBS](biolibs.qmd) · [Publications](publications.qmd)</div>
