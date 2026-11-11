@@ -10,12 +10,6 @@ listing:
   fields: [date, title, description, categories]
 ---
 
-<!--
-MAINTENANCE NOTE
-Routine updates: edit the visible text in this file.
-The visual appearance is controlled by styles.css.
--->
-
 ::: {.home-hero}
 :::: {.grid .align-items-center}
 ::: {.g-col-12 .g-col-lg-8 .home-hero-copy}
@@ -28,88 +22,53 @@ The visual appearance is controlled by styles.css.
 I develop translational research at the interface of **clinical biochemistry, pathology, environmental and occupational health, cancer sciences and analytical imaging**. A central focus of my work is the use of **laser-induced breakdown spectroscopy (LIBS)** to map chemical elements directly in human tissues and connect tissue chemistry with exposure, disease and clinical questions.
 
 [Explore research](research.qmd){.btn .btn-primary .btn-lg}
-[BioLIBS](biolibs.qmd){.btn .btn-outline-primary .btn-lg}
+[Projects](projects.qmd){.btn .btn-outline-primary .btn-lg}
 [Publications](publications.qmd){.btn .btn-outline-secondary .btn-lg}
 
 <div class="profile-links">[Google Scholar](https://scholar.google.com/citations?user=e_RbDdUAAAAJ&hl=fr) · [ORCID](https://orcid.org/0000-0002-9425-1577) · [HAL](https://cv.hal.science/benoit-busser) · [LinkedIn](https://fr.linkedin.com/in/bbusser) · [IAB profile](https://iab-grenoble.fr/fr/recherche/equipe/fiche/benoit-busser) · [IUF profile](https://www.iufrance.fr/les-membres-de-liuf/membre/2218-benoit-busser.html)</div>
 :::
 
 ::: {.g-col-12 .g-col-lg-4 .home-portrait-wrap}
+<div>
 <img src="https://iab-grenoble.fr/public/upload/researchers/Benoit-BUSSER.png" class="home-portrait" alt="Portrait of Benoit Busser" loading="eager">
+<div class="elemental-signature" aria-label="Research themes: silicon, aluminium, iron, titanium and copper"><span>Si</span><span>Al</span><span>Fe</span><span>Ti</span><span>Cu</span></div>
+</div>
 :::
 ::::
 :::
-
-## Current roles
-
-:::: {.grid .home-grid .roles-grid}
-::: {.g-col-12 .g-col-md-6 .home-card .role-card}
-### Academic & research
-
-**Full Professor of Biochemistry and Cancer Sciences**  
-Université Grenoble Alpes · School of Pharmacy
-
-**Group leader — “Metals & Health”**  
-Institute for Advanced Biosciences (IAB · UGA / Inserm / CNRS)
-
-**Scientific director — BioLIBS**  
-Université Grenoble Alpes tissue elemental imaging platform, instrument installed at CHU Grenoble Alpes
-:::
-
-::: {.g-col-12 .g-col-md-6 .home-card .role-card}
-### Clinical & institutional
-
-**Senior clinical biochemist**  
-Grenoble Alpes University Hospital
-
-**Head of Point-of-Care Testing**  
-Department of Laboratory Medicine
-
-**Junior Fellow**  
-Institut Universitaire de France · promotion 2021
-:::
-::::
 
 ## Research at a glance
 
 :::: {.grid .home-grid}
 ::: {.g-col-12 .g-col-md-4 .home-card}
 <div class="card-label">01</div>
-
 ### Elemental pathology & exposure
-
 Tissue elemental imaging to detect, localize and quantify endogenous and exogenous chemical elements and particle-associated signatures in biological specimens.
-
-**Applications:** respiratory disease, occupational and environmental exposure, inflammatory disease, cancer and biomaterials.
 :::
-
 ::: {.g-col-12 .g-col-md-4 .home-card}
 <div class="card-label">02</div>
-
 ### Cancer & nanomedicine
-
 Translational cancer research combining tumor biology, analytical sciences, molecular imaging and innovative therapeutic or theranostic approaches.
-
-**Focus:** clinically meaningful mechanisms, biomarkers and technologies for precision medicine.
 :::
-
 ::: {.g-col-12 .g-col-md-4 .home-card}
 <div class="card-label">03</div>
-
-### Clinical biochemistry
-
-Laboratory medicine and point-of-care testing provide the clinical anchor for my research and teaching activities.
-
-**Approach:** move analytical innovation toward robust, interpretable and clinically relevant applications.
+### Clinical translation
+Clinical biochemistry and pathology provide the anchor for moving analytical innovation toward robust and interpretable applications.
 :::
 ::::
+
+## Selected programmes
+
+{{< include generated/projects-home.md >}}
+
+[All projects →](projects.qmd){.btn .btn-outline-primary}
 
 ::: {.home-highlight}
 <div class="home-kicker">Featured platform</div>
 
 ## BioLIBS — seeing the elemental composition of human tissues
 
-BioLIBS is a **Université Grenoble Alpes platform** dedicated to multi-elemental tissue imaging by LIBS, with the instrument installed at **Grenoble Alpes University Hospital**. Inaugurated in December 2025, it is designed to investigate how metals, mineral particles and other chemical elements are distributed in tissues and how these signatures can inform research on environmental and occupational exposure, disease mechanisms and future diagnostic applications.
+BioLIBS is a **Université Grenoble Alpes platform** dedicated to multi-elemental tissue imaging by LIBS, with the instrument installed at **Grenoble Alpes University Hospital**. It is designed to investigate how metals, mineral particles and other chemical elements are distributed in tissues and how these signatures can inform research on environmental and occupational exposure, disease mechanisms and future diagnostic applications.
 
 [Discover BioLIBS →](biolibs.qmd){.btn .btn-primary}
 [UGA innovation platform profile](https://pole-universitaire-innovation.univ-grenoble-alpes.fr/plateforme-bio-libs-0){.btn .btn-outline-primary}
@@ -124,6 +83,6 @@ BioLIBS is a **Université Grenoble Alpes platform** dedicated to multi-elementa
 
 ## From tissue chemistry to clinical questions
 
-My work is organized around a simple translational question: **what is present in a tissue, where is it located, and what does it mean for disease, exposure or patient care?** This requires bringing together analytical chemistry, pathology, clinical biochemistry, imaging, environmental health and medicine.
+My work is organized around a simple translational question: **what is present in a tissue, where is it located, and what does it mean for disease, exposure or patient care?**
 
-<div class="closing-links">[Research](research.qmd) · [Publications](publications.qmd) · [News](news/index.qmd) · [About](about.qmd) · [Contact](contact.qmd)</div>
+<div class="closing-links">[Research](research.qmd) · [Projects](projects.qmd) · [Publications](publications.qmd) · [News](news/index.qmd) · [About](about.qmd) · [Contact](contact.qmd)</div>
