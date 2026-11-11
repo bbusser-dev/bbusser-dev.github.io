@@ -21,7 +21,7 @@ My research focuses on **how chemical elements, particles and molecular processe
 
 Development of tissue elemental imaging workflows using **laser-induced breakdown spectroscopy (LIBS)**, with the aim of locating and quantifying metals and particle-associated elemental signatures directly in biological specimens.
 
-Key questions include analytical validation, spatial heterogeneity, rare-pixel detection, tissue preparation, semi-quantification and clinical interpretability.
+Key questions include analytical validation, spatial heterogeneity, tissue preparation, semi-quantification and clinical interpretability.
 
 [BioLIBS platform →](biolibs.qmd)
 :::
@@ -33,7 +33,7 @@ Key questions include analytical validation, spatial heterogeneity, rare-pixel d
 
 Mapping exogenous elements and mineral particles in lung tissue to better understand past exposure and its possible relationship with chronic respiratory disease.
 
-Applications include interstitial lung disease, sarcoidosis, emphysema and occupational lung disease, in close collaboration with pneumology, pathology and occupational medicine.
+Applications include interstitial lung disease, sarcoidosis, emphysema and occupational lung disease.
 :::
 
 ::: {.g-col-12 .g-col-md-6 .research-card}
@@ -42,8 +42,6 @@ Applications include interstitial lung disease, sarcoidosis, emphysema and occup
 ### Cancer sciences & nanomedicine
 
 Translational research in tumor biology, molecular imaging, nanomedicine and theranostics, including strategies designed to improve tumor detection, biodistribution assessment and therapeutic targeting.
-
-This work connects analytical methods with biologically and clinically relevant cancer models.
 :::
 
 ::: {.g-col-12 .g-col-md-6 .research-card}
@@ -53,37 +51,16 @@ This work connects analytical methods with biologically and clinically relevant 
 
 Development of clinically robust workflows from archived tissue studies to prospective and multicentre studies, with attention to reproducibility, pathology correlation, method validation and future diagnostic implementation.
 
-The long-term objective is to move elemental imaging from proof-of-concept experiments toward usable translational tools.
+[Clinical research →](clinical-research.qmd)
 :::
 ::::
 
-## Current translational programmes
+## Programmes in translation
 
-<div class="research-strip">
+{{< include generated/projects-home.md >}}
 
-### Lung exposure and respiratory disease
-
-A major part of the programme is dedicated to lung tissue. Ongoing projects explore whether elemental signatures can improve our understanding of exposure histories and disease mechanisms in **occupational lung disease, interstitial lung disease, sarcoidosis and lung cancer**.
-
-These studies make use of archived FFPE tissue and, where appropriate, prospectively collected clinical material.
-
-</div>
-
-<div class="research-strip">
-
-### Biomaterials and implants
-
-Elemental imaging is also used to study the distribution of metals released from biomaterials and implants. Spatial information can help connect material degradation, tissue response and local elemental accumulation.
-
-</div>
-
-<div class="research-strip">
-
-### Nanoparticle biodistribution
-
-LIBS can provide multi-element maps of metal-containing nanoparticles in tissues and can complement fluorescence, histology, electron microscopy and other analytical imaging approaches.
-
-</div>
+[Explore all projects →](projects.qmd){.btn .btn-primary}
+[Clinical studies →](clinical-research.qmd){.btn .btn-outline-primary}
 
 ## Methods and technology
 
