@@ -55,9 +55,12 @@ jobs:
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
-      - name: Normalize News categories
+      - name: Prepare structured content
         if: steps.changes.outputs.changed == 'true'
-        run: python scripts/normalize_news_categories.py
+        run: |
+          python -m pip install --quiet pyyaml
+          python scripts/normalize_news_categories.py
+          python scripts/render_projects.py
 
       - name: Setup Quarto
         if: steps.changes.outputs.changed == 'true'
