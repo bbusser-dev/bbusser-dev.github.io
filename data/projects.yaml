@@ -1,0 +1,81 @@
+# Structured source for projects and clinical studies.
+# Routine maintenance: add or edit entries here; generated website cards are rebuilt automatically.
+projects:
+  - acronym: "PNEUMO-LIBS"
+    title: "Multi-elemental imaging in pulmonary disease"
+    period: "2026–"
+    role: "Coordinator · Principal Investigator"
+    kind: "Clinical research"
+    theme: "Elemental imaging"
+    clinical: true
+    featured_home: true
+    order: 10
+    description: "Multicentre study using tissue elemental imaging to investigate interstitial lung disease, sarcoidosis and emphysema, and to relate spatial elemental signatures to pathology and exposure history."
+
+  - acronym: "K-LUNG-LIBS"
+    title: "Elemental imaging of lung cancer tissue"
+    period: "2026–"
+    role: "Coordinator · Principal Investigator"
+    kind: "Clinical research"
+    theme: "Exposure & cancer"
+    clinical: true
+    featured_home: true
+    order: 20
+    description: "Study of elemental and particle-associated signatures in lung cancer tissue, with particular attention to occupational and environmental exposure."
+
+  - acronym: "MAGICAL-HAT"
+    title: "Multi-elemental imaging of human tissues"
+    period: "2026–"
+    role: "Coordinator · Principal Investigator"
+    kind: "Clinical research"
+    theme: "Elemental pathology"
+    clinical: true
+    featured_home: true
+    order: 30
+    description: "Multicentre retrospective and prospective programme exploring multi-elemental imaging in human tissues and its translational interpretation."
+
+  - acronym: "MEDICO-LIBS"
+    title: "Multi-elemental imaging of lung tissues with LIBS"
+    period: "2019–"
+    role: "Coordinator · Principal Investigator"
+    kind: "Clinical research"
+    theme: "Respiratory disease"
+    clinical: true
+    featured_home: false
+    order: 40
+    external_url: "https://clinicaltrials.gov/study/NCT03901196"
+    description: "Multicentre retrospective and prospective study evaluating LIBS elemental imaging in human lung tissue and its potential medical applications."
+
+  - acronym: "METRIC"
+    title: "Metals and cutaneous sarcoidosis"
+    period: "2026–"
+    role: "Co-investigator"
+    kind: "Clinical research"
+    theme: "Sarcoidosis"
+    clinical: true
+    featured_home: false
+    order: 50
+    description: "Clinical study investigating metals in relation to cutaneous sarcoidosis."
+
+  - acronym: "READS"
+    title: "Metals and sarcoidosis"
+    period: "2024–"
+    role: "Co-investigator"
+    kind: "Clinical research"
+    theme: "Sarcoidosis"
+    clinical: true
+    featured_home: false
+    order: 60
+    description: "Research programme studying the possible contribution of metals to sarcoidosis."
+
+  - acronym: "BioLIBS"
+    title: "Tissue elemental imaging platform"
+    period: "2024–"
+    role: "Director"
+    kind: "Research infrastructure"
+    theme: "Elemental imaging"
+    clinical: false
+    featured_home: true
+    order: 5
+    internal_url: "biolibs.qmd"
+    description: "Université Grenoble Alpes platform for multi-elemental tissue imaging by LIBS, with the instrument installed at Grenoble Alpes University Hospital."
